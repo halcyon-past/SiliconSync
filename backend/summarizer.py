@@ -5,7 +5,7 @@ import logging
 from datetime import date
 from typing import Any
 
-import google.generativeai as genai
+from google import genai
 
 logger = logging.getLogger(__name__)
 
@@ -52,17 +52,20 @@ def summarize_articles(
     api_key: str,
     articles: list[dict[str, Any]],
     target_date: date,
-    model_name: str = "gemini-2.5-flash",
+    model_name: str = "gemini-2.0-flash",
 ) -> dict[str, str]:
     if not articles:
         raise ValueError("No articles provided for summarization")
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(model_name)
-
+    client = genai.Client(api_key=api_key)
     prompt = _prompt(articles=articles, target_date=target_date)
-    response = model.generate_content(prompt)
-    text = getattr(response, "text", "")
+
+    response = client.models.generate_content(
+        model=model_name,
+        contents=prompt,
+    )
+
+    text = response.text
 
     if not text:
         logger.error("Gemini returned empty response")
