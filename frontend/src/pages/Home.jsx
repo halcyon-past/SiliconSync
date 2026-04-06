@@ -21,7 +21,7 @@ function Home() {
 
   return (
     <div className="page-shell">
-      <Navbar />
+      <Navbar items={index} />
       {error ? <p className="error-box">{error}</p> : null}
       {!post ? (
         <LoadingSpinner />

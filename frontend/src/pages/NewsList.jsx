@@ -65,11 +65,11 @@ function NewsList() {
     setCurrentPage(1)
   }
 
-  if (loading) return <div className="page-shell"><Navbar /><LoadingSpinner /></div>
+  if (loading) return <div className="page-shell"><Navbar items={index} /><LoadingSpinner /></div>
 
   return (
     <div className="page-shell">
-      <Navbar />
+      <Navbar items={index} />
       <main className="archive-layout">
         <header className="archive-header">
           <h1>News <span>Archive</span></h1>

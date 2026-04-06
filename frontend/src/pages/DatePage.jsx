@@ -28,7 +28,7 @@ function DatePage() {
 
   return (
     <div className="page-shell">
-      <Navbar />
+      <Navbar items={index} />
       {!post && !error ? <LoadingSpinner /> : null}
       {error ? (
         <div className="not-found">
