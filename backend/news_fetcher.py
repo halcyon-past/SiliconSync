@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import logging
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from typing import Any
 
 import feedparser
@@ -67,7 +68,7 @@ async def _fetch_newsapi(client: httpx.AsyncClient, api_key: str | None) -> list
                 "title": article.get("title") or "Untitled",
                 "source": (article.get("source") or {}).get("name") or "NewsAPI",
                 "url": article.get("url"),
-                "published_at": article.get("publishedAt") or _utc_now_iso(),
+                "published_at": article.get("publishedAt") or _ist_now_iso(),
             }
         )
     return normalized
@@ -107,7 +108,7 @@ async def _fetch_gnews(client: httpx.AsyncClient, api_key: str | None) -> list[d
                 "title": article.get("title") or "Untitled",
                 "source": source_name,
                 "url": article.get("url"),
-                "published_at": article.get("publishedAt") or _utc_now_iso(),
+                "published_at": article.get("publishedAt") or _ist_now_iso(),
             }
         )
     return normalized
@@ -144,7 +145,7 @@ async def _fetch_mediastack(client: httpx.AsyncClient, api_key: str | None) -> l
                 "title": article.get("title") or "Untitled",
                 "source": article.get("source") or "MediaStack",
                 "url": article.get("url"),
-                "published_at": article.get("published_at") or _utc_now_iso(),
+                "published_at": article.get("published_at") or _ist_now_iso(),
             }
         )
     return normalized
@@ -181,7 +182,7 @@ async def _fetch_hn(client: httpx.AsyncClient) -> list[dict[str, Any]]:
                 "title": title,
                 "source": "Hacker News",
                 "url": url,
-                "published_at": hit.get("created_at") or _utc_now_iso(),
+                "published_at": hit.get("created_at") or _ist_now_iso(),
             }
         )
     return articles
@@ -216,11 +217,11 @@ def _entry_published_iso(entry: dict[str, Any]) -> str:
         raw = entry.get(key)
         if raw:
             return str(raw)
-    return _utc_now_iso()
+    return _ist_now_iso()
 
 
-def _utc_now_iso() -> str:
-    return datetime.now(tz=timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+def _ist_now_iso() -> str:
+    return datetime.now(tz=ZoneInfo("Asia/Kolkata")).replace(microsecond=0).isoformat()
 
 
 def _sort_key(article: dict[str, Any]) -> str:

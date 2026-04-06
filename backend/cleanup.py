@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import subprocess
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -27,7 +28,7 @@ def cleanup_old_news(days: int = 90) -> list[str]:
     if not entries:
         return []
 
-    cutoff = datetime.now(timezone.utc).date() - timedelta(days=days)
+    cutoff = datetime.now(tz=ZoneInfo("Asia/Kolkata")).date() - timedelta(days=days)
     kept_entries: list[dict] = []
     removed_dates: list[str] = []
 

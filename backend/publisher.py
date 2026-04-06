@@ -7,6 +7,7 @@ import os
 import subprocess
 import sys
 from datetime import date, datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -28,8 +29,8 @@ for path in [DATA_DIR, ASSETS_DIR]:
     path.mkdir(parents=True, exist_ok=True)
 
 
-def utc_now_iso() -> str:
-    return datetime.now(tz=timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+def ist_now_iso() -> str:
+    return datetime.now(tz=ZoneInfo("Asia/Kolkata")).replace(microsecond=0).isoformat()
 
 
 def _load_index() -> list[dict]:
@@ -151,7 +152,7 @@ def build_post(target_date: date) -> dict:
         "summary": ai_result["summary"],
         "articles": articles,
         "image_path": f"/assets/headers/{header_image_path.name}",
-        "generated_at": utc_now_iso(),
+        "generated_at": ist_now_iso(),
     }
 
     _write_json(DATA_DIR / f"{target_date.isoformat()}.json", post_payload)
@@ -168,7 +169,7 @@ def build_post(target_date: date) -> dict:
 
 
 def main() -> int:
-    target_date = date.today()
+    target_date = datetime.now(tz=ZoneInfo("Asia/Kolkata")).date()
     try:
         build_post(target_date)
         # We no longer handle git operations inside the python script.
