@@ -2,7 +2,7 @@
 
 SiliconSync is a fully automated, daily tech news blog that provides "Neon Noir" editorial summaries. It operates as a **Serverless Static Site**: a Python pipeline fetches news, summarizes it using Gemini, generates AI-powered hero images, and saves the data directly into the frontend's static directory.
 
-![SiliconSync Screenshot Placeholder](./frontend/public/siliconsync-screenshot-placeholder.svg)
+![SiliconSync Screenshot Placeholder](assets/SiliconSyncBanner.png)
 
 ## Project Overview
 
