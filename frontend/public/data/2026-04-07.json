@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "headline": "AI's Geopolitical Front: Cyber Threats, Economic Visions",
-  "summary": "The digital world woke up today to a stark reminder of technology's escalating role in global power dynamics, as news broke of Iran threatening 'Stargate' AI data centers. This ominous development underscores the intensifying geopolitical competition surrounding artificial intelligence infrastructure. Simultaneously, the shadow of cyber warfare loomed large with revelations that North Korea's operatives were not only deeply embedded in an open-source project for weeks but also actively attempting to infiltrate IT companies through elaborate deceptions. These incidents paint a sobering picture of nation-state actors leveraging technology's cutting edge and its foundational layers for strategic advantage and disruption.\n\nBeyond these national security concerns, AI continued its relentless march into the fabric of our economy and daily lives. OpenAI, a frontrunner in the field, unveiled a provocative vision for the AI economy, proposing radical ideas like public wealth funds, robot taxes, and even a four-day work week – a glimpse into how societal structures might need to adapt to pervasive automation. On a more immediate scale, ChatGPT's expanding integration with popular services like DoorDash, Spotify, and Uber showcased AI's growing utility, streamlining everyday tasks for millions. Even Elon Musk found a way to weave AI into his empire, reportedly insisting that banks eyeing a SpaceX IPO subscribe to his Grok AI service.\n\nMeanwhile, the perennial battles between tech giants, regulators, and consumer advocates continued to simmer. Apple once again escalated its long-running App Store dispute with Epic Games to the Supreme Court, signaling no end in sight to the fight over platform control and revenue shares. On the policy front, Colorado's landmark right-to-repair law faces a concerted effort by tech companies seeking to dilute its provisions, highlighting the ongoing struggle for consumer autonomy over their purchased devices. In the automotive sector, Tesla secured a win as safety regulators closed their investigation into its remote parking feature, suggesting a degree of trust in its advanced driver-assistance systems.\n\nAmidst these terrestrial and digital skirmishes, humanity's gaze remained fixed on the stars. The Artemis II mission continued its journey to the Moon, reportedly 'swimmingly,' with updates even addressing the triviality of frozen urine – a testament to its smooth progress despite a looming proposed budget cut from the Trump administration. Back on Earth, market dynamics showed a clear shift: used EV sales spiked alongside rising gas prices, indicating a growing consumer pivot towards electric vehicles as economic pressures mount. These stories collectively illustrate a landscape of rapid technological evolution, complex geopolitical tensions, and ongoing debates over who controls the future of our digital and physical worlds.\n\nAs AI development accelerates and its geopolitical implications deepen, the coming months will undoubtedly bring more intense scrutiny from national security agencies and international bodies. Furthermore, expect the ongoing regulatory and legal battles over platform control and consumer rights to intensify, shaping the operational landscape for major tech players. The convergence of these powerful forces promises a volatile yet transformative path ahead, demanding constant vigilance and adaptation from all stakeholders.",
+  "headline": "OpenAI's Fault Lines, Global Cyber Threats Emerge",
+  "summary": "The tech world woke today to palpable tension, with whispers from within OpenAI casting a long shadow over the industry's most influential AI developer. Reports suggest a deep mistrust of CEO Sam Altman among some insiders, even as the company outlines an ambitious, almost utopian vision for the future AI economy – complete with public wealth funds, robot taxes, and a four-day workweek. This internal friction comes as OpenAI alums are quietly funneling capital into a new, potentially $100 million investment fund, signaling both internal dissent and a vibrant, yet fragmented, ecosystem forming around the AI pioneer.\n\nBeyond the corporate drama, the rapid evolution of AI continues to reshape our digital landscape. Google quietly rolled out an offline-capable AI dictation app, bringing advanced natural language processing to users even without an internet connection – a practical innovation with widespread appeal. However, the promise of AI is increasingly intertwined with geopolitical fragility. Iran's alarming threats against \"Stargate\" AI data centers underscore the critical vulnerability of the infrastructure powering the next generation of computing, injecting a fresh layer of concern into the global tech race.\n\nMeanwhile, a stark reminder of escalating cyber warfare emerged with chilling reports detailing North Korea's sophisticated cyber intrusions. The regime's long-suspected hijack of a widely used open-source project, potentially weeks in the making, highlights a pervasive supply chain risk for global software. Further evidence points to an insidious tactic of deploying fake IT workers from North Korea into the international workforce, a new frontier in state-sponsored digital espionage. These revelations, coupled with a worrying leak of CBP facility codes via online flashcards, underscore a critical and widening gap in both national and corporate cybersecurity defenses.\n\nIn the policy arena, Apple is once again squaring off with the Supreme Court over its App Store commission structure, a persistent battle defining platform power in the digital age. Elsewhere, a federal ruling classified sports bets on prediction markets as \"swaps,\" potentially exempting them from state laws and creating new regulatory complexities for decentralized finance. On a different front, Trump's next budget proposal signals a repeat of significant cuts to science funding, a move that could stifle long-term innovation. Amidst these shifts, NASA's Artemis II mission continues its steady, if occasionally mundane (frozen urine, low-res video) journey around the moon, while on Earth, the used EV market is surging, propelled by high gas prices and other evolving consumer preferences, a trend observed even as Tesla's remote parking feature received a clean bill of health from safety regulators. The ghost of hardware past also resurfaced with a teardown revealing why LG's rollable phones never quite made it to market. Netflix, however, sees opportunity in expansion, launching a standalone app dedicated to kids' games.\n\nLooking ahead, the internal dynamics at OpenAI bear close watching, as they could dictate the future direction of general AI development. Simultaneously, the escalating sophistication of state-sponsored cyber threats, particularly those targeting critical infrastructure and supply chains, demands immediate and strategic responses. The ongoing regulatory battles in areas like app store economics and prediction markets will continue to shape how digital services are governed, while the fate of science funding could determine the pace of groundbreaking research for years to come.",
   "articles": [
     {
       "title": "CBP facility codes sure seem to have leaked via online flashcards",
@@ -16,16 +16,52 @@
       "published_at": "Sun, 05 Apr 2026 00:12:45 +0000"
     },
     {
-      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-      "published_at": "Sat, 04 Apr 2026 20:36:49 +0000"
+      "url": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+      "published_at": "Mon, 06 Apr 2026 21:56:36 +0000"
     },
     {
-      "title": "Netflix launches a standalone app for kids’ games",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published_at": "Mon, 06 Apr 2026 21:54:26 +0000"
+    },
+    {
+      "title": "Trump's next budget once again calls for massive cuts to science",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+      "published_at": "Mon, 06 Apr 2026 21:40:40 +0000"
+    },
+    {
+      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+      "published_at": "Mon, 06 Apr 2026 21:23:36 +0000"
+    },
+    {
+      "title": "Gas prices aren’t the only factor fueling used EV sales",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+      "published_at": "Mon, 06 Apr 2026 21:15:09 +0000"
+    },
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published_at": "Mon, 06 Apr 2026 18:54:33 +0000"
+    },
+    {
+      "title": "Netflix is expanding into kids’ games with a new standalone app",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
       "published_at": "Mon, 06 Apr 2026 18:21:49 +0000"
+    },
+    {
+      "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
+      "published_at": "Mon, 06 Apr 2026 18:19:07 +0000"
     },
     {
       "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
@@ -40,7 +76,13 @@
       "published_at": "Mon, 06 Apr 2026 18:06:28 +0000"
     },
     {
-      "title": "Apple plans Supreme Court appeal in Epic Games App Store battle — again",
+      "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
+      "published_at": "Mon, 06 Apr 2026 17:39:07 +0000"
+    },
+    {
+      "title": "Apple is taking its App Store fight to the Supreme Court — again",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
       "published_at": "Mon, 06 Apr 2026 17:38:05 +0000"
@@ -58,28 +100,10 @@
       "published_at": "Mon, 06 Apr 2026 16:43:25 +0000"
     },
     {
-      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
       "published_at": "Mon, 06 Apr 2026 15:55:55 +0000"
-    },
-    {
-      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
-      "published_at": "Mon, 06 Apr 2026 14:30:00 +0000"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-      "published_at": "Mon, 06 Apr 2026 14:11:42 +0000"
-    },
-    {
-      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
-      "published_at": "Mon, 06 Apr 2026 14:00:00 +0000"
     },
     {
       "title": "Used EV sales spike alongside gas prices",
@@ -98,32 +122,8 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
       "published_at": "Mon, 06 Apr 2026 12:26:49 +0000"
-    },
-    {
-      "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
-      "published_at": "Fri, 03 Apr 2026 23:19:36 +0000"
-    },
-    {
-      "title": "Ice Age dice show early Native Americans may have understood probability",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
-      "published_at": "Fri, 03 Apr 2026 22:55:29 +0000"
-    },
-    {
-      "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
-      "published_at": "Fri, 03 Apr 2026 22:20:19 +0000"
-    },
-    {
-      "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
-      "published_at": "Fri, 03 Apr 2026 21:17:01 +0000"
     }
   ],
   "image_path": "/assets/headers/2026-04-07.svg",
-  "generated_at": "2026-04-06T18:30:21Z"
+  "generated_at": "2026-04-07T03:47:35+05:30"
 }
