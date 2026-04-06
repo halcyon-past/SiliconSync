@@ -29,5 +29,5 @@ jobs:
           git config user.name "halcyon-past"
           git config user.email "titanssuperior@gmail.com"
           git add frontend/public/
-          git diff --staged --quiet || git commit -m "Daily news: $(date +'%Y-%m-%d')"
-          git push -f
+          git status
+          git diff --staged --quiet || (git commit -m "Daily news: $(date +'%Y-%m-%d')" && git push -f)

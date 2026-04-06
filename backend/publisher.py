@@ -24,6 +24,9 @@ DATA_DIR = ROOT_DIR / "frontend" / "public" / "data"
 ASSETS_DIR = ROOT_DIR / "frontend" / "public" / "assets" / "headers"
 INDEX_FILE = DATA_DIR / "index.json"
 
+for path in [DATA_DIR, ASSETS_DIR]:
+    path.mkdir(parents=True, exist_ok=True)
+
 
 def utc_now_iso() -> str:
     return datetime.now(tz=timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
