@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+@keyframes cyber-bg-pulse {
+  0% { transform: scale(1); opacity: 0.15; }
+  50% { transform: scale(1.05); opacity: 0.25; }
+  100% { transform: scale(1); opacity: 0.15; }
+}
+
+.hero-image-wrap::before {
+  content: '';
+  position: absolute;
+  inset: -20px;
+  background: radial-gradient(circle, var(--accent) 0%, transparent 70%);
+  opacity: 0.15;
+  filter: blur(20px);
+  z-index: -1;
+  animation: cyber-bg-pulse 8s infinite ease-in-out;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.hero-image {
+  animation: float 10s infinite ease-in-out;
+}
+
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #111118;
+  --bg-card: #16161f;
+  --border: #1e1e2e;
+  --text-primary: #e8e8f0;
+  --text-secondary: #8888aa;
+  --accent: #00d4ff;
+  --accent-warm: #ff6b35;
+  --accent-glow: rgba(0, 212, 255, 0.15);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--text-primary);
+  font-family: 'DM Sans', sans-serif;
+  background:
+    radial-gradient(1200px 500px at 10% -10%, rgba(0, 212, 255, 0.08), transparent 60%),
+    radial-gradient(1000px 600px at 90% 0%, rgba(255, 107, 53, 0.08), transparent 55%),
+    linear-gradient(180deg, var(--bg-primary), #07080c);
+}
+
+.page-shell {
+  min-height: 100vh;
+  padding: 0 1rem 2rem;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.1rem 1rem;
+  transition: all 200ms ease;
+  border-bottom: 1px solid transparent;
+}
+
+.navbar.is-sticky {
+  backdrop-filter: blur(8px);
+  background: rgba(10, 10, 15, 0.7);
+  border-bottom-color: var(--border);
+}
+
+.logo {
+  font: 400 2.3rem 'Bebas Neue', sans-serif;
+  color: var(--text-primary);
+  letter-spacing: 0.05em;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.logo span {
+  color: var(--accent);
+  text-shadow: 0 0 14px var(--accent-glow);
+}
+
+.date-picker {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.date-picker input,
+.date-picker button {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg-card);
+  color: var(--text-primary);
+  padding: 0.45rem 0.65rem;
+}
+
+.date-picker button {
+  cursor: pointer;
+}
+
+.layout-grid {
+  max-width: 1200px;
+  margin: 1rem auto 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 1.2rem;
+}
+
+.post-shell {
+  background: linear-gradient(180deg, rgba(22, 22, 31, 0.95), rgba(13, 14, 22, 0.95));
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.02), 0 18px 40px rgba(0, 0, 0, 0.35);
+  animation: fadeUp 500ms ease both;
+}
+
+.hero-image-wrap {
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+
+.hero-image {
+  width: 100%;
+  display: block;
+  transform: translateY(calc(var(--scroll-y, 0px) * -0.02));
+}
+
+h1 {
+  margin: 0;
+  font: 400 clamp(2.2rem, 5vw, 3.6rem) 'Bebas Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.meta-row {
+  margin: 0.55rem 0 1rem;
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  color: var(--text-secondary);
+}
+
+.date-badge,
+.sidebar-date {
+  color: var(--accent-warm);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+}
+
+.summary-copy p {
+  line-height: 1.7;
+  color: #dbe1f6;
+}
+
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 450ms ease, transform 450ms ease;
+}
+
+.reveal-on-scroll.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.sources button {
+  margin-top: 0.8rem;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  background: rgba(0, 212, 255, 0.06);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
+
+.sources ul {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+}
+
+.sources li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+  display: grid;
+  gap: 0.25rem;
+}
+
+.sources a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.sources span {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.sidebar {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem;
+  height: fit-content;
+  position: sticky;
+  top: 86px;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+  font: 400 1.7rem 'Bebas Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar li {
+  border-left: 2px solid transparent;
+  transition: border-color 220ms ease, transform 220ms ease;
+}
+
+.sidebar li:hover {
+  border-left-color: var(--accent);
+  transform: translateX(4px);
+}
+
+.sidebar li.active {
+  border-left-color: var(--accent);
+  background: rgba(0, 212, 255, 0.05);
+}
+
+.sidebar a {
+  color: inherit;
+  text-decoration: none;
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.55rem;
+}
+
+.sidebar-headline {
+  color: #cad2e9;
+}
+
+.spinner-wrap {
+  margin: 4rem auto;
+  width: fit-content;
+  text-align: center;
+}
+
+.spinner {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  border: 3px solid rgba(0, 212, 255, 0.25);
+  border-top-color: var(--accent);
+  margin: 0 auto 0.8rem;
+  animation: spin 1s linear infinite;
+}
+
+.not-found,
+.error-box {
+  max-width: 1000px;
+  margin: 2rem auto;
+  border: 1px solid #643132;
+  background: rgba(255, 107, 53, 0.08);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 960px) {
+  .layout-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+  }
+
+  .date-picker {
+    flex-direction: column;
+  }
+}

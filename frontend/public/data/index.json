@@ -1,8 +1,14 @@
 [
   {
+    "date": "2026-04-07",
+    "headline": "AI's Geopolitical Front: Cyber Threats, Economic Visions",
+    "preview": "The digital world woke up today to a stark reminder of technology's escalating role in global power dynamics, as news broke of Iran threatening 'Stargate' AI data centers. This ominous development und",
+    "image_path": "/assets/headers/2026-04-07.svg"
+  },
+  {
     "date": "2026-04-06",
-    "headline": "AI's Geopolitical Edge: Threats, Visions, Legal Fights",
-    "preview": "The tech world awoke to a stark reminder of AI's burgeoning geopolitical significance today as Iran reportedly threatened 'Stargate' AI data centers. This ominous development underscores the increasin",
+    "headline": "AI's Geopolitical Chessboard, Legal Battles, Lunar Dreams",
+    "preview": "Today's tech news paints a striking picture of innovation accelerating amidst escalating geopolitical tensions and inherent vulnerabilities. The specter of cyberwarfare loomed large as Iran reportedly",
     "image_path": "/assets/headers/2026-04-06.svg"
   }
 ]
