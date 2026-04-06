@@ -52,7 +52,7 @@ def summarize_articles(
     api_key: str,
     articles: list[dict[str, Any]],
     target_date: date,
-    model_name: str = "gemini-2.0-flash",
+    model_name: str = "gemini-2.5-flash",
 ) -> dict[str, str]:
     if not articles:
         raise ValueError("No articles provided for summarization")
