@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-04-06",
+    "headline": "Digital Frontiers: Security, AI, and Policy Wars",
+    "preview": "Today's tech landscape is a potent brew of escalating digital threats and ambitious, yet often contested, visions for the future. The most alarming reports point to a new frontier in cyber warfare, wi",
+    "image_path": "/assets/headers/2026-04-06.svg"
+  },
+  {
+    "date": "2026-04-05",
+    "headline": "Quantum, Chips, and Startup Money Collide",
+    "preview": "Funding headlines returned to deep tech as investors placed larger bets on quantum software platforms and advanced semiconductor startups.",
+    "image_path": "/assets/headers/2026-04-05.svg"
+  },
+  {
+    "date": "2026-04-04",
+    "headline": "Platform Wars Move From Models To Distribution",
+    "preview": "The biggest shift in today's cycle is where competition is happening. Instead of headline model releases alone, major players are racing to control distribution surfaces.",
+    "image_path": "/assets/headers/2026-04-04.svg"
+  }
+]

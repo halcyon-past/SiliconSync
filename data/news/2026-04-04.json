@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-04",
+  "headline": "Platform Wars Move From Models To Distribution",
+  "summary": "The biggest shift in today\'s cycle is where competition is happening. Instead of headline model releases alone, major players are racing to control distribution surfaces: productivity suites, coding environments, and embedded enterprise workflows where AI usage becomes routine.\n\nThat race puts pressure on integration quality. Teams are no longer impressed by novelty demos; they want predictable output, governance controls, and APIs that fit existing architecture. Product launches reflected that expectation, with stronger emphasis on admin tooling and reliability metrics.\n\nIn parallel, open ecosystems kept growing through plugins, adapters, and lightweight deployment frameworks. This ecosystem activity is making it easier to swap model providers without rewriting entire applications, gradually weakening single-vendor lock-in.\n\nAnalysts also noted a quieter but meaningful theme: talent movement. Senior engineers are clustering around companies that can combine research velocity with strong product discipline, a signal that execution maturity now matters as much as raw technical ambition.\n\nNext week will show whether distribution-first strategies drive measurable adoption. If enterprise conversion rates improve, the market may reward companies that optimize workflows over pure model spectacle.",
+  "articles": [
+    {
+      "title": "AI assistants expand across enterprise SaaS suites",
+      "source": "NewsAPI",
+      "url": "https://example.com/newsapi-enterprise-saas-ai",
+      "published_at": "2026-04-04T02:05:00Z"
+    },
+    {
+      "title": "Open plugin ecosystems reduce vendor lock-in",
+      "source": "Ars Technica",
+      "url": "https://example.com/ars-plugin-ecosystems",
+      "published_at": "2026-04-04T00:48:00Z"
+    },
+    {
+      "title": "HN thread tracks developer tooling migration",
+      "source": "Hacker News",
+      "url": "https://example.com/hn-tooling-migration",
+      "published_at": "2026-04-03T23:12:00Z"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-04.svg",
+  "generated_at": "2026-04-04T01:30:00Z"
+}

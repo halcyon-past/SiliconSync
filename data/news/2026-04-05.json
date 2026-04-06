@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-05",
+  "headline": "Quantum, Chips, and Startup Money Collide",
+  "summary": "Funding headlines returned to deep tech as investors placed larger bets on quantum software platforms and advanced semiconductor startups. The narrative has shifted from long-horizon moonshots to practical timelines, with companies emphasizing near-term industrial workloads and hybrid compute stacks.\n\nChip design startups highlighted specialized architectures for AI inference at the edge, where power efficiency and latency constraints matter more than raw benchmark dominance. That trend aligns with demand from robotics, healthcare devices, and autonomous systems that cannot rely on constant cloud connectivity.\n\nMeanwhile, software vendors are adapting orchestration tools to span classical and quantum resources in unified developer workflows. Even where quantum advantage remains narrow, teams are treating experimentation as a product capability rather than a pure research effort.\n\nMarket caution still exists around supply chains and hiring concentration. Yet the tone across announcements suggests a more mature phase: less hype-heavy messaging, more evidence-based rollout plans, and clearer customer segments.\n\nWatch whether these startups can convert pilot deployments into durable revenue over the next two quarters. Execution speed, not narrative momentum, will separate the category leaders.",
+  "articles": [
+    {
+      "title": "Deep-tech VC firms increase quantum allocations",
+      "source": "GNews",
+      "url": "https://example.com/gnews-quantum-vc",
+      "published_at": "2026-04-05T02:00:00Z"
+    },
+    {
+      "title": "Edge inference chips push into industrial robotics",
+      "source": "TechCrunch",
+      "url": "https://example.com/techcrunch-edge-inference-robotics",
+      "published_at": "2026-04-05T01:20:00Z"
+    },
+    {
+      "title": "Developers discuss hybrid quantum scheduling",
+      "source": "Hacker News",
+      "url": "https://example.com/hn-hybrid-quantum-scheduling",
+      "published_at": "2026-04-04T23:40:00Z"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-05.svg",
+  "generated_at": "2026-04-05T01:30:00Z"
+}
