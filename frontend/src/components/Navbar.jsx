@@ -12,6 +12,24 @@ function Navbar({ items = [] }) {
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth > 960 && isMenuOpen) {
+        setIsMenuOpen(false);
+      }
+    };
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, [isMenuOpen]);
+
+  useEffect(() => {
+    if (isMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+  }, [isMenuOpen])
+
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen)
 
   // Max 10 items as requested
@@ -47,8 +65,11 @@ function Navbar({ items = [] }) {
         </button>
       </div>
 
-      <nav className={`mobile-menu ${isMenuOpen ? 'is-open' : ''}`}>
-        <div className="mobile-menu-content">
+      <nav 
+        className={`mobile-menu ${isMenuOpen ? 'is-open' : ''}`}
+        onClick={() => setIsMenuOpen(false)}
+      >
+        <div className="mobile-menu-content" onClick={(e) => e.stopPropagation()}>
           <h3>Recent Updates</h3>
           <ul>
             {menuItems.map(item => (

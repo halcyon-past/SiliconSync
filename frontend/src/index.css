@@ -38,6 +38,12 @@
   box-sizing: border-box;
 }
 
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+}
+
 body {
   margin: 0;
   color: var(--text-primary);
@@ -51,6 +57,7 @@ body {
 .page-shell {
   min-height: 100vh;
   padding: 0 1rem 2rem;
+  overflow-x: hidden;
 }
 
 .navbar {
@@ -142,6 +149,7 @@ body {
   padding: 80px 2rem 2rem;
   transform: translateX(100%);
   transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto;
 }
 
 .mobile-menu.is-open {
@@ -508,11 +516,13 @@ h1 {
 
 @media (max-width: 960px) {
   .layout-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+    width: 100%;
+    margin: 1rem 0;
   }
 
   .sidebar {
-    display: none;
+    display: none !important;
   }
 
   .hamburger {
