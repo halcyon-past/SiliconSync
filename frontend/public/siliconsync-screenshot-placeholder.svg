@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#0a0a0f" />
+  <rect x="60" y="60" width="1080" height="555" rx="18" fill="#141624" stroke="#1e1e2e" />
+  <text x="120" y="180" fill="#00d4ff" font-size="64" font-family="Bebas Neue, Arial Narrow, sans-serif">SILICONSYNC SCREENSHOT PLACEHOLDER</text>
+  <text x="120" y="250" fill="#e8e8f0" font-size="30" font-family="DM Sans, Segoe UI, sans-serif">Replace this asset with a real app screenshot after deployment.</text>
+</svg>

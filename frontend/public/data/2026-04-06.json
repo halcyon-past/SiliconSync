@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-06",
+  "headline": "AI at War's Edge, Space's Budget Crunch",
+  "summary": "The digital frontier blurred dangerously with real-world geopolitics today as news broke of Iran's explicit threats against 'Stargate' AI data centers. This ominous development underscores the critical infrastructure status of artificial intelligence and signals an unsettling escalation in cyber warfare potential. The threat didn't stand alone; concerns over state-sponsored digital malfeasance were further amplified by revelations that North Korea orchestrated a months-long hijack of a widely used open-source project, alongside a detailed exposé of a North Korean fake IT worker. Even domestic security faced a blow, with sensitive CBP facility codes reportedly leaked via online flashcards, highlighting persistent vulnerabilities across the digital spectrum.\n\nYet, amidst these shadows, AI continued its relentless march into the economy and our daily lives. OpenAI offered a glimpse into its ambitious vision for an AI-powered economy, touting concepts like public wealth funds, robot taxes, and even a four-day work week – a stark contrast to the immediate security threats. On a more practical level, ChatGPT unveiled new app integrations with ubiquitous services like DoorDash, Spotify, and Uber, embedding AI deeper into routine tasks. Meanwhile, Spain's Xoople secured a substantial $130 million Series B to build an AI-driven Earth mapping system, emphasizing the technology's expansive data needs. Not to be outdone, Elon Musk reportedly tied access to SpaceX's IPO for banks to mandatory Grok subscriptions, proving AI's economic leverage is becoming a gatekeeper.\n\nBeyond Earth's immediate concerns, humanity's gaze remained fixed on the heavens. The Artemis II mission continued its successful lunar journey, reaching a significant flyby milestone. Despite the excitement, mission updates humorously highlighted the mundane (frozen urine issues) and the pragmatic (low-resolution video for initial data transfer), reminding us of the technical realities of space exploration. However, the future of such ambitious endeavors faces headwinds, with former President Trump proposing significant cuts to the NASA budget – a stark reminder that even space exploration isn't immune to political and economic pressures.\n\nBack on terra firma, the tech industry wrestled with legal battles and regulatory pressures. Apple reignited its long-standing feud with Epic Games, announcing another Supreme Court appeal in the ongoing App Store commission saga, signaling a continued fight against antitrust challenges. Meanwhile, major tech players are actively trying to dilute Colorado's groundbreaking right-to-repair law, pushing back against consumer and environmental advocacy. In a more positive economic note, rising gas prices fueled a spike in used EV sales, suggesting a shifting consumer preference. However, the legal system's leniency towards a convicted spyware maker, Bryan Fleming, who avoided jail, raises questions about accountability in the tech underworld.\n\nAs the lines between digital infrastructure and national security continue to blur, and AI reshapes both our daily routines and economic paradigms, the coming months will undoubtedly test the resilience of our systems and the foresight of our policymakers. Will geopolitical tensions escalate around critical AI assets? Can consumer rights prevail against powerful industry lobbies? And will space exploration continue to capture our imaginations, or will budget constraints tether us closer to Earth? The answers will shape not just the tech landscape, but the very fabric of our connected, and increasingly complex, world.",
+  "articles": [
+    {
+      "title": "CBP facility codes sure seem to have leaked via online flashcards",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+      "published_at": "Sun, 05 Apr 2026 11:07:27 +0000"
+    },
+    {
+      "title": "Artemis II is going so well that all we're left to talk about is frozen urine",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+      "published_at": "Sun, 05 Apr 2026 00:12:45 +0000"
+    },
+    {
+      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+      "published_at": "Sat, 04 Apr 2026 20:36:49 +0000"
+    },
+    {
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "published_at": "Mon, 06 Apr 2026 18:06:28 +0000"
+    },
+    {
+      "title": "Apple plans Supreme Court appeal in Epic Games App Store battle — again",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
+      "published_at": "Mon, 06 Apr 2026 17:38:05 +0000"
+    },
+    {
+      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
+      "published_at": "Mon, 06 Apr 2026 17:00:25 +0000"
+    },
+    {
+      "title": "North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+      "published_at": "Mon, 06 Apr 2026 16:43:25 +0000"
+    },
+    {
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "published_at": "Mon, 06 Apr 2026 15:55:55 +0000"
+    },
+    {
+      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "published_at": "Mon, 06 Apr 2026 14:30:00 +0000"
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "published_at": "Mon, 06 Apr 2026 14:11:42 +0000"
+    },
+    {
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+      "published_at": "Mon, 06 Apr 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Used EV sales spike alongside gas prices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
+      "published_at": "Mon, 06 Apr 2026 13:54:12 +0000"
+    },
+    {
+      "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
+      "published_at": "Mon, 06 Apr 2026 13:03:04 +0000"
+    },
+    {
+      "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "published_at": "Mon, 06 Apr 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Why will today's lunar flyby only beam back low-resolution video?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
+      "published_at": "Mon, 06 Apr 2026 12:59:46 +0000"
+    },
+    {
+      "title": "What Memento reveals about human nature, 25 years later",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
+      "published_at": "Mon, 06 Apr 2026 12:26:49 +0000"
+    },
+    {
+      "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+      "published_at": "Fri, 03 Apr 2026 23:19:36 +0000"
+    },
+    {
+      "title": "Ice Age dice show early Native Americans may have understood probability",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
+      "published_at": "Fri, 03 Apr 2026 22:55:29 +0000"
+    },
+    {
+      "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+      "published_at": "Fri, 03 Apr 2026 22:20:19 +0000"
+    },
+    {
+      "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+      "published_at": "Fri, 03 Apr 2026 21:17:01 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-06.svg",
+  "generated_at": "2026-04-06T18:09:11Z"
+}
