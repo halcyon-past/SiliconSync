@@ -161,7 +161,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.1rem 1rem;
+  padding: 1.1rem 2rem;
+  margin: 0 -1rem;
   transition: all 200ms ease;
   border-bottom: 1px solid transparent;
 }
