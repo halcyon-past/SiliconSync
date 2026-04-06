@@ -1,98 +1,77 @@
-# SiliconSync - SiliconSync
+# SiliconSync
 
-SiliconSync is an automated daily tech news blog that publishes directly from this repository using GitHub Actions. Each run fetches technology stories from multiple free-tier sources, generates an editorial summary with Gemini, creates a themed SVG header image, and writes JSON + image assets into the repo.
+SiliconSync is a fully automated, daily tech news blog that provides "Neon Noir" editorial summaries. It operates as a **Serverless Static Site**: a Python pipeline fetches news, summarizes it using Gemini, generates AI-powered hero images, and saves the data directly into the frontend's static directory.
 
 ![SiliconSync Screenshot Placeholder](./frontend/public/siliconsync-screenshot-placeholder.svg)
 
 ## Project Overview
 
-- Frontend: Vite + React + React Router
-- Backend: Python 3.11+ + FastAPI
-- AI model: Gemini `gemini-2.5-flash`
-- Storage: Git-tracked JSON and SVG files only (no database)
-- Automation: GitHub Actions (`daily-news.yml`, `cleanup.yml`)
+- **Frontend:** Vite + React (Static distribution)
+- **Pipeline:** Python 3.11+ (Data generation)
+- **AI Engine:** Google Gemini (`gemini-2.0-flash`) via `google-genai`
+- **Architecture:** Static JSON-based "database" (No running API server required)
+- **Automation:** GitHub Actions (`daily-news.yml` for content, `cleanup.yml` for history)
+- **Design:** "Neon Noir" / Cyberpunk aesthetic with CSS animations
 
 ## Repository Structure
 
 ```text
 .
-├── .github/workflows/
-│   ├── daily-news.yml
-│   └── cleanup.yml
+├── .github/workflows/   # Automated daily content generation
 ├── backend/
-│   ├── main.py
-│   ├── news_fetcher.py
-│   ├── summarizer.py
-│   ├── image_generator.py
-│   ├── publisher.py
-│   ├── cleanup.py
-│   ├── requirements.txt
-│   └── tests/
+│   ├── news_fetcher.py # Aggregates from NewsAPI, HN, GNews
+│   ├── summarizer.py    # Gemini 2.0 Flash logic
+│   ├── image_generator.py # AI-powered hero image generation
+│   ├── publisher.py     # Main entry point for the daily flow
+│   └── requirements.txt
 ├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-├── data/news/
-├── assets/headers/
+│   ├── src/            # React components and styling
+│   ├── public/         # STATIC DATA STORE (JSON + Images)
+│   │   ├── data/       # Daily news JSON files
+│   │   └── assets/     # Generated hero images
+│   └── package.json
 └── README.md
 ```
 
 ## Environment Variables
 
-Set these in local `.env` and as GitHub repository secrets:
+Set these in a `backend/.env` file and as GitHub repository secrets:
 
-- `GEMINI_API_KEY` - Google AI Studio key: https://aistudio.google.com
-- `NEWSAPI_KEY` - NewsAPI free tier key: https://newsapi.org
-- `GNEWS_KEY` - GNews free tier key: https://gnews.io
-- `MEDIASTACK_KEY` - MediaStack free tier key: https://mediastack.com (optional fallback source)
-- `VITE_API_URL` - Backend URL used by frontend builds (optional locally)
+- `GEMINI_API_KEY` - Google AI Studio key: [aistudio.google.com](https://aistudio.google.com)
+- `NEWSAPI_KEY` - NewsAPI Key: [newsapi.org](https://newsapi.org)
+- `GNEWS_KEY` - GNews Key: [gnews.io](https://gnews.io)
+- `MEDIASTACK_KEY` - Optional fallback: [api.mediastack.com](https://mediastack.com)
 
 ## Local Development Setup
 
-### Backend
+### 1. Daily Pipeline (Data Generation)
 
-1. Create and activate a Python virtual environment.
-2. Install dependencies:
+The "backend" is now a CLI tool that updates the frontend data:
 
 ```bash
+# Setup environment
+python -m venv .venv
+source .venv/bin/activate
 pip install -r backend/requirements.txt
+
+# Run the daily update (Generates files in frontend/public/data)
+python backend/publisher.py
 ```
 
-3. Run FastAPI locally:
+### 2. Frontend
 
-```bash
-uvicorn backend.main:app --reload --port 8000
-```
-
-4. Run backend tests:
-
-```bash
-pytest backend/tests/
-```
-
-### Frontend
-
-1. Install frontend dependencies:
+The frontend is a static React app that reads the generated JSON files:
 
 ```bash
 cd frontend
 npm install
-```
-
-2. Run frontend dev server:
-
-```bash
 npm run dev
 ```
 
-3. Run frontend tests:
+## Deployment
 
-```bash
-npm run test
-```
-
-The frontend defaults to `http://localhost:8000` for API calls if `VITE_API_URL` is unset.
+1. **GitHub Actions:** The `daily-news.yml` workflow runs every day at 01:30 UTC. It generates the new post and commits it directly to the repository.
+2. **Static Hosting:** Simply point your host (GitHub Pages, Vercel, Netlify) to the `frontend/` directory. No API server or database setup is required.
 
 ## GitHub Secrets Setup
 
@@ -103,61 +82,16 @@ The frontend defaults to `http://localhost:8000` for API calls if `VITE_API_URL`
 	- `GNEWS_KEY`
 	- `MEDIASTACK_KEY` (optional)
 
-## Enable GitHub Pages
-
-1. Build and publish the frontend output to a branch or artifact of your choice.
-2. Open repository `Settings` -> `Pages`.
-3. Select the deployment source and branch/folder (for example, `gh-pages` branch or `main` with prebuilt static assets).
-4. Set `VITE_API_URL` in your build environment to the deployed backend URL.
-
 ## Pipeline Flow (Daily)
 
-`daily-news.yml` runs at `01:30 UTC` (7:00 AM IST):
+`daily-news.yml` runs at `01:30 UTC`:
 
 1. Checks out code and sets Python 3.11.
 2. Installs backend dependencies.
 3. Runs `python backend/publisher.py`.
 4. `publisher.py`:
 	- fetches and merges tech news from multiple providers,
-	- deduplicates URLs,
-	- summarizes with Gemini,
-	- generates a date-based SVG header,
-	- writes `data/news/YYYY-MM-DD.json` and updates `data/news/index.json`.
-5. Workflow commits and pushes generated `data/` and `assets/` changes.
-
-The process is idempotent per date: reruns overwrite that date's JSON/SVG entry instead of duplicating index rows.
-
-## Cleanup Flow (Weekly)
-
-`cleanup.yml` runs every Sunday at `02:00 UTC`:
-
-1. Executes `python backend/cleanup.py`.
-2. Deletes post JSON and header SVG files older than 90 days.
-3. Rewrites `data/news/index.json` with retained entries.
-4. Commits and pushes cleanup changes when needed.
-
-## API Endpoints
-
-- `GET /api/news` - latest post
-- `GET /api/news/{date}` - date-specific post (`YYYY-MM-DD`)
-- `GET /api/news/index` - descending index list for sidebar
-
-All endpoints serve local JSON files only. No external API calls happen at request time.
-
-## Manual Workflow Trigger
-
-1. Open repository `Actions` tab.
-2. Select `Daily Tech News` or `Cleanup Old News`.
-3. Click `Run workflow`.
-
-## Seed Data
-
-This repository includes three seeded posts and matching header SVGs so the app renders immediately:
-
-- `data/news/2026-04-06.json`
-- `data/news/2026-04-05.json`
-- `data/news/2026-04-04.json`
-- `data/news/index.json`
-- `assets/headers/2026-04-06.svg`
-- `assets/headers/2026-04-05.svg`
-- `assets/headers/2026-04-04.svg`
+	- summarizes with Gemini 2.0 Flash,
+	- generates an AI-powered hero image (with SVG fallback),
+	- writes to `frontend/public/data/YYYY-MM-DD.json` and updates `index.json`.
+5. Workflow commits and pushes generated files back to the repo.
