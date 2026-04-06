@@ -24,9 +24,9 @@ function Navbar({ items = [] }) {
 
   useEffect(() => {
     if (isMenuOpen) {
-      document.body.style.overflow = 'hidden';
+      document.body.classList.add('menu-open');
     } else {
-      document.body.style.overflow = '';
+      document.body.classList.remove('menu-open');
     }
   }, [isMenuOpen])
 
@@ -36,11 +36,12 @@ function Navbar({ items = [] }) {
   const menuItems = items.slice(0, 10)
 
   return (
-    <header className={`navbar ${isScrolled ? 'is-sticky' : ''}`}>
-      <button className="logo" onClick={() => {
-        navigate('/')
-        setIsMenuOpen(false)
-      }}>
+    <>
+      <header className={`navbar ${isScrolled ? 'is-sticky' : ''}`}>
+        <button className="logo" onClick={() => {
+          navigate('/')
+          setIsMenuOpen(false)
+        }}>
         SILICON<span>SYNC</span>
       </button>
 
@@ -63,7 +64,8 @@ function Navbar({ items = [] }) {
             </>
           )}
         </button>
-      </div>
+        </div>
+      </header>
 
       <nav 
         className={`mobile-menu ${isMenuOpen ? 'is-open' : ''}`}
@@ -93,7 +95,7 @@ function Navbar({ items = [] }) {
           </Link>
         </div>
       </nav>
-    </header>
+    </>
   )
 }
 
