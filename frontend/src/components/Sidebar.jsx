@@ -5,7 +5,10 @@ function Sidebar({ items = [], activeDate }) {
 
   return (
     <aside className="sidebar reveal-on-scroll is-visible">
-      <h3>Recent Posts</h3>
+      <div className="sidebar-header">
+        <h3>Recent Posts</h3>
+        <Link to="/news" className="view-more">View All</Link>
+      </div>
       <ul>
         {recent.map((item) => (
           <li key={item.date} className={activeDate === item.date ? 'active' : ''}>
