@@ -20,6 +20,7 @@ jobs:
       - name: Run pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FALLBACK_GEMINI_API_KEY: ${{ secrets.FALLBACK_GEMINI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
           MEDIASTACK_KEY: ${{ secrets.MEDIASTACK_KEY }}

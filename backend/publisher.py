@@ -89,6 +89,7 @@ def build_post(target_date: date) -> dict:
     load_dotenv()
 
     gemini_key = os.getenv("GEMINI_API_KEY")
+    fallback_key = os.getenv("FALLBACK_GEMINI_API_KEY")
     if not gemini_key:
         raise RuntimeError("GEMINI_API_KEY is required")
 
@@ -106,19 +107,43 @@ def build_post(target_date: date) -> dict:
     if not articles:
         raise RuntimeError("No articles fetched from any source")
 
-    ai_result = summarize_articles(
-        api_key=gemini_key,
-        articles=articles,
-        target_date=target_date,
-    )
+    # Try summarization with primary, then fallback
+    try:
+        ai_result = summarize_articles(
+            api_key=gemini_key,
+            articles=articles,
+            target_date=target_date,
+        )
+    except Exception as e:
+        if not fallback_key:
+            raise e
+        logger.warning(f"Primary Gemini API failed for summarization: {e}. Retrying with fallback.")
+        ai_result = summarize_articles(
+            api_key=fallback_key,
+            articles=articles,
+            target_date=target_date,
+        )
 
-    header_image_path = generate_header_image(
-        target_date=target_date,
-        headline=ai_result["headline"],
-        output_dir=ASSETS_DIR,
-        image_prompt=ai_result.get("image_prompt"),
-        api_key=gemini_key,
-    )
+    # Try image generation with primary, then fallback
+    try:
+        header_image_path = generate_header_image(
+            target_date=target_date,
+            headline=ai_result["headline"],
+            output_dir=ASSETS_DIR,
+            image_prompt=ai_result.get("image_prompt"),
+            api_key=gemini_key,
+        )
+    except Exception as e:
+        if not fallback_key:
+            raise e
+        logger.warning(f"Primary Gemini API failed for image generation: {e}. Retrying with fallback.")
+        header_image_path = generate_header_image(
+            target_date=target_date,
+            headline=ai_result["headline"],
+            output_dir=ASSETS_DIR,
+            image_prompt=ai_result.get("image_prompt"),
+            api_key=fallback_key,
+        )
 
     post_payload = {
         "date": target_date.isoformat(),
