@@ -17,13 +17,9 @@
   animation: cyber-bg-pulse 8s infinite ease-in-out;
 }
 
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
 .hero-image {
-  animation: float 10s infinite ease-in-out;
+  width: 100%;
+  display: block;
 }
 
 :root {
@@ -134,7 +130,6 @@ body {
 .hero-image {
   width: 100%;
   display: block;
-  transform: translateY(calc(var(--scroll-y, 0px) * -0.02));
 }
 
 h1 {
