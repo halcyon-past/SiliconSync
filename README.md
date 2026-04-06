@@ -8,7 +8,7 @@ SiliconSync is a fully automated, daily tech news blog that provides "Neon Noir"
 
 - **Frontend:** Vite + React (Static distribution)
 - **Pipeline:** Python 3.11+ (Data generation)
-- **AI Engine:** Google Gemini (`gemini-2.0-flash`) via `google-genai`
+- **AI Engine:** Google Gemini (`gemini-2.5-flash`) via `google-genai`
 - **Architecture:** Static JSON-based "database" (No running API server required)
 - **Automation:** GitHub Actions (`daily-news.yml` for content, `cleanup.yml` for history)
 - **Design:** "Neon Noir" / Cyberpunk aesthetic with CSS animations
