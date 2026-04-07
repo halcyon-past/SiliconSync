@@ -174,6 +174,16 @@ body {
   border-bottom-color: var(--border);
 }
 
+body.menu-open .navbar {
+  position: fixed;
+  left:0;
+  right:0;
+  background: rgba(5, 5, 8, 0.95);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border-bottom-color: var(--border);
+}
+
 .logo {
   font: 400 2.3rem 'Bebas Neue', sans-serif;
   color: var(--text-primary);
