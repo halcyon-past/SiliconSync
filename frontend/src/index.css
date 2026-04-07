@@ -863,3 +863,29 @@ h1 {
   display: flex;
   align-items: center;
 }
+
+/* Mobile Date Placeholder Fix */
+.date-picker-wrapper[data-empty="true"]::before {
+  content: "dd/mm/yyyy";
+  position: absolute;
+  left: 1.4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-secondary);
+  pointer-events: none;
+  font-family: inherit;
+  font-size: 1.1rem;
+}
+
+.date-input.is-empty {
+  color: transparent !important;
+}
+
+.date-input.is-empty::-webkit-datetime-edit,
+.date-input.is-empty::-webkit-datetime-edit-fields-wrapper,
+.date-input.is-empty::-webkit-datetime-edit-text,
+.date-input.is-empty::-webkit-datetime-edit-month-field,
+.date-input.is-empty::-webkit-datetime-edit-day-field,
+.date-input.is-empty::-webkit-datetime-edit-year-field {
+  color: transparent !important;
+}
