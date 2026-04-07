@@ -125,13 +125,17 @@ function SavedNews() {
             <div className="filter-group">
               <div className="date-picker-wrapper">
                 <input 
-                  type={searchDate ? "date" : "text"}
-                  placeholder="dd/mm/yyyy"
-                  onFocus={(e) => (e.target.type = "date")}
-                  onBlur={(e) => { if (!e.target.value) e.target.type = "text"; }}
+                  type="text" 
+                  value={searchDate ? new Date(searchDate).toLocaleDateString('en-GB') : ''}
+                  placeholder="dd/mm/yyyy" 
+                  readOnly 
+                  className="search-input date-text-display" 
+                />
+                <input 
+                  type="date"
                   value={searchDate}
                   onChange={handleDateSearch}
-                  className="date-input"
+                  className="hidden-date-input"
                 />
               </div>
               <div className="sort-select-wrapper">

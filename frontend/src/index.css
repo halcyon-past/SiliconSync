@@ -873,3 +873,52 @@ h1 {
 .date-input {
   color: var(--text-primary);
 }
+
+
+/* Completely Invisible Native Date Picker Overlay */
+.date-picker-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  min-width: 160px;
+}
+
+.date-text-display {
+  width: 100%;
+  pointer-events: none;
+}
+
+.hidden-date-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.hidden-date-input::-webkit-calendar-picker-indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* Simulated Calendar Icon */
+.date-picker-wrapper::after {
+  content: '📅';
+  position: absolute;
+  right: 1.2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  filter: grayscale(1) invert(0.8) opacity(0.6);
+  font-size: 1.1rem;
+}
