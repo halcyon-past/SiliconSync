@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siliconsync.aritro.cloud/sitemap.xml

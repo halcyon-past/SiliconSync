@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Helmet } from 'react-helmet-async'
 import BlogPost from '../components/BlogPost'
 import LoadingSpinner from '../components/LoadingSpinner'
 import Navbar from '../components/Navbar'
@@ -21,6 +22,11 @@ function Home() {
 
   return (
     <div className="page-shell">
+      <Helmet>
+        <title>SiliconSync | Tech News & Summaries</title>
+        <meta name="description" content="Read our latest curated tech news, insightful summaries, and latest industry updates from around the world." />
+        <link rel="canonical" href="https://siliconsync.aritro.cloud/" />
+      </Helmet>
       <Navbar items={index} />
       {error ? <p className="error-box">{error}</p> : null}
       {!post ? (

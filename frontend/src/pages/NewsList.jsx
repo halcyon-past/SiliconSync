@@ -1,5 +1,6 @@
 import { useEffect, useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import Navbar from '../components/Navbar'
 import LoadingSpinner from '../components/LoadingSpinner'
 import { getNewsIndex } from '../utils/api'
@@ -104,17 +105,23 @@ function NewsList() {
 
   return (
     <div className="page-shell">
+      <Helmet>
+        <title>News Archive | SiliconSync</title>
+        <meta name="description" content="Browse our complete archive of curated tech news, insightful summaries, and the latest industry updates." />
+        <link rel="canonical" href="https://siliconsync.aritro.cloud/news" />
+      </Helmet>
       <Navbar items={index} />
       <main className="archive-layout">
         <header className="archive-header">
           <h1>News <span>Archive</span></h1>
-          <div className="search-bar">
+          <div className="search-bar" role="search">
             <input 
               type="text" 
               placeholder="Search news by headline..." 
               value={searchQuery}
               onChange={handleSearch}
               className="search-input"
+              aria-label="Search news by headline"
             />
             <div className="filter-group">
               <div className="date-picker-wrapper">
@@ -123,17 +130,24 @@ function NewsList() {
                   value={searchDate ? new Date(searchDate).toLocaleDateString('en-GB') : ''}
                   placeholder="dd/mm/yyyy" 
                   readOnly 
-                  className="search-input date-text-display" 
+                  className="search-input date-text-display"
+                  aria-label="Selected date"
                 />
                 <input 
                   type="date"
                   value={searchDate}
                   onChange={handleDateSearch}
                   className="hidden-date-input"
+                  aria-label="Pick a date to filter news"
                 />
               </div>
               <div className="sort-select-wrapper">
-                <select value={sortOrder} onChange={handleSortChange} className="sort-select">
+                <select 
+                  value={sortOrder} 
+                  onChange={handleSortChange} 
+                  className="sort-select"
+                  aria-label="Sort order for news articles"
+                >
                   <option value="desc">Newest First</option>
                   <option value="asc">Oldest First</option>
                 </select>
@@ -145,12 +159,14 @@ function NewsList() {
         <div className="news-list">
           {currentNews.length > 0 ? (
             currentNews.map(item => (
-              <Link to={`/news/${item.date}`} key={item.date} className="news-item-card">
-                <div className="news-item-content">
-                  <span className="news-item-date">{item.date}</span>
-                  <h3>{item.headline}</h3>
-                </div>
-              </Link>
+              <article key={item.date} className="news-item-card-wrapper">
+                <Link to={`/news/${item.date}`} className="news-item-card">
+                  <div className="news-item-content">
+                    <span className="news-item-date">{item.date}</span>
+                    <h3>{item.headline}</h3>
+                  </div>
+                </Link>
+              </article>
             ))
           ) : (
             <p className="no-results">No news found matching your criteria</p>

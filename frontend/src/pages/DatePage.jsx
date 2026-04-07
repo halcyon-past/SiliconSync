@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import BlogPost from '../components/BlogPost'
 import LoadingSpinner from '../components/LoadingSpinner'
 import Navbar from '../components/Navbar'
@@ -28,6 +29,20 @@ function DatePage() {
 
   return (
     <div className="page-shell">
+      {post ? (
+        <Helmet>
+          <title>{post.headline} - SiliconSync</title>
+          <meta name="description" content={post.summaries?.[0]?.content?.substring(0, 150) + '...' || `tech news for ${date}`} />
+          <meta property="og:title" content={`${post.headline} - SiliconSync`} />
+          <meta property="og:description" content={post.summaries?.[0]?.content?.substring(0, 150) + '...' || `tech news for ${date}`} />
+          <link rel="canonical" href={`https://siliconsync.aritro.cloud/news/${date}`} />
+        </Helmet>
+      ) : (
+        <Helmet>
+          <title>News for {date} - SiliconSync</title>
+          <link rel="canonical" href={`https://siliconsync.aritro.cloud/news/${date}`} />
+        </Helmet>
+      )}
       <Navbar items={index} />
       {!post && !error ? <LoadingSpinner /> : null}
       {error ? (

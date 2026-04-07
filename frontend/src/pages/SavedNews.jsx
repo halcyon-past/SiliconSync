@@ -1,5 +1,6 @@
 import { useEffect, useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import Navbar from '../components/Navbar'
 import LoadingSpinner from '../components/LoadingSpinner'
 import { getNewsIndex } from '../utils/api'
@@ -110,6 +111,10 @@ function SavedNews() {
 
   return (
     <div className="page-shell">
+      <Helmet>
+        <title>Saved News - SiliconSync</title>
+        <meta name="robots" content="noindex, nofollow" />
+      </Helmet>
       <Navbar items={index} />
       <main className="archive-layout">
         <header className="archive-header">
@@ -121,6 +126,7 @@ function SavedNews() {
               value={searchQuery}
               onChange={handleSearch}
               className="search-input"
+              aria-label="Search saved news"
             />
             <div className="filter-group">
               <div className="date-picker-wrapper">
