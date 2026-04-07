@@ -117,12 +117,15 @@ function NewsList() {
               className="search-input"
             />
             <div className="filter-group">
-              <div className="date-picker-wrapper" data-empty={!searchDate}>
+              <div className="date-picker-wrapper">
                 <input 
-                  type="date"
+                  type={searchDate ? "date" : "text"}
+                  placeholder="dd/mm/yyyy"
+                  onFocus={(e) => (e.target.type = "date")}
+                  onBlur={(e) => { if (!e.target.value) e.target.type = "text"; }}
                   value={searchDate}
                   onChange={handleDateSearch}
-                  className={`date-input ${!searchDate ? 'is-empty' : ''}`}
+                  className="date-input"
                 />
               </div>
               <div className="sort-select-wrapper">
