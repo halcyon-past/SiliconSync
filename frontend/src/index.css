@@ -381,9 +381,91 @@ h1 {
 .meta-row {
   margin: 0.55rem 0 1rem;
   display: flex;
-  gap: 0.7rem;
+  justify-content: space-between;
   align-items: center;
   color: var(--text-secondary);
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.meta-left {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.meta-right {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.action-btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.action-btn:hover {
+  background: rgba(0, 212, 255, 0.1);
+  border-color: var(--accent);
+}
+
+.action-btn.active {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.source-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.source-item {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.source-item:last-child {
+  border-bottom: none;
+}
+
+.source-favicon {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+}
+
+.source-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.source-domain {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.mb-4 {
+  margin-bottom: 2rem;
+}
+
+.mt-4 {
+  margin-top: 2rem;
 }
 
 .date-badge,
@@ -742,4 +824,42 @@ h1 {
   .date-picker {
     flex-direction: column;
   }
+}
+
+@media (max-width: 960px) {
+  .desktop-only {
+    display: none !important;
+  }
+}
+
+/* Navbar Saved Button Design */
+.nav-saved-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-right: 1.5rem;
+  padding: 0.5rem 1.2rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  color: var(--text-primary);
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: blur(10px);
+}
+
+.nav-saved-btn:hover {
+  background: rgba(0, 212, 255, 0.1);
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.15);
+}
+
+.nav-controls {
+  display: flex;
+  align-items: center;
 }

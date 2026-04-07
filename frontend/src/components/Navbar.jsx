@@ -46,6 +46,9 @@ function Navbar({ items = [] }) {
       </button>
 
       <div className="nav-controls">
+        <Link to="/saved" className="nav-saved-btn desktop-only">
+          ★ Saved
+        </Link>
         <button 
           className={`hamburger ${isMenuOpen ? 'is-active' : ''}`} 
           onClick={toggleMenu}
@@ -92,6 +95,14 @@ function Navbar({ items = [] }) {
             onClick={() => setIsMenuOpen(false)}
           >
             View News Archive
+          </Link>
+          <Link 
+            to="/saved" 
+            className="menu-view-all"
+            style={{ marginTop: '0.5rem' }}
+            onClick={() => setIsMenuOpen(false)}
+          >
+            View Saved Articles
           </Link>
         </div>
       </nav>

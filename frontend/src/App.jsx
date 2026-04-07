@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import DatePage from './pages/DatePage'
 import NewsList from './pages/NewsList'
+import SavedNews from './pages/SavedNews'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/news" element={<NewsList />} />
         <Route path="/news/:date" element={<DatePage />} />
+        <Route path="/saved" element={<SavedNews />} />
       </Routes>
       <div className="site-credit">
         This website is owned by <a href="https://aritro.cloud" target="_blank" rel="noreferrer">aritro.cloud</a>
