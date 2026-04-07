@@ -14,6 +14,14 @@ SiliconSync is a fully automated, daily tech news blog that provides "Neon Noir"
 - **Automation:** GitHub Actions (`daily-news.yml` for content, `cleanup.yml` for history)
 - **Design:** "Neon Noir" / Cyberpunk aesthetic with CSS animations
 
+## Features
+
+- **"Save for Later" Bookmarks:** Local storage-backed bookmarking system with a dedicated `/saved` dashboard.
+- **Advanced Archive Search:** Filter past summaries by keyword, specific date, and sort by Newest/Oldest.
+- **Enhanced Pagination:** Numbered page navigation for easy browsing of the news archive and saved articles.
+- **Reading Time & Source Badges:** Automatically calculated estimated reading times and visual favicon badges for news sources.
+- **Native Quick Share:** Dynamic, randomized share messages utilizing the Web Share API (with clipboard fallback).
+
 ## Repository Structure
 
 ```text
