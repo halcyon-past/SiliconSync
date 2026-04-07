@@ -662,8 +662,13 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 1rem;
   margin: 4rem 0;
+}
+
+.pagination-numbers {
+  display: flex;
+  gap: 0.5rem;
 }
 
 .pagination button {
@@ -672,13 +677,25 @@ h1 {
   -webkit-backdrop-filter: var(--glass-blur);
   border: 1px solid var(--border);
   color: var(--text-primary);
-  padding: 0.7rem 1.4rem;
+  padding: 0.7rem;
+  min-width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 8px;
   cursor: pointer;
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.9rem;
   transition: all 0.3s ease;
   box-shadow: var(--glass-shadow);
+}
+
+.pagination button.active {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+  font-weight: bold;
 }
 
 .pagination button:hover:not(:disabled) {

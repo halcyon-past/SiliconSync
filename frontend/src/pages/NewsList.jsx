@@ -87,6 +87,19 @@ function NewsList() {
     setCurrentPage(1)
   }
 
+  const getVisiblePages = () => {
+    let start = Math.max(1, currentPage - 2);
+    let end = Math.min(totalPages, start + 4);
+    if (end - start < 4) {
+      start = Math.max(1, end - 4);
+    }
+    const pages = [];
+    for (let i = start; i <= end; i++) {
+      pages.push(i);
+    }
+    return pages;
+  };
+
   if (loading) return <div className="page-shell"><Navbar items={index} /><LoadingSpinner /></div>
 
   return (
@@ -140,17 +153,29 @@ function NewsList() {
         {totalPages > 1 && (
           <div className="pagination">
             <button 
+              className="pagination-arrow"
               disabled={currentPage === 1} 
               onClick={() => setCurrentPage(prev => prev - 1)}
             >
-              Previous
+              &larr;
             </button>
-            <span className="page-info">Page {currentPage} of {totalPages}</span>
+            <div className="pagination-numbers">
+              {getVisiblePages().map(page => (
+                <button
+                  key={page}
+                  className={`pagination-number ${currentPage === page ? 'active' : ''}`}
+                  onClick={() => setCurrentPage(page)}
+                >
+                  {page}
+                </button>
+              ))}
+            </div>
             <button 
+              className="pagination-arrow"
               disabled={currentPage === totalPages} 
               onClick={() => setCurrentPage(prev => prev + 1)}
             >
-              Next
+              &rarr;
             </button>
           </div>
         )}
