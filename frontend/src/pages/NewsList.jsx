@@ -9,6 +9,8 @@ function NewsList() {
   const [index, setIndex] = useState([])
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
+  const [searchDate, setSearchDate] = useState('')
+  const [sortOrder, setSortOrder] = useState('desc')
   const [currentPage, setCurrentPage] = useState(1)
   const postsPerPage = 10
 
@@ -38,20 +40,30 @@ function NewsList() {
   }, [])
 
   const filteredNews = useMemo(() => {
-    if (!searchQuery.trim()) return index
+    let finalResults = index;
+
+    if (searchQuery.trim()) {
+      const words = searchQuery.trim().toLowerCase().split(/\s+/);
+      if (words.length > 0) {
+        const results = words.map(word => trie.search(word));
+        const commonIndices = results.reduce((acc, current) => {
+          if (acc === null) return current;
+          return acc.filter(idx => current.includes(idx));
+        }, null);
+        finalResults = (commonIndices || []).map(idx => index[idx]);
+      }
+    }
     
-    const words = searchQuery.trim().toLowerCase().split(/\s+/)
-    if (words.length === 0) return index
+    if (searchDate) {
+      finalResults = finalResults.filter(item => item.date === searchDate);
+    }
 
-    // Get indices for each word and find intersection
-    const results = words.map(word => trie.search(word))
-    const commonIndices = results.reduce((acc, current) => {
-      if (acc === null) return current
-      return acc.filter(idx => current.includes(idx))
-    }, null)
-
-    return (commonIndices || []).map(idx => index[idx])
-  }, [searchQuery, index, trie])
+    return [...finalResults].sort((a, b) => {
+      const dateA = new Date(a.date).getTime();
+      const dateB = new Date(b.date).getTime();
+      return sortOrder === 'asc' ? dateA - dateB : dateB - dateA;
+    });
+  }, [searchQuery, searchDate, sortOrder, index, trie]);
 
   // Pagination
   const totalPages = Math.ceil(filteredNews.length / postsPerPage)
@@ -62,6 +74,16 @@ function NewsList() {
 
   const handleSearch = (e) => {
     setSearchQuery(e.target.value)
+    setCurrentPage(1)
+  }
+
+  const handleDateSearch = (e) => {
+    setSearchDate(e.target.value)
+    setCurrentPage(1)
+  }
+
+  const handleSortChange = (e) => {
+    setSortOrder(e.target.value)
     setCurrentPage(1)
   }
 
@@ -76,10 +98,27 @@ function NewsList() {
           <div className="search-bar">
             <input 
               type="text" 
-              placeholder="Search news by headline or date..." 
+              placeholder="Search news by headline..." 
               value={searchQuery}
               onChange={handleSearch}
+              className="search-input"
             />
+            <div className="filter-group">
+              <div className="date-picker-wrapper">
+                <input 
+                  type="date"
+                  value={searchDate}
+                  onChange={handleDateSearch}
+                  className="date-input"
+                />
+              </div>
+              <div className="sort-select-wrapper">
+                <select value={sortOrder} onChange={handleSortChange} className="sort-select">
+                  <option value="desc">Newest First</option>
+                  <option value="asc">Oldest First</option>
+                </select>
+              </div>
+            </div>
           </div>
         </header>
 
@@ -94,7 +133,7 @@ function NewsList() {
               </Link>
             ))
           ) : (
-            <p className="no-results">No news found matching "{searchQuery}"</p>
+            <p className="no-results">No news found matching your criteria</p>
           )}
         </div>
 
