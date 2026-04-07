@@ -110,18 +110,20 @@ function BlogPost({ post }) {
               } catch(e) {}
               return (
                 <li key={article.url} className="source-item">
-                  {domain && (
-                    <img 
-                      src={`https://www.google.com/s2/favicons?domain=${domain}&sz=32`} 
-                      alt="" 
-                      className="source-favicon" 
-                    />
-                  )}
                   <div className="source-details">
                     <a href={article.url} target="_blank" rel="noreferrer">
                       {article.title}
                     </a>
-                    <span className="source-domain">{article.source}</span>
+                    <div className="source-meta">
+                      {domain && (
+                        <img 
+                          src={`https://www.google.com/s2/favicons?domain=${domain}&sz=32`} 
+                          alt="" 
+                          className="source-favicon" 
+                        />
+                      )}
+                      <span className="source-domain">{article.source}</span>
+                    </div>
                   </div>
                 </li>
               )
