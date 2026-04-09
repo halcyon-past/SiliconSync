@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-09",
+  "headline": "Digital Autonomy Challenged: AI Advances, Privacy Erodes",
+  "summary": "Today's tech news paints a vivid, often unsettling, picture of a world accelerating into a future defined by powerful AI and pervasive digital control. Leading the charge into contentious territory, the Trump administration's sweeping request for federal workers' medical records has ignited a firestorm, laying bare the ever-present tension between state power and individual privacy. This move is compounded by revelations of LinkedIn controversially scanning users' browser extensions, now the subject of two lawsuits, and an Ars Technica piece explicitly detailing how our digital devices are systematically eroding our right to privacy. The incident of a WireGuard VPN developer locked out of their Microsoft account further underscores the precariousness of our digital infrastructure, highlighting how centralized control can hamstring even critical open-source security efforts.",
+  "articles": [
+    {
+      "title": "Trump admin makes sweeping request for medical records of federal workers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+      "published_at": "Wed, 08 Apr 2026 22:00:11 +0000"
+    },
+    {
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "published_at": "Wed, 08 Apr 2026 21:50:41 +0000"
+    },
+    {
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "published_at": "Wed, 08 Apr 2026 21:19:07 +0000"
+    },
+    {
+      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "published_at": "Wed, 08 Apr 2026 21:08:06 +0000"
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published_at": "Wed, 08 Apr 2026 21:05:13 +0000"
+    },
+    {
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "published_at": "Wed, 08 Apr 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "published_at": "Wed, 08 Apr 2026 20:49:11 +0000"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "published_at": "Wed, 08 Apr 2026 20:09:14 +0000"
+    },
+    {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "published_at": "Wed, 08 Apr 2026 19:59:10 +0000"
+    },
+    {
+      "title": "Amazon to end support for older Kindle devices",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+      "published_at": "Wed, 08 Apr 2026 19:56:16 +0000"
+    },
+    {
+      "title": "How our digital devices are putting our right to privacy at risk",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+      "published_at": "Wed, 08 Apr 2026 19:17:30 +0000"
+    },
+    {
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "published_at": "Wed, 08 Apr 2026 18:53:19 +0000"
+    },
+    {
+      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+      "published_at": "Wed, 08 Apr 2026 18:51:20 +0000"
+    },
+    {
+      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
+      "published_at": "Wed, 08 Apr 2026 18:39:08 +0000"
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "published_at": "Wed, 08 Apr 2026 18:23:06 +0000"
+    },
+    {
+      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "published_at": "Wed, 08 Apr 2026 17:37:06 +0000"
+    },
+    {
+      "title": "Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/",
+      "published_at": "Wed, 08 Apr 2026 17:25:34 +0000"
+    },
+    {
+      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "published_at": "Wed, 08 Apr 2026 17:19:16 +0000"
+    },
+    {
+      "title": "Steam client files point to \"framerate estimator\" feature in the works",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
+      "published_at": "Wed, 08 Apr 2026 15:37:04 +0000"
+    },
+    {
+      "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
+      "published_at": "Wed, 08 Apr 2026 15:26:57 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-09.svg",
+  "generated_at": "2026-04-09T09:36:22+05:30"
+}
