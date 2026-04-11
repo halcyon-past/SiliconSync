@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-11",
+  "headline": "Space Triumphs, AI Questions, Tech Shifts Ahead",
+  "summary": "The vast expanse of space once again captivated the world this week as NASA's Artemis II mission successfully concluded its ambitious lunar journey. Four astronauts returned to Earth with a 'perfect' splashdown in the Pacific Ocean, marking a triumphant milestone for humanity's renewed drive towards the Moon. This daring voyage not only showcased incredible engineering and human courage but also reignited discussions about the future of deep-space exploration and our place among the stars.\n\nCloser to home, the burgeoning field of Artificial Intelligence continues to grapple with its growing pains. This week brought a flurry of legal and ethical challenges, highlighting the urgent need for responsible development. Californians are suing over an AI tool that records doctor visits, raising serious privacy concerns, while a stalking victim has launched legal action against OpenAI, alleging ChatGPT fueled her abuser's delusions and that her warnings were ignored. Even within the AI community, tensions are visible, with Anthropic temporarily banning the creator of 'OpenClaw' from its Claude platform. Yet, the march of AI integration continues, with leaked 'SteamGPT' files hinting at AI-powered security reviews for the massive PC gaming platform, showing how deeply AI is set to embed itself into daily digital life, for better or worse.\n\nThe software landscape is also undergoing significant evolution, driven by user demands, monetization pressures, and geopolitical currents. Microsoft is striving to rebuild trust in Windows quality by overhauling its beta program, hoping to deliver a smoother user experience. Meanwhile, YouTube announced yet another price hike for its Premium service, simultaneously addressing a 'bug' causing unskippable 90-second ads – a move that surely tested user patience. Perhaps the most striking development in software policy comes from France, which declared its intention to ditch Windows for Linux across government systems. This strategic pivot underscores a growing global trend towards digital sovereignty, aiming to reduce reliance on US tech giants and embrace open-source alternatives.\n\nBeyond the headlines, the tech industry is navigating turbulent waters. Financial woes hit the green sector as battery recycler Ascend Elements filed for bankruptcy, a stark reminder of the challenges in scaling sustainable technologies. On the policy front, a contentious report emerged detailing US demands for Reddit to unmask an ICE critic, reigniting fierce debates around user privacy, free speech, and government oversight in the digital realm. In automotive tech, Formula 1 moved closer to resolving its 2026 hybrid engine issues, while the broader energy sector saw continued, substantial investment in fusion startups, with numerous companies now boasting over $100 million in funding – a testament to the long-term bet on clean, limitless power.\n\nAs the dust settles on this week's news, several overarching themes emerge. Humanity's reach continues to expand into space, setting the stage for future lunar and Martian endeavors. Concurrently, the ethical and legal frameworks governing AI are being vigorously tested, demanding critical scrutiny from developers, policymakers, and users alike. The drive for digital independence and sustainable energy solutions will undoubtedly shape the next decade, while battles over privacy and platform power continue to simmer. The coming months promise further developments in these crucial arenas, charting a complex and exciting course for the future of technology.",
+  "articles": [
+    {
+      "title": "Four astronauts are back home after a daring ride around the Moon",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+      "published_at": "Sat, 11 Apr 2026 01:21:10 +0000"
+    },
+    {
+      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "published_at": "Sat, 11 Apr 2026 00:44:17 +0000"
+    },
+    {
+      "title": "Californians sue over AI tool that records doctor visits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
+      "published_at": "Fri, 10 Apr 2026 21:43:33 +0000"
+    },
+    {
+      "title": "How to watch NASA’s Artemis II splash back down to Earth",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+      "published_at": "Fri, 10 Apr 2026 21:18:09 +0000"
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "published_at": "Fri, 10 Apr 2026 20:27:52 +0000"
+    },
+    {
+      "title": "New paper argues history, not mantle plume, powers Yellowstone",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+      "published_at": "Fri, 10 Apr 2026 20:06:39 +0000"
+    },
+    {
+      "title": "Battery recycler Ascend Elements files for bankruptcy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+      "published_at": "Fri, 10 Apr 2026 19:16:52 +0000"
+    },
+    {
+      "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
+      "published_at": "Fri, 10 Apr 2026 19:07:46 +0000"
+    },
+    {
+      "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
+      "published_at": "Fri, 10 Apr 2026 18:43:25 +0000"
+    },
+    {
+      "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
+      "published_at": "Fri, 10 Apr 2026 18:00:44 +0000"
+    },
+    {
+      "title": "\"Oobleck\" still holds some surprises",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/",
+      "published_at": "Fri, 10 Apr 2026 17:57:21 +0000"
+    },
+    {
+      "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
+      "published_at": "Fri, 10 Apr 2026 17:08:58 +0000"
+    },
+    {
+      "title": "Oldest octopus fossil found to not be an octopus",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus/",
+      "published_at": "Fri, 10 Apr 2026 16:54:42 +0000"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "published_at": "Fri, 10 Apr 2026 16:41:34 +0000"
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "published_at": "Fri, 10 Apr 2026 16:38:43 +0000"
+    },
+    {
+      "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+      "published_at": "Fri, 10 Apr 2026 16:32:25 +0000"
+    },
+    {
+      "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+      "published_at": "Fri, 10 Apr 2026 14:39:32 +0000"
+    },
+    {
+      "title": "YouTube Premium and YouTube Music are getting more expensive",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/",
+      "published_at": "Fri, 10 Apr 2026 14:38:43 +0000"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
+      "published_at": "Fri, 10 Apr 2026 14:05:00 +0000"
+    },
+    {
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "published_at": "Fri, 10 Apr 2026 14:00:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-11.svg",
+  "generated_at": "2026-04-11T09:27:21+05:30"
+}
