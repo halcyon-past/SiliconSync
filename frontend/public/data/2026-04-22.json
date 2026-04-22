@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-22",
+  "headline": "Leadership Shifts, AI Questions, Hardware Futures",
+  "summary": "Today's tech landscape is buzzing with seismic shifts, most notably the news from Cupertino: Tim Cook is stepping down as Apple's CEO after 15 transformative years. His departure marks the end of an era defined by unparalleled growth, a robust services ecosystem, and the expansion into new markets. John Ternus, previously Apple's SVP of Hardware Engineering, is set to take the helm, inheriting a role fraught with the complexities of managing one of the world's most powerful companies and navigating ongoing challenges, including recent App Store crackdowns on AI applications like Cal AI.\n\nMeanwhile, the discussion around artificial intelligence continues to dominate, grappling with both its immense potential and profound ethical quandaries. Meta has sparked significant privacy concerns with reports indicating it will record employee keystrokes and mouse movements to train its AI models, raising serious questions about workplace surveillance. Simultaneously, the security of powerful AI tools is under scrutiny, as Anthropic's exclusive cyber tool Mythos, lauded for uncovering 271 zero-day vulnerabilities in Firefox 150, has reportedly been accessed by an unauthorized group. The debate over AI responsibility also intensified, with OpenAI responding to a Florida probe into ChatGPT's alleged role in a mass shooting, asserting the bot's lack of culpability. Despite these concerns, innovation surges forward, with NeoCognition securing $40 million to develop human-like AI agents and ChatGPT's Images 2.0 model demonstrating surprising proficiency in generating text.\n\nHardware innovation and sustainability are also making headlines. Redwood Materials is pivoting its strategy, laying off 10% of its workforce to focus more aggressively on the energy storage business, signaling a broader industry move towards a circular economy. Framework Laptops continues its commitment to modularity, with its CEO discussing the ongoing RAM crisis while unveiling significant overhauls for the Laptop 13 Pro and 16 models, aiming to create a 'MacBook Pro for Linux users.' On a different scale, the Pentagon's request for an staggering $54 billion for drone development underscores the accelerating role of advanced hardware in national defense strategies, eclipsing the military budgets of many nations.\n\nBeyond these developments, strategic corporate moves and regulatory changes are reshaping the industry. SpaceX is reportedly nearing a monumental $60 billion acquisition of Cursor, highlighting the growing convergence of space technology and AI-driven solutions. Microsoft is recalibrating its Game Pass strategy, removing Call of Duty while simultaneously lowering subscription pricing in a bid to attract a broader audience. In a significant policy shift, Supreme Court arguments suggest that FCC fines may be deemed 'nonbinding,' potentially weakening regulatory oversight. The global tech community also converged at SusHi Tech Tokyo, a sprawling event described more as a 'deal room' than a traditional conference, fostering high-level collaborations among 60,000 participants.\n\nAs the tech world processes Cook's departure and anticipates Ternus's vision, all eyes will remain on the evolving narrative of AI—its breakthroughs, its ethical challenges, and the regulatory frameworks struggling to keep pace. Concurrently, watch for continued investment in sustainable hardware and the ripple effects of shifting corporate strategies in a dynamically interconnected global market.",
+  "articles": [
+    {
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "published_at": "Wed, 22 Apr 2026 00:37:33 +0000"
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published_at": "Tue, 21 Apr 2026 23:45:21 +0000"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published_at": "Tue, 21 Apr 2026 23:26:45 +0000"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published_at": "Tue, 21 Apr 2026 22:58:22 +0000"
+    },
+    {
+      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+      "published_at": "Tue, 21 Apr 2026 21:57:54 +0000"
+    },
+    {
+      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "published_at": "Tue, 21 Apr 2026 21:40:41 +0000"
+    },
+    {
+      "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+      "published_at": "Tue, 21 Apr 2026 21:28:27 +0000"
+    },
+    {
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "published_at": "Tue, 21 Apr 2026 21:09:09 +0000"
+    },
+    {
+      "title": "Silo S3 teaser hints at the wasteland's origins",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+      "published_at": "Tue, 21 Apr 2026 20:53:06 +0000"
+    },
+    {
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "published_at": "Tue, 21 Apr 2026 20:23:24 +0000"
+    },
+    {
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published_at": "Tue, 21 Apr 2026 20:22:20 +0000"
+    },
+    {
+      "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+      "published_at": "Tue, 21 Apr 2026 20:01:36 +0000"
+    },
+    {
+      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+      "published_at": "Tue, 21 Apr 2026 19:30:52 +0000"
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "published_at": "Tue, 21 Apr 2026 19:11:29 +0000"
+    },
+    {
+      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+      "published_at": "Tue, 21 Apr 2026 19:09:12 +0000"
+    },
+    {
+      "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
+      "published_at": "Tue, 21 Apr 2026 19:02:35 +0000"
+    },
+    {
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "published_at": "Tue, 21 Apr 2026 19:00:00 +0000"
+    },
+    {
+      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
+      "published_at": "Tue, 21 Apr 2026 18:18:27 +0000"
+    },
+    {
+      "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
+      "published_at": "Tue, 21 Apr 2026 18:15:15 +0000"
+    },
+    {
+      "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
+      "published_at": "Tue, 21 Apr 2026 18:15:03 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-22.svg",
+  "generated_at": "2026-04-22T09:52:17+05:30"
+}
