@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-24",
+  "headline": "AI Theft, Space Wars, Quantum Threats Converge",
+  "summary": "The digital battleground intensified this week as the U.S. leveled a grave accusation against China, alleging \"industrial-scale\" AI theft – a claim swiftly dismissed by Beijing as slander. This high-stakes intellectual property dispute underscores the escalating geopolitical tensions intertwined with technological leadership. Such exchanges are no longer confined to rhetoric; the very infrastructure of global power is at stake, as nations race to dominate the next wave of AI innovation.\n\nBeyond the diplomatic sparring, the week's news painted a stark picture of a world navigating complex digital threats and policy dilemmas. Russia is reportedly operationalizing co-orbital anti-satellite (ASAT) weapons, marking a dangerous new frontier in militarized space. On the cybersecurity front, a chilling first emerged with the confirmation of a ransomware family leveraging quantum-safe cryptography, signaling a perilous leap in cybercriminal capabilities. Meanwhile, privacy concerns were partially addressed as Apple moved to stop \"weirdly storing\" data that could be exploited to spy on Signal chats, while several countries are considering bans on social media for children, highlighting a growing global push for digital regulation and user protection amidst a fluid leadership situation at the U.S. cyber agency CISA.\n\nAmidst the macro-level shifts, the AI and software ecosystem continued its relentless march forward. Bret Taylor's Sierra acquired Fragment, a YC-backed AI startup, demonstrating ongoing consolidation and strategic investments in the AI space. Innovation also showcased its more whimsical side with Noscroll, an AI bot designed to combat \"doomscrolling,\" while Instagram reportedly tested \"Instants,\" a new app focused on disappearing photos, indicating social media's continuous reinvention. The discourse around AI's impact on employment also gained traction, with a notable founder advocating for smarter human hiring over AI replacing roles entirely.\n\nThe physical frontiers of tech were equally active. Material science made strides with carbon nanotube wiring inching closer to copper-level conductivity, promising revolutionary advancements in electronics. Space exploration and commercialization pushed ahead, as Vast revealed flight suit tests for its private space station, and the Roman Telescope prepared for an early, under-budget launch. Back on Earth, Apple's M4 Mac mini and Studio models faced scarcity, suggesting either supply chain woes or an imminent hardware refresh, while Porsche announced an all-electric Cayenne coupe, further solidifying the automotive industry's pivot to electrification.\n\nThese varied developments underscore a period of intense flux across the tech landscape. Industry giants like Disney's former CEO Bob Iger made moves, rejoining Thrive Capital, while companies like Redwood Materials underwent restructuring and layoffs. Looking ahead, the confluence of escalating geopolitical AI competition, advanced cyber threats, and rapid innovation in both hardware and software will undoubtedly shape the coming months. Expect continued scrutiny on state-sponsored tech activities, further evolution in AI's societal integration, and the ongoing race to conquer new physical and digital realms, from low Earth orbit to quantum-secured networks.",
+  "articles": [
+    {
+      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+      "published_at": "Thu, 23 Apr 2026 23:32:33 +0000"
+    },
+    {
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "published_at": "Thu, 23 Apr 2026 22:44:12 +0000"
+    },
+    {
+      "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
+      "published_at": "Thu, 23 Apr 2026 22:14:16 +0000"
+    },
+    {
+      "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+      "published_at": "Thu, 23 Apr 2026 21:45:10 +0000"
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+      "published_at": "Thu, 23 Apr 2026 21:33:51 +0000"
+    },
+    {
+      "title": "Carbon nanotube wiring gets closer to competing with copper",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+      "published_at": "Thu, 23 Apr 2026 21:22:09 +0000"
+    },
+    {
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "published_at": "Thu, 23 Apr 2026 21:00:00 +0000"
+    },
+    {
+      "title": "We still don't have a more precise value for \"Big G\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "published_at": "Thu, 23 Apr 2026 20:57:35 +0000"
+    },
+    {
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "published_at": "Thu, 23 Apr 2026 20:41:23 +0000"
+    },
+    {
+      "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+      "published_at": "Thu, 23 Apr 2026 20:03:53 +0000"
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "published_at": "Thu, 23 Apr 2026 19:38:25 +0000"
+    },
+    {
+      "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
+      "published_at": "Thu, 23 Apr 2026 19:33:48 +0000"
+    },
+    {
+      "title": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+      "published_at": "Thu, 23 Apr 2026 18:49:38 +0000"
+    },
+    {
+      "title": "RFK Jr.’s rejection of germ theory debunked in Senate hearing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/",
+      "published_at": "Thu, 23 Apr 2026 18:05:53 +0000"
+    },
+    {
+      "title": "Why are the Mac mini and Mac Studio gradually becoming impossible to buy?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
+      "published_at": "Thu, 23 Apr 2026 17:06:08 +0000"
+    },
+    {
+      "title": "US Space Command: Russia is now operationalizing co-orbital ASAT weapons",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/us-space-command-russia-is-now-operationalizing-co-orbital-asat-weapons/",
+      "published_at": "Thu, 23 Apr 2026 16:52:09 +0000"
+    },
+    {
+      "title": "Apple stops weirdly storing data that let cops spy on Signal chats",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/apple-stops-weirdly-storing-data-that-let-cops-spy-on-signal-chats/",
+      "published_at": "Thu, 23 Apr 2026 16:37:23 +0000"
+    },
+    {
+      "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
+      "published_at": "Thu, 23 Apr 2026 16:27:07 +0000"
+    },
+    {
+      "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+      "published_at": "Fri, 24 Apr 2026 04:01:00 +0000"
+    },
+    {
+      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "published_at": "Fri, 24 Apr 2026 00:11:25 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-04-24.svg",
+  "generated_at": "2026-04-24T10:00:10+05:30"
+}
