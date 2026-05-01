@@ -1,0 +1,129 @@
+{
+  "date": "2026-05-01",
+  "headline": "Cook Out, AI In: Tech's New Era Dawns",
+  "summary": "The tech world woke today to seismic shifts, none more profound than Tim Cook’s impending departure from Apple. While this marks the end of an era, the Cupertino giant leaves on a high, reporting record sales. Curiously, a significant portion of this success was attributed to an unexpected surge in AI-driven demand for Macs, a testament to the pervasive influence of artificial intelligence. Yet, the celebratory mood is tempered by a looming chip shortage, a persistent reminder of the fragile global supply chains that underpin the industry.\n\nIndeed, AI remains the unequivocal titan of the moment. Anthropic is reportedly eyeing a staggering $900 billion+ valuation round, underscoring the relentless capital flow into frontier AI. Legal AI startup Legora also hit a $5.6 billion valuation, intensifying its rivalry with competitor Harvey, while OpenAI itself courted controversy by restricting access to its 'Cyber' model, mirroring a move it previously criticized Anthropic for. On the consumer front, ChatGPT Images 2.0 is finding significant traction in India, highlighting regional adoption patterns, even as the contentious trial between Elon Musk and OpenAI continues to unfold with Musk facing critical stumbles.\n\nBeyond the AI gold rush, digital security is under renewed threat. A severe Linux vulnerability has left the world scrambling, and hackers are actively exploiting a critical bug in cPanel, impacting millions of websites globally. Meanwhile, the hardware and mobility sectors face their own headwinds: Rivian downsized its DOE loan for its Georgia factory, and EV startup Faraday Future is under scrutiny for a $7.5 million payment to a company linked to its founder. Privacy concerns also flared as Meta reportedly cut contractors who reviewed potentially compromising content from Ray-Ban Meta users, raising alarms about the real-world implications of wearable tech.\n\nThe broader geopolitical landscape continues to cast a long shadow over tech. Beijing has moved to ban drone sales domestically, even as Chinese drones dominate international markets, signaling potential protectionism or strategic maneuvering. In space, Blue Origin revealed ambitious targets for its New Glenn rocket, while Russia took steps to cloak its launch schedules after a spaceport came under threat from Ukraine, intertwining space ambitions with ongoing global conflicts.\n\nLooking ahead, the industry stands at a critical juncture. The post-Cook Apple era, defined by AI integration and potential supply constraints, will be closely watched. The AI arms race, fueled by colossal valuations and intensifying competition, shows no signs of abating, demanding vigilance against the emergent ethical and security challenges. How tech leaders navigate these complex currents – from digital defenses to geopolitical pressures – will define the trajectory of innovation in the coming months.",
+  "articles": [
+    {
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "published_at": "Thu, 30 Apr 2026 23:59:15 +0000"
+    },
+    {
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "published_at": "Thu, 30 Apr 2026 23:58:52 +0000"
+    },
+    {
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "published_at": "Thu, 30 Apr 2026 23:07:56 +0000"
+    },
+    {
+      "title": "Apple was surprised by AI-driven demand for Macs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+      "published_at": "Thu, 30 Apr 2026 22:12:52 +0000"
+    },
+    {
+      "title": "Trump nominates Fox News doctor to be the next surgeon general",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
+      "published_at": "Thu, 30 Apr 2026 22:09:36 +0000"
+    },
+    {
+      "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+      "published_at": "Thu, 30 Apr 2026 21:53:48 +0000"
+    },
+    {
+      "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+      "published_at": "Thu, 30 Apr 2026 21:35:02 +0000"
+    },
+    {
+      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+      "published_at": "Thu, 30 Apr 2026 21:11:51 +0000"
+    },
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "published_at": "Thu, 30 Apr 2026 20:20:48 +0000"
+    },
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "published_at": "Thu, 30 Apr 2026 20:14:47 +0000"
+    },
+    {
+      "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/",
+      "published_at": "Thu, 30 Apr 2026 20:02:02 +0000"
+    },
+    {
+      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+      "published_at": "Thu, 30 Apr 2026 19:55:18 +0000"
+    },
+    {
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "published_at": "Thu, 30 Apr 2026 19:36:53 +0000"
+    },
+    {
+      "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+      "published_at": "Thu, 30 Apr 2026 19:34:15 +0000"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "published_at": "Thu, 30 Apr 2026 19:27:41 +0000"
+    },
+    {
+      "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+      "published_at": "Thu, 30 Apr 2026 19:12:26 +0000"
+    },
+    {
+      "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
+      "published_at": "Thu, 30 Apr 2026 19:02:10 +0000"
+    },
+    {
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "published_at": "Thu, 30 Apr 2026 18:56:59 +0000"
+    },
+    {
+      "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+      "published_at": "Thu, 30 Apr 2026 17:47:17 +0000"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "published_at": "Fri, 01 May 2026 02:00:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-05-01.svg",
+  "generated_at": "2026-05-01T10:29:45+05:30"
+}
