@@ -1,0 +1,129 @@
+{
+  "date": "2026-05-02",
+  "headline": "Apple's New Chapter, AI's Ascent, Supply Chain Strain",
+  "summary": "The tech world woke up today to a seismic shift at the helm of an industry titan, as Tim Cook announced his departure from Apple. While the Cupertino giant registered record sales, the news arrives shadowed by a persistent chip shortage—a potent reminder that even the most formidable tech companies are vulnerable to supply chain disruptions. This vulnerability isn't isolated; the \"RAMpocalypse\" has granted Microsoft a reprieve in its battle against SteamOS, and even Amazon's colossal data centers are grappling with months of repairs following drone strikes, underscoring a broader fragility across the hardware and infrastructure landscape.\n\nSimultaneously, the inexorable march of Artificial Intelligence continues to define the future. Meta is aggressively pushing into humanoid AI with a new robotics acquisition, while the Pentagon has solidified its commitment, striking significant deals with Nvidia, Microsoft, and AWS to integrate AI into classified networks. Yet, this ambition is tempered by crucial ethical considerations: a new study suggests AI models prioritizing user sentiment may be prone to errors, and Minnesota has swiftly moved to ban fake AI nudes, imposing hefty fines. Amidst the policy debates, the high-stakes rivalry between Musk and Altman persists, and OpenAI's GPT-5.5 is proving its mettle, matching the much-hyped Mythos Preview in cybersecurity tests, showcasing relentless innovation.\n\nBeneath these headlines, the foundational digital infrastructure faces its own pressures. Ubuntu's services have been down for over a day, reportedly due to a DDoS attack, revealing how critical operating systems and services remain susceptible to disruption. Meanwhile, the battle for platform dominance rages on, with Replit's Amjad Masad openly challenging Apple's ecosystem. On the user front, Reddit's search functionality is finally gaining traction, and ChatGPT Images 2.0 is finding a strong foothold in India, illustrating the uneven but undeniable adoption curve of new features and AI capabilities across global markets. The demand for AI computing power is also driving strategic plays, with Coatue reportedly acquiring vast tracts of land for data centers, potentially for Anthropic.\n\nBeyond the core tech, financing models are evolving, exemplified by Musely securing an impressive $360 million from General Catalyst without diluting equity—a rare feat in today's venture landscape. Policy makers are also grappling with tech's societal intersections, as US Senators have banned themselves from prediction markets following revelations of candidates betting on their own races. These varied developments paint a picture of an industry undergoing profound changes, where innovation, capital, governance, and infrastructure intertwine more complexly than ever.\n\nLooking ahead, the fallout from Apple's leadership transition, coupled with the ongoing supply chain woes, will undoubtedly shape the hardware market. Expect continued legislative efforts to rein in AI's societal impacts, while the battle for AI dominance—both in capabilities and infrastructure—will intensify. The resilience of core digital services and the evolving dynamics of platform power will remain critical narratives in the coming months, offering a rich tapestry of challenges and opportunities for the discerning tech observer.",
+  "articles": [
+    {
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "published_at": "Thu, 30 Apr 2026 23:59:15 +0000"
+    },
+    {
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "published_at": "Fri, 01 May 2026 23:06:50 +0000"
+    },
+    {
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "published_at": "Fri, 01 May 2026 22:39:05 +0000"
+    },
+    {
+      "title": "Study: AI models that consider user's feeling are more likely to make errors",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "published_at": "Fri, 01 May 2026 22:23:36 +0000"
+    },
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "published_at": "Fri, 01 May 2026 22:13:27 +0000"
+    },
+    {
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+      "published_at": "Fri, 01 May 2026 22:00:59 +0000"
+    },
+    {
+      "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
+      "published_at": "Fri, 01 May 2026 21:05:37 +0000"
+    },
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "published_at": "Fri, 01 May 2026 19:12:26 +0000"
+    },
+    {
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "published_at": "Fri, 01 May 2026 18:23:04 +0000"
+    },
+    {
+      "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+      "published_at": "Fri, 01 May 2026 17:51:24 +0000"
+    },
+    {
+      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+      "published_at": "Fri, 01 May 2026 17:36:29 +0000"
+    },
+    {
+      "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+      "published_at": "Fri, 01 May 2026 17:09:59 +0000"
+    },
+    {
+      "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+      "published_at": "Fri, 01 May 2026 16:24:45 +0000"
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "published_at": "Fri, 01 May 2026 16:02:36 +0000"
+    },
+    {
+      "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+      "published_at": "Fri, 01 May 2026 15:32:27 +0000"
+    },
+    {
+      "title": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/05/is-your-purosangue-suv-not-sharp-enough-ferrari-has-you-covered/",
+      "published_at": "Fri, 01 May 2026 15:23:38 +0000"
+    },
+    {
+      "title": "Ubuntu services hit by outages after DDoS attack",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+      "published_at": "Fri, 01 May 2026 15:00:14 +0000"
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "published_at": "Fri, 01 May 2026 14:00:00 +0000"
+    },
+    {
+      "title": "People are finally using Reddit’s search",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "published_at": "Fri, 01 May 2026 12:00:11 +0000"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "published_at": "Fri, 01 May 2026 02:00:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-05-02.svg",
+  "generated_at": "2026-05-02T10:02:00+05:30"
+}
