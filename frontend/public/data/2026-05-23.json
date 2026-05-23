@@ -1,0 +1,129 @@
+{
+  "date": "2026-05-23",
+  "headline": "AI Voices, Rocket Launches, Digital Rights Tested",
+  "summary": "The digital ether buzzed this week with a story that feels straight out of a dystopian novel: the emergence of AI-resurrected voices of deceased pilots. This chilling development, which saw online users re-creating voices from crash investigation data, prompted an immediate scramble from US authorities to curb the practice, underscoring the rapid, often unsettling, pace of AI's ethical frontier. This isn't just theoretical; Google's latest AI glasses, while reported as \"almost there,\" hint at a future where AI becomes an ever-present, almost seamless layer over reality, raising immediate questions about consent, privacy, and the digital afterlife.\n\nBeyond the profound ethical debates, AI's commercial currents continue to churn, sometimes turbidly. TechCrunch highlighted how venture capitalists and founders are reportedly employing inflated Annual Recurring Revenue (ARR) figures to \"kingmake\" AI startups, revealing a potentially overheated market fraught with valuation games. Meanwhile, Spotify's ambitious \"AI bet\" appears to be doubling down on quantity over quality, promising \"more of everything\" but potentially delivering \"less of what you want,\" signaling a divergence between AI's potential and its practical application in enhancing user experience. This broad embrace of AI, from deepfakes to inflated market figures, points to an industry grappling with its own rapidly expanding capabilities.\n\nAbove Earth, the burgeoning space industry delivered a mix of triumph and tension. SpaceX celebrated the maiden flight of its Starship V3, a significant leap forward, though it encountered a setback with the loss of its booster on return. Not to be outdone, Blue Origin received clearance for its New Glenn mega-rocket after a previous mishap, reigniting the commercial space race. However, the heavens are not without earthly anxieties: the concerning proximity of four Russian satellites to an ICEYE radarsat, a company supporting Ukraine, cast a stark shadow of potential space militarization. As the venerable International Space Station nears its end, discussions are already underway about preserving its legacy, juxtaposing nostalgia with the fierce competition for orbital dominance.\n\nCloser to home, the week was rife with skirmishes over digital rights, platform power, and government oversight. The controversial boast by police of hacking a VPN, long considered a secure haven, sent shivers through privacy advocates. Simultaneously, Meta found itself in legal crosshairs as the Texas AG sued over claims that WhatsApp's end-to-end encryption isn't quite what it seems. Apple continued its high-stakes legal battle with Epic, arguing against a universal reshaping of App Store rules, while Google users grappled with mysteriously failing first-gen Chromecasts and bewildering UI choices, including \"disco-ball icons\" and a bizarre inability to Google the word \"disregard.\" Even broader policy debates surfaced, with the Trump FCC controversially asking for public input on whether ABC's \"The View\" qualifies as a news show, blurring lines between entertainment and journalism.\n\nAs the week concludes, it's clear that the technological advancements of 2026 are not merely innovations but catalysts for profound societal and ethical questions. The struggle to balance AI's potential with its pitfalls, the geopolitical dance in orbit, and the ongoing battles over digital privacy and corporate accountability will define the next chapter of the tech world. Expect intensified regulatory scrutiny, continued clashes over platform control, and a heightened public awareness of how technology shapes our reality – both on Earth and beyond. The stakes, it seems, have never been higher.",
+  "articles": [
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "published_at": "Fri, 22 May 2026 23:03:33 +0000"
+    },
+    {
+      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+      "published_at": "Fri, 22 May 2026 22:55:57 +0000"
+    },
+    {
+      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "published_at": "Fri, 22 May 2026 22:50:23 +0000"
+    },
+    {
+      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+      "published_at": "Fri, 22 May 2026 22:24:03 +0000"
+    },
+    {
+      "title": "First-generation Chromecast users stressed by devices suddenly failing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+      "published_at": "Fri, 22 May 2026 21:42:59 +0000"
+    },
+    {
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+      "published_at": "Fri, 22 May 2026 21:37:17 +0000"
+    },
+    {
+      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+      "published_at": "Fri, 22 May 2026 21:10:46 +0000"
+    },
+    {
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "published_at": "Fri, 22 May 2026 21:02:36 +0000"
+    },
+    {
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "published_at": "Fri, 22 May 2026 20:40:48 +0000"
+    },
+    {
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "published_at": "Fri, 22 May 2026 19:39:04 +0000"
+    },
+    {
+      "title": "The Boys is dead. Long live Vought Rising.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+      "published_at": "Fri, 22 May 2026 19:02:48 +0000"
+    },
+    {
+      "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+      "published_at": "Fri, 22 May 2026 18:43:54 +0000"
+    },
+    {
+      "title": "Review: The Mandalorian and Grogu is ... fine",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+      "published_at": "Fri, 22 May 2026 18:30:06 +0000"
+    },
+    {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "published_at": "Fri, 22 May 2026 18:13:05 +0000"
+    },
+    {
+      "title": "Before it comes down, what should be saved from the International Space Station?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+      "published_at": "Fri, 22 May 2026 17:59:29 +0000"
+    },
+    {
+      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+      "published_at": "Fri, 22 May 2026 16:28:06 +0000"
+    },
+    {
+      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+      "published_at": "Fri, 22 May 2026 16:27:57 +0000"
+    },
+    {
+      "title": "Spotify’s AI bet: more of everything, less of what you want",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
+      "published_at": "Fri, 22 May 2026 16:18:10 +0000"
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "published_at": "Fri, 22 May 2026 16:16:48 +0000"
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "published_at": "Fri, 22 May 2026 15:37:15 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-05-23.svg",
+  "generated_at": "2026-05-23T10:23:58+05:30"
+}
