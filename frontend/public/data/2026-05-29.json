@@ -1,0 +1,129 @@
+{
+  "date": "2026-05-29",
+  "headline": "AI's Trillion-Dollar Dawn, Blue Origin's Fiery Dusk",
+  "summary": "The tech world woke up today to a stark reminder of its dual nature: breathtaking ambition often meets humbling reality, even as capital chases the next paradigm shift. The most dramatic headline undoubtedly belonged to Blue Origin, whose New Glenn rocket suffered a \"spectacular explosion\" during a static fire test in Florida. This fiery setback for Jeff Bezos's space venture, intended for heavy lifting including Amazon payloads, underscores the immense challenges of space exploration and the high stakes involved in pushing the boundaries of engineering.\n\nYet, even as one frontier met a fiery end, another continued its seemingly unstoppable ascent. Artificial intelligence dominated financial news, with Anthropic reportedly raising an astounding $65 billion, catapulting its valuation close to $1 trillion ahead of its anticipated IPO. This colossal investment highlights the industry's fervent belief in AI's future, a sentiment echoed by Asana's acquisition of no-code agent-builder StackAI and Glean's success in leveraging AI for corporate budget-cutting. But the rapid march of AI isn't without its caveats; concerns were raised about LLMs' tendency to \"believe\" false statements even with explicit warnings, and a developer's deliberate prompt injection to nuke data serves as a stark warning about emerging cybersecurity vulnerabilities in an \"internet rebuilt for machines.\" Meanwhile, Apple is reportedly racing to distill Google's massive Gemini model into iPhones, signaling a significant push towards powerful on-device AI.\n\nBeyond AI and space, the future of mobility continued to electrify. Waymo firmly established its dominance in autonomous vehicle registrations, leaving Tesla in its rearview mirror. The automotive landscape also saw updates on a \"performance PHEV\" in the 2027 Audi RS5 and an impending pricing announcement for Slate Auto's new EV. Fueling this transition, researchers unveiled a promising new process to extract lithium from rocks, a critical development for battery production. These strides underscore the ongoing shift towards sustainable transport and the infrastructure needed to support it.\n\nMeanwhile, the digital ecosystem grappled with familiar demons. A new wave of phishing attacks targeted Signal users, attempting to compromise their encrypted backups, emphasizing the persistent threat to digital privacy. Ethical concerns surfaced as an FBI investigation revealed a Google engineer allegedly used internal search data to secure a $1.2 million win on Polymarket. Social media competition also heated up as Bluesky, still vying for relevance, embraced long-form content in a direct challenge to X's 'Articles,' signaling a battle for the digital town square.\n\nLooking ahead, the juxtaposition of Blue Origin's setback and Anthropic's meteoric rise encapsulates the volatile yet exhilarating nature of modern tech. We'll be watching closely for Blue Origin's recovery and the continued evolution of AI – particularly how on-device AI transforms our personal tech and how companies navigate the ethical and security challenges inherent in these powerful new systems. The race for technological supremacy and responsible innovation continues apace.",
+  "articles": [
+    {
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+      "published_at": "Thu, 28 May 2026 23:01:52 +0000"
+    },
+    {
+      "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
+      "published_at": "Thu, 28 May 2026 22:01:02 +0000"
+    },
+    {
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "published_at": "Thu, 28 May 2026 21:29:43 +0000"
+    },
+    {
+      "title": "The internet is being rebuilt for machines",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "published_at": "Thu, 28 May 2026 21:24:01 +0000"
+    },
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "published_at": "Thu, 28 May 2026 20:29:53 +0000"
+    },
+    {
+      "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+      "published_at": "Thu, 28 May 2026 20:29:00 +0000"
+    },
+    {
+      "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+      "published_at": "Thu, 28 May 2026 20:18:54 +0000"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "published_at": "Thu, 28 May 2026 20:06:07 +0000"
+    },
+    {
+      "title": "Researchers develop a new process to get lithium out of rocks",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+      "published_at": "Thu, 28 May 2026 19:30:04 +0000"
+    },
+    {
+      "title": "Bluesky embraces long-form content to counter X Articles",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+      "published_at": "Thu, 28 May 2026 19:27:07 +0000"
+    },
+    {
+      "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+      "published_at": "Thu, 28 May 2026 19:07:24 +0000"
+    },
+    {
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "published_at": "Thu, 28 May 2026 19:01:54 +0000"
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "published_at": "Thu, 28 May 2026 18:52:51 +0000"
+    },
+    {
+      "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+      "published_at": "Thu, 28 May 2026 18:42:28 +0000"
+    },
+    {
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "published_at": "Thu, 28 May 2026 18:30:48 +0000"
+    },
+    {
+      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+      "published_at": "Thu, 28 May 2026 18:17:41 +0000"
+    },
+    {
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "published_at": "Fri, 29 May 2026 02:21:08 +0000"
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "published_at": "Fri, 29 May 2026 01:22:16 +0000"
+    },
+    {
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "published_at": "Fri, 29 May 2026 00:44:37 +0000"
+    },
+    {
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "published_at": "Fri, 29 May 2026 00:14:35 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-05-29.svg",
+  "generated_at": "2026-05-29T11:11:41+05:30"
+}
