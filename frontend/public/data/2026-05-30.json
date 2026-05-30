@@ -1,0 +1,129 @@
+{
+  "date": "2026-05-30",
+  "headline": "AI's Grip Tightens, Regulators Watch, Billions Fly",
+  "summary": "The tech world today paints a nuanced picture, with artificial intelligence increasingly dictating the rhythm of innovation while simultaneously raising profound questions about human reliance and corporate ethics. A striking development highlights this paradox: reports indicate a growing number of coders are now refusing to work without AI tools, sparking concerns about over-reliance and the potential for companies to become \"AI-pilled\" without fully understanding the long-term implications. This trend, coupled with discussions from leaders like Cognition's Scott Wu cautioning against AI coding agents completely replacing humans, signals a critical juncture in the human-AI collaboration paradigm.\n\nBeneath the surface of this AI-driven evolution, significant capital continues to flow, particularly into the foundational hardware. AI chip startup Groq is reportedly seeking $650 million in funding, hot on the heels of Nvidia's eye-watering \"not-acqui-hire\" move, underscoring the relentless demand for processing power. Yet, the drive for AI advancement isn't without its more unconventional, even intrusive, facets; one startup is offering free home cleaning in exchange for the right to record the process for robot training, exposing the burgeoning market for real-world data and the privacy trade-offs users might soon confront. Meanwhile, the very definition of AI terms is being demystified, pointing to a wider push for AI literacy as the technology permeates every sector.\n\nAmidst this tech boom, regulatory and ethical challenges are mounting for established giants. Google's dominant ad business is once again under intense scrutiny, with founders leveraging a recent Indian court ruling to revive long-standing criticisms of its market power. Microsoft, too, finds itself in hot water, facing backlash for allegedly threatening a security researcher with criminal investigation, a move that raises serious questions about corporate accountability and the treatment of white-hat hackers. These incidents unfold against a backdrop of broader government moves, including proposed US funding rules that could allow grant cancellations at any time and a Trump FCC warning broadcasters to follow orders, signaling an increasingly fraught relationship between Silicon Valley and Washington.\n\nBeyond the AI and regulatory battlegrounds, other major shifts are reshaping the industry. SpaceX secured a massive $6.45 billion in Space Force contracts, providing a significant boost ahead of its anticipated IPO and cementing its role in the critical space economy. On the digital security front, a colossal botnet comprising over 17 million devices was successfully dismantled, a stark reminder of the persistent threats lurking online. And in a more peculiar cultural note, the Silicon Valley elite's ongoing fascination with biohacking, particularly peptides, continues to offer a glimpse into the fringe wellness trends embraced by the tech world.\n\nLooking ahead, the tension between rapid AI adoption and the imperative for ethical oversight will define much of the tech discourse. We'll be watching closely to see how companies navigate the calls for transparency and accountability, especially as AI's data demands push the boundaries of user privacy. The regulatory environment, poised to become even more assertive, promises to shape market dynamics, while the race for AI hardware supremacy and the continued expansion of the space economy will drive significant investment and innovation. The coming months will reveal whether the industry can harness AI's power responsibly or succumb to the very risks it creates.",
+  "articles": [
+    {
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "published_at": "Sat, 30 May 2026 02:00:00 +0000"
+    },
+    {
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "published_at": "Sat, 30 May 2026 00:39:13 +0000"
+    },
+    {
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "published_at": "Fri, 29 May 2026 22:58:29 +0000"
+    },
+    {
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "published_at": "Fri, 29 May 2026 22:21:38 +0000"
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "published_at": "Fri, 29 May 2026 22:14:22 +0000"
+    },
+    {
+      "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+      "published_at": "Fri, 29 May 2026 21:17:09 +0000"
+    },
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published_at": "Fri, 29 May 2026 18:49:19 +0000"
+    },
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "published_at": "Fri, 29 May 2026 18:46:33 +0000"
+    },
+    {
+      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
+      "published_at": "Fri, 29 May 2026 18:35:38 +0000"
+    },
+    {
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "published_at": "Fri, 29 May 2026 18:21:44 +0000"
+    },
+    {
+      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
+      "published_at": "Fri, 29 May 2026 18:09:43 +0000"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "published_at": "Fri, 29 May 2026 17:57:05 +0000"
+    },
+    {
+      "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+      "published_at": "Fri, 29 May 2026 17:41:56 +0000"
+    },
+    {
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "published_at": "Fri, 29 May 2026 17:27:13 +0000"
+    },
+    {
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "published_at": "Fri, 29 May 2026 17:03:39 +0000"
+    },
+    {
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "published_at": "Fri, 29 May 2026 16:16:14 +0000"
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "published_at": "Fri, 29 May 2026 16:13:47 +0000"
+    },
+    {
+      "title": "After years of stability, F1 reliability can no longer be taken for granted",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+      "published_at": "Fri, 29 May 2026 16:03:28 +0000"
+    },
+    {
+      "title": "Severed sea cucumber appendages don't seem to die",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+      "published_at": "Fri, 29 May 2026 15:10:29 +0000"
+    },
+    {
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "published_at": "Fri, 29 May 2026 14:15:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-05-30.svg",
+  "generated_at": "2026-05-30T10:31:59+05:30"
+}
