@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-04",
+  "headline": "Google Fuels AI Billions, Tech Battles Evolve",
+  "summary": "The tech world is buzzing with Alphabet's colossal $85 billion raise for Google's AI business, signaling an unprecedented commitment to its leadership in the field. This financial muscle is immediately apparent in product news: a new, laptop-friendly Gemma 4 12B model democratizing local AI, and the quirky \"Dreambeans\" tool turning everyday life into cartoons. Yet, this aggressive push isn't without friction, as evidenced by a UK order demanding clearer links in AI search results and opt-out options for publishers, highlighting the growing regulatory scrutiny on Google's AI practices. Further cementing its infrastructural might, Lovable significantly expanded its multiyear deal with Google Cloud.\n\nBeyond Google, the AI narrative is complex. Meta, despite its recent spin-out of VR fitness game Supernatural, continues its determined struggle to catch up in the AI race, indicative of the high stakes involved. On the policy front, the Trump administration's plans to test AI models face internal security team challenges, an unforeseen consequence of past organizational shifts. Meanwhile, at the bleeding edge of computation, Microsoft, Atom Computing, and EeroQ provided updates on their quantum computing advancements, a foundational technology poised to redefine what's possible in the AI era.\n\nThe real-world implications of data collection and emerging technologies also took center stage. Uber announced plans to deploy 500 data-collection vehicles, underscoring its relentless pursuit of autonomous driving data. However, a new study casts doubt on a core promise of autonomous vehicles, suggesting they may not alleviate traffic congestion any more than traditional ride-hailing. Concurrently, data security remains a persistent headache: Dashlane grappled with confusing notifications following a vault theft, and Ultrahuman confirmed hackers accessed customer wellness data via an internal tool, reminding us that data accumulation carries significant responsibility and risk.\n\nThe creator economy and venture capital sectors showed vibrant activity. Substack empowered creators with new 'Reply Rules' for content control, while Plex continued its evolution beyond media servers with fresh social features, adapting to user demand for community. On the investment side, Benchmark made waves by raising its first-ever growth fund as part of a substantial $2 billion capital raise, demonstrating robust confidence in tech innovation. This sentiment was echoed by quick commerce startup FirstClub, which doubled its valuation to $255 million in just nine months, and the defense tech sector, which continues to attract significant funding, albeit with questions lingering about long-term sustainability.\n\nAs the dust settles on this day's news, it's clear that the AI arms race, led by Google's formidable investments, will continue to define the tech landscape. Watch for intensifying regulatory pressures shaping how these powerful tools are integrated into our daily lives, particularly concerning content ownership and data privacy. The ongoing evolution of mobility solutions and the persistent challenges in cybersecurity will demand innovative solutions, while the venture capital markets remain keen to fund the next wave of disruptive technologies. The interplay between innovation, regulation, and investment will be crucial in determining which companies truly build to last in this rapidly accelerating future.",
+  "articles": [
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "published_at": "Wed, 03 Jun 2026 22:56:51 +0000"
+    },
+    {
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "published_at": "Wed, 03 Jun 2026 22:09:41 +0000"
+    },
+    {
+      "title": "Defense tech is flooded with money, but who’s built to last?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "published_at": "Wed, 03 Jun 2026 20:51:41 +0000"
+    },
+    {
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "published_at": "Wed, 03 Jun 2026 20:26:51 +0000"
+    },
+    {
+      "title": "Uber to put 500 data-collection vehicles on the road this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+      "published_at": "Wed, 03 Jun 2026 20:08:28 +0000"
+    },
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "published_at": "Wed, 03 Jun 2026 19:53:14 +0000"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "published_at": "Wed, 03 Jun 2026 19:38:32 +0000"
+    },
+    {
+      "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+      "published_at": "Wed, 03 Jun 2026 19:22:53 +0000"
+    },
+    {
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "published_at": "Wed, 03 Jun 2026 19:10:03 +0000"
+    },
+    {
+      "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+      "published_at": "Wed, 03 Jun 2026 19:08:55 +0000"
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "published_at": "Wed, 03 Jun 2026 19:07:42 +0000"
+    },
+    {
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "published_at": "Wed, 03 Jun 2026 18:11:15 +0000"
+    },
+    {
+      "title": "New social features further Plex’s evolution from media server business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "published_at": "Wed, 03 Jun 2026 17:35:06 +0000"
+    },
+    {
+      "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+      "published_at": "Wed, 03 Jun 2026 17:30:52 +0000"
+    },
+    {
+      "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+      "published_at": "Wed, 03 Jun 2026 15:13:03 +0000"
+    },
+    {
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "published_at": "Wed, 03 Jun 2026 13:35:58 +0000"
+    },
+    {
+      "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
+      "published_at": "Wed, 03 Jun 2026 11:15:07 +0000"
+    },
+    {
+      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+      "published_at": "Thu, 04 Jun 2026 03:52:15 +0000"
+    },
+    {
+      "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+      "published_at": "Thu, 04 Jun 2026 02:46:35 +0000"
+    },
+    {
+      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+      "published_at": "Thu, 04 Jun 2026 00:30:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-06-04.svg",
+  "generated_at": "2026-06-04T11:40:45+05:30"
+}
