@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-06",
+  "headline": "Big Tech's Billion-Dollar Bets, Market Skepticism",
+  "summary": "The tech world woke up today to a staggering revelation: Google will be funneling an unprecedented $920 million per month to SpaceX for compute resources. This monumental deal underscores the insatiable demand for high-powered infrastructure in the age of AI and cloud supremacy, simultaneously cementing SpaceX's position as far more than just a rocket company. Yet, this private market exuberance met a dose of public market reality, as the S&P 500 controversially rejected SpaceX, OpenAI, and Anthropic for inclusion, citing profitability concerns. The message is clear: while innovation commands astronomical valuations behind closed doors, traditional market indices remain wary of the nascent, capital-intensive AI and space sectors. Adding to the day's tectonic shifts, LinkedIn co-founder Reid Hoffman signaled his return to 'founder mode' with startup Manus, highlighting a continuous flow of top-tier talent towards new, disruptive ventures.\n\nThe volatile landscape for startups was further illuminated by a mixed bag of news. While Supabase celebrated a dizzying doubling of its valuation to $10 billion in just eight months, TechCrunch also chronicled a darker side, sharing founders' candid \"horror stories\" about VC interactions. This stark contrast was echoed in the e-bike sector, where many VC-backed firms crumbled while the bootstrapped Lectric thrived, suggesting that sustainable growth often trumps hyper-aggressive funding. Interestingly, a new wave of startups is emerging with a focus on digital wellness, aiming to help users reduce their screen time – a refreshing counter-narrative to the omnipresent demands of our digital lives.\n\nBeneath the market machinations, critical infrastructure and cybersecurity concerns loomed large. A former cyber executive blew the whistle on IBM, alleging cover-ups of multiple data breaches, raising serious questions about corporate accountability in protecting sensitive information. Alarmingly, new threats surfaced, from a USB-connected speaker capable of infecting PCs wirelessly to a ransomware group employing a chillingly low-tech approach: sending fake IT workers to hack victims in person. Meanwhile, the International Space Station's ongoing air leak took a worrying turn, and closer to home, a giant data center plan was halved amid local protests, underscoring growing public concern over the environmental footprint of digital infrastructure.\n\nIn the realm of energy and mobility, significant advancements and ideological clashes were evident. A small modular nuclear reactor successfully reached criticality in its first test, signaling a promising step towards cleaner, more distributed energy solutions. General Motors detailed its electric future, heavily reliant on a new battery facility, while Audi unveiled the plug-in hybrid V8 Nuvolari, bridging the gap between traditional power and electrification. However, these strides in green tech were met with the Trump administration's renewed efforts to revive the coal industry, highlighting an ongoing political divide in energy policy, even as the protests against data center expansion underscore the local environmental costs of technological progress.\n\nAs the dust settles on this flurry of activity, the tech world stands at a fascinating crossroads. The tension between massive private investment and cautious public market sentiment will undoubtedly shape the next generation of tech giants. Keep an eye on how cybersecurity threats evolve, how sustainable energy solutions scale amidst political headwinds, and whether the \"off-phone\" movement gains traction – all indicators of a sector grappling with its own unprecedented power and responsibility.",
+  "articles": [
+    {
+      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+      "published_at": "Fri, 05 Jun 2026 22:36:21 +0000"
+    },
+    {
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "published_at": "Fri, 05 Jun 2026 22:35:01 +0000"
+    },
+    {
+      "title": "Founders share VC horror stories, and some are naming names",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "published_at": "Fri, 05 Jun 2026 21:47:56 +0000"
+    },
+    {
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "published_at": "Fri, 05 Jun 2026 21:00:29 +0000"
+    },
+    {
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "published_at": "Fri, 05 Jun 2026 20:31:04 +0000"
+    },
+    {
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "published_at": "Fri, 05 Jun 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Small modular nuclear reactor reaches criticality in first test",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+      "published_at": "Fri, 05 Jun 2026 19:23:08 +0000"
+    },
+    {
+      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "published_at": "Fri, 05 Jun 2026 19:03:16 +0000"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "published_at": "Fri, 05 Jun 2026 18:57:20 +0000"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published_at": "Fri, 05 Jun 2026 18:45:20 +0000"
+    },
+    {
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "published_at": "Fri, 05 Jun 2026 18:23:00 +0000"
+    },
+    {
+      "title": "GM’s electric future depends on a new battery — and this facility",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+      "published_at": "Fri, 05 Jun 2026 17:44:18 +0000"
+    },
+    {
+      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+      "published_at": "Fri, 05 Jun 2026 17:38:06 +0000"
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "published_at": "Fri, 05 Jun 2026 17:17:06 +0000"
+    },
+    {
+      "title": "Review: Spider-Noir recaptures the magic of a bygone era",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
+      "published_at": "Fri, 05 Jun 2026 17:05:02 +0000"
+    },
+    {
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "published_at": "Fri, 05 Jun 2026 16:32:27 +0000"
+    },
+    {
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "published_at": "Fri, 05 Jun 2026 16:07:46 +0000"
+    },
+    {
+      "title": "Trump admin tries again to revive dying coal industry",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
+      "published_at": "Fri, 05 Jun 2026 15:55:14 +0000"
+    },
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "published_at": "Fri, 05 Jun 2026 15:40:48 +0000"
+    },
+    {
+      "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
+      "published_at": "Fri, 05 Jun 2026 14:44:04 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-06-06.svg",
+  "generated_at": "2026-06-06T10:37:11+05:30"
+}
