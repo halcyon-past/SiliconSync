@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-25",
+  "headline": "AI's New Core: Chips, Talent, and Geopolitics",
+  "summary": "Today's tech landscape is buzzing with developments across the spectrum, but perhaps no story looms larger than the deepening integration of artificial intelligence into the very fabric of hardware. In a move set to reverberate through the industry, OpenAI and Broadcom have announced a groundbreaking collaboration to produce a specialized chip optimized for large language model (LLM) inference at scale. This partnership underscores the relentless pursuit of more efficient, powerful AI infrastructure, signaling a critical phase where software innovation is increasingly tethered to custom silicon. Yet, even as new frontiers open, the established chip market remains volatile, with Cerebras stock plummeting post-earnings, highlighting the tightrope walk for hardware firms amidst a memory chip crunch that is, conversely, proving lucrative for some US companies.\n\nThe human element of AI also remains a fascinating paradox. Despite earlier predictions of widespread job displacement, new data suggests that engineering roles, far from being supplanted, are proving remarkably resilient to AI automation. This unexpected stability comes even as Google continues to grapple with a brain drain of its top AI researchers, who are increasingly drawn to rival companies, showcasing the intense talent war at the heart of the AI revolution. Meanwhile, companies are wrestling with the practicalities of AI adoption, scrambling to manage burgeoning internal AI budgets as employees leverage even small tasks with powerful, but costly, models. Overlaying these internal dynamics is a brewing geopolitical subplot, as Europe begins to push back against Washington's \"chip war,\" adding a layer of international complexity to the already cutthroat semiconductor industry.\n\nBeyond AI, the broader tech and consumer landscape is seeing its own set of shifts. In the automotive sector, the much-talked-about $24,950 Slate electric pickup truck is generating buzz, even as its battery specifications undergo changes – a testament to the rapid evolution in affordable EV technology, echoed by Formula E's new season embracing more traditional race tracks. Elsewhere, industry stalwarts face challenges; a former Infosys chief is launching a new venture to disrupt IT services, and Disney has agreed to a substantial $50 million settlement over allegations of inflating live-TV streaming costs, underscoring ongoing scrutiny of digital service pricing. Even NASA isn't immune, with reports justifying recent program cancellations due to massive cost overruns and delays.\n\nDigital security and privacy are also firmly in the spotlight. A new website is publicly naming and shaming companies that have yet to implement passkeys, championing a more secure authentication future. Concurrently, global law enforcement has celebrated a significant victory, disrupting a pervasive cybercrime 'assembly line' through a coordinated international operation. However, privacy advocates are watching closely as the FCC plans a new ID mandate that could effectively block anonymous use of prepaid burner phones, raising concerns about surveillance and civil liberties.\n\nAs these narratives unfold, the coming months will undoubtedly be defined by the accelerating pace of AI integration into hardware, the ongoing tug-of-war for talent and market share in the chip industry, and the evolving regulatory and security frameworks governing our digital lives. Keep a close eye on how these foundational shifts reshape both enterprise strategies and our daily tech experiences.",
+  "articles": [
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "published_at": "Wed, 24 Jun 2026 23:26:52 +0000"
+    },
+    {
+      "title": "Elon suffers another day short of trillionaire status",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "published_at": "Wed, 24 Jun 2026 23:09:39 +0000"
+    },
+    {
+      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "published_at": "Wed, 24 Jun 2026 22:47:03 +0000"
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "published_at": "Wed, 24 Jun 2026 22:41:41 +0000"
+    },
+    {
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "published_at": "Wed, 24 Jun 2026 22:28:18 +0000"
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "published_at": "Wed, 24 Jun 2026 21:56:41 +0000"
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "published_at": "Wed, 24 Jun 2026 21:42:07 +0000"
+    },
+    {
+      "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+      "published_at": "Wed, 24 Jun 2026 21:41:03 +0000"
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "published_at": "Wed, 24 Jun 2026 21:30:55 +0000"
+    },
+    {
+      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
+      "published_at": "Wed, 24 Jun 2026 21:28:39 +0000"
+    },
+    {
+      "title": "New website names and shames companies that still don’t offer passkeys to users",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "published_at": "Wed, 24 Jun 2026 21:04:04 +0000"
+    },
+    {
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "published_at": "Wed, 24 Jun 2026 21:03:34 +0000"
+    },
+    {
+      "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
+      "published_at": "Wed, 24 Jun 2026 20:28:07 +0000"
+    },
+    {
+      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+      "published_at": "Wed, 24 Jun 2026 20:22:58 +0000"
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "published_at": "Wed, 24 Jun 2026 20:09:45 +0000"
+    },
+    {
+      "title": "Experimental wine bottle tracks oxygen moving through the cork",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
+      "published_at": "Wed, 24 Jun 2026 20:04:32 +0000"
+    },
+    {
+      "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
+      "published_at": "Wed, 24 Jun 2026 19:45:37 +0000"
+    },
+    {
+      "title": "Here’s why Slate changed the battery in its cheap EV truck",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
+      "published_at": "Wed, 24 Jun 2026 19:27:56 +0000"
+    },
+    {
+      "title": "Formula E reveals first calendar for GEN4 with lots of real race tracks",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/",
+      "published_at": "Wed, 24 Jun 2026 17:35:45 +0000"
+    },
+    {
+      "title": "Europe is pushing back on Washington’s chip war",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "published_at": "Thu, 25 Jun 2026 00:08:36 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-06-25.svg",
+  "generated_at": "2026-06-25T11:03:23+05:30"
+}
