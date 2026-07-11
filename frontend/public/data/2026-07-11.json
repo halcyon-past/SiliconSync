@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-11",
+  "headline": "Apple Sues OpenAI, Cyber Falters, China Rises in Space",
+  "summary": "The tech world woke up to a seismic shift this Friday as Apple announced a lawsuit against OpenAI, alleging trade secret theft. This high-stakes legal battle marks a significant escalation in the ongoing struggle for AI dominance and intellectual property, setting a precedent for how innovation and collaboration will be governed. The move comes as AI's integration into daily life continues to face scrutiny, with Meta notably rolling back a controversial AI feature on Instagram after user backlash, and the EU threatening massive fines over addictive social media practices like autoplay and infinite scroll.\n\nBeyond the headline-grabbing AI disputes, the digital landscape revealed a disconcerting fragility. The US cybersecurity agency CISA admitted to having to build its incident playbook *during* a major cyberattack, highlighting a troubling lack of preparedness at critical levels. This vulnerability is compounded by revelations of egregious ethical breaches, from a ransomware negotiator colluding with attackers to a college app accusing a VC firm of sharing confidential startup data with a rival. Meanwhile, cases of digital malpractice persist, with one company accused of 'cookie stuffing' to fraudulently claim affiliate credit.\n\nIn the realm of hardware and industry, major moves signal shifts in global tech power. SK Hynix made history with the largest foreign IPO ever in the US, raising a staggering $26.5 billion, and is now being pressured to establish new manufacturing fabs on American soil – a clear play in the geopolitical race for semiconductor independence. Quantum computing continues its march forward with advancements in error correction, while everyday hardware saw hiccups, like a firmware update bricking Philips Hue Bridge Pro devices.\n\nSpace exploration and scientific discovery offered a more optimistic outlook, showcasing humanity's drive to push boundaries. China demonstrated a significant leap in its space capabilities, successfully recovering its first reusable rocket and developing novel recovery techniques, closing the gap with pioneers like SpaceX. Elsewhere, an orbiting 'disco ball' provided the most precise test yet of Einstein’s theory of relativity, and an expedition unveiled the first images of Ernest Shackleton's lost ship, Quest, from the deep ocean floor.\n\nAs the dust settles on a tumultuous day, it's clear the convergence of AI, cybersecurity, and global competition will define the immediate future. Expect the Apple-OpenAI saga to unfold with profound implications for IP law and AI development. Simultaneously, the urgency for robust cybersecurity infrastructure and ethical corporate behavior will only intensify, while the race for hardware dominance and space innovation continues to accelerate. The interplay of these forces promises a dynamic, and often challenging, path forward for the tech industry.",
+  "articles": [
+    {
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published_at": "Sat, 11 Jul 2026 01:01:28 +0000"
+    },
+    {
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "published_at": "Sat, 11 Jul 2026 00:29:25 +0000"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published_at": "Fri, 10 Jul 2026 23:55:07 +0000"
+    },
+    {
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "published_at": "Fri, 10 Jul 2026 23:02:30 +0000"
+    },
+    {
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+      "published_at": "Fri, 10 Jul 2026 22:37:22 +0000"
+    },
+    {
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "published_at": "Fri, 10 Jul 2026 21:51:55 +0000"
+    },
+    {
+      "title": "China recovered its first reusable rocket and showed a new way to do it",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+      "published_at": "Fri, 10 Jul 2026 21:41:43 +0000"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published_at": "Fri, 10 Jul 2026 21:00:29 +0000"
+    },
+    {
+      "title": "Check out the first images of Quest shipwreck",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "published_at": "Fri, 10 Jul 2026 19:59:31 +0000"
+    },
+    {
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "published_at": "Fri, 10 Jul 2026 19:40:11 +0000"
+    },
+    {
+      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+      "published_at": "Fri, 10 Jul 2026 19:25:04 +0000"
+    },
+    {
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "published_at": "Fri, 10 Jul 2026 17:42:36 +0000"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "published_at": "Fri, 10 Jul 2026 17:17:12 +0000"
+    },
+    {
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "published_at": "Fri, 10 Jul 2026 17:11:51 +0000"
+    },
+    {
+      "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "published_at": "Fri, 10 Jul 2026 16:53:31 +0000"
+    },
+    {
+      "title": "China is catching up to Elon Musk’s reusable rockets",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "published_at": "Fri, 10 Jul 2026 16:51:07 +0000"
+    },
+    {
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "published_at": "Fri, 10 Jul 2026 16:36:09 +0000"
+    },
+    {
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "published_at": "Fri, 10 Jul 2026 16:29:05 +0000"
+    },
+    {
+      "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
+      "published_at": "Fri, 10 Jul 2026 16:11:35 +0000"
+    },
+    {
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "published_at": "Fri, 10 Jul 2026 15:46:18 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-07-11.svg",
+  "generated_at": "2026-07-11T10:03:45+05:30"
+}
