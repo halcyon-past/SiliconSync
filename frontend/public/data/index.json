@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-16",
+    "headline": "Microsoft's AI Gambit Dominates a Volatile Tech Landscape",
+    "preview": "In a striking turn that underscores the escalating AI arms race, reports indicate Microsoft is training its sales force to actively disparage competitors OpenAI and Anthropic. This aggressive tactic s",
+    "image_path": "/assets/headers/2026-07-16.svg"
+  },
+  {
     "date": "2026-07-15",
     "headline": "AI Gold Rush Meets Reality: Billions, Bugs, and Regulation",
     "preview": "The relentless pace of AI innovation continues to redefine the tech landscape, highlighted by news that OpenAI researcher Miles Wang is reportedly in talks to launch an AI drug discovery startup value",
@@ -532,11 +538,5 @@
     "headline": "AI's Ascent: Innovation Meets Geopolitical Shadows",
     "preview": "Today's tech landscape presented a compelling paradox, showcasing both the breathtaking ascent of artificial intelligence and the deepening shadows of geopolitical tension it casts. On the innovation ",
     "image_path": "/assets/headers/2026-04-07.svg"
-  },
-  {
-    "date": "2026-04-06",
-    "headline": "AI's Unstable Foundation: Internal Strife, Global Threats",
-    "preview": "The tech world today finds itself navigating a familiar yet ever-more-complex landscape, with OpenAI once again at its turbulent heart. Reports have surfaced detailing significant distrust among some ",
-    "image_path": "/assets/headers/2026-04-06.svg"
   }
 ]
