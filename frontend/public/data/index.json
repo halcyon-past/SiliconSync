@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-17",
+    "headline": "AI's Ethical Gauntlet: Regulation, Robots, and Ransomware",
+    "preview": "The digital frontier blurred significantly today, with xAI's Grok finding itself in the harsh spotlight of a lawsuit against its own users over alleged CSAM generation. This unprecedented legal maneuv",
+    "image_path": "/assets/headers/2026-07-17.svg"
+  },
+  {
     "date": "2026-07-16",
     "headline": "Microsoft's AI Gambit Dominates a Volatile Tech Landscape",
     "preview": "In a striking turn that underscores the escalating AI arms race, reports indicate Microsoft is training its sales force to actively disparage competitors OpenAI and Anthropic. This aggressive tactic s",
@@ -532,11 +538,5 @@
     "headline": "AI's Truth Troubles Amidst Tech's Evolving Landscape",
     "preview": "Today's tech landscape paints a picture of stark contradictions, perhaps most acutely in the realm of Artificial Intelligence. Alarming reports suggest Google's much-touted AI Overviews are prone to g",
     "image_path": "/assets/headers/2026-04-08.svg"
-  },
-  {
-    "date": "2026-04-07",
-    "headline": "AI's Ascent: Innovation Meets Geopolitical Shadows",
-    "preview": "Today's tech landscape presented a compelling paradox, showcasing both the breathtaking ascent of artificial intelligence and the deepening shadows of geopolitical tension it casts. On the innovation ",
-    "image_path": "/assets/headers/2026-04-07.svg"
   }
 ]
