@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-18",
+    "headline": "AI Ethics, Space Ambition, Market Forces Collide",
+    "preview": "The tech world today presented a stark reminder that innovation, however dazzling, rarely escapes the gravitational pull of ethics and regulation. The biggest story gripping the industry is the unifie",
+    "image_path": "/assets/headers/2026-07-18.svg"
+  },
+  {
     "date": "2026-07-17",
     "headline": "AI's Ethical Gauntlet: Regulation, Robots, and Ransomware",
     "preview": "The digital frontier blurred significantly today, with xAI's Grok finding itself in the harsh spotlight of a lawsuit against its own users over alleged CSAM generation. This unprecedented legal maneuv",
@@ -532,11 +538,5 @@
     "headline": "Digital Autonomy Challenged: AI Advances, Privacy Erodes",
     "preview": "Today's tech news paints a vivid, often unsettling, picture of a world accelerating into a future defined by powerful AI and pervasive digital control. Leading the charge into contentious territory, t",
     "image_path": "/assets/headers/2026-04-09.svg"
-  },
-  {
-    "date": "2026-04-08",
-    "headline": "AI's Truth Troubles Amidst Tech's Evolving Landscape",
-    "preview": "Today's tech landscape paints a picture of stark contradictions, perhaps most acutely in the realm of Artificial Intelligence. Alarming reports suggest Google's much-touted AI Overviews are prone to g",
-    "image_path": "/assets/headers/2026-04-08.svg"
   }
 ]
