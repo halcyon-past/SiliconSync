@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-20",
+    "headline": "AI Redefines Creativity, Space Ignites, Tech Scrutinized",
+    "preview": "The skies above Earth are buzzing with activity, both commercial and national, marking a pivotal moment in aerospace. India made a dramatic entrance onto the global private space stage, successfully l",
+    "image_path": "/assets/headers/2026-07-20.svg"
+  },
+  {
     "date": "2026-07-19",
     "headline": "AI's Rapid Rise, Regulatory Scrutiny Intensifies",
     "preview": "The volatile currents of artificial intelligence continue to dominate the tech narrative, epitomized this week by Databricks' eye-popping $188 billion valuation, a testament to AI's deep integration i",
@@ -532,11 +538,5 @@
     "headline": "Space Triumphs, AI Questions, Tech Shifts Ahead",
     "preview": "The vast expanse of space once again captivated the world this week as NASA's Artemis II mission successfully concluded its ambitious lunar journey. Four astronauts returned to Earth with a 'perfect' ",
     "image_path": "/assets/headers/2026-04-11.svg"
-  },
-  {
-    "date": "2026-04-10",
-    "headline": "AI Under Fire, EVs Retreat, Policy Scrutinized.",
-    "preview": "The tech world awoke to a palpable sense of unease today, as the ambitious frontier of artificial intelligence faced its most serious public challenge yet. Florida’s Attorney General announced a forma",
-    "image_path": "/assets/headers/2026-04-10.svg"
   }
 ]
