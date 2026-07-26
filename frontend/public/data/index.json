@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-26",
+    "headline": "AI's Ascent: Job Fears and Billions Fuel Innovation",
+    "preview": "The summer of 2026 continues its relentless march, and with it, the accelerating dual narrative of artificial intelligence. Today's headlines paint a vivid picture of AI as both a promised savior and ",
+    "image_path": "/assets/headers/2026-07-26.svg"
+  },
+  {
     "date": "2026-07-25",
     "headline": "AI Ascends, Space Stumbles, Markets Roil",
     "preview": "This past Friday delivered a potent reminder of the tech world's relentless dualities: breathtaking innovation often accompanied by profound challenges. AI's pervasive march continued unabated, exempl",
@@ -532,11 +538,5 @@
     "headline": "AI Shapes Identity, Fuels Cyber Wars, Strains Infrastructure",
     "preview": "The future of digital identity took a decisive turn this week, as Sam Altman's ambitious \"World\" project announced its expansion into critical consumer platforms like Tinder and Zoom. This move signal",
     "image_path": "/assets/headers/2026-04-18.svg"
-  },
-  {
-    "date": "2026-04-17",
-    "headline": "AI Unleashes Agents, Billions Bet, Cosmos Calls",
-    "preview": "The digital frontier shifted decisively today as Artificial Intelligence, already an omnipresent force, asserted new levels of autonomy. OpenAI's latest Codex update, granting it unprecedented control",
-    "image_path": "/assets/headers/2026-04-17.svg"
   }
 ]
