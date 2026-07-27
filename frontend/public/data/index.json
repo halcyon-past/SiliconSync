@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-27",
+    "headline": "AI Under Fire: Security, Jobs, and Future Frontiers",
+    "preview": "The tech world is reeling from an \"unprecedented\" OpenAI hack, a breach significant enough to prompt Hugging Face's CEO to demand \"radical transparency\" across the AI industry. This incident immediate",
+    "image_path": "/assets/headers/2026-07-27.svg"
+  },
+  {
     "date": "2026-07-26",
     "headline": "AI's Ascent: Job Fears and Billions Fuel Innovation",
     "preview": "The summer of 2026 continues its relentless march, and with it, the accelerating dual narrative of artificial intelligence. Today's headlines paint a vivid picture of AI as both a promised savior and ",
@@ -532,11 +538,5 @@
     "headline": "AI's Pervasive Push: From IPOs to Robotaxis",
     "preview": "The persistent drumbeat of artificial intelligence continued its relentless march across the tech landscape this week, not just as a futuristic promise, but as a tangible force reshaping market dynami",
     "image_path": "/assets/headers/2026-04-19.svg"
-  },
-  {
-    "date": "2026-04-18",
-    "headline": "AI Shapes Identity, Fuels Cyber Wars, Strains Infrastructure",
-    "preview": "The future of digital identity took a decisive turn this week, as Sam Altman's ambitious \"World\" project announced its expansion into critical consumer platforms like Tinder and Zoom. This move signal",
-    "image_path": "/assets/headers/2026-04-18.svg"
   }
 ]
