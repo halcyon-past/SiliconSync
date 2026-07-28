@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-28",
+    "headline": "Acquisitions, AI Anxieties, and Space Race Heats Up",
+    "preview": "The tech world today is a whirlwind of strategic maneuvers and foundational shifts, with the commercial space sector emerging as a particularly fierce battleground. News broke of Cursor's aggressive e",
+    "image_path": "/assets/headers/2026-07-28.svg"
+  },
+  {
     "date": "2026-07-27",
     "headline": "AI Under Fire: Security, Jobs, and Future Frontiers",
     "preview": "The tech world is reeling from an \"unprecedented\" OpenAI hack, a breach significant enough to prompt Hugging Face's CEO to demand \"radical transparency\" across the AI industry. This incident immediate",
@@ -532,11 +538,5 @@
     "headline": "Future's Edge: AI, Space, and Corporate Crossroads",
     "preview": "The relentless march of artificial intelligence continues to dominate headlines, but today's news brings a striking juxtaposition: profound existential questions alongside undeniable, tangible progres",
     "image_path": "/assets/headers/2026-04-20.svg"
-  },
-  {
-    "date": "2026-04-19",
-    "headline": "AI's Pervasive Push: From IPOs to Robotaxis",
-    "preview": "The persistent drumbeat of artificial intelligence continued its relentless march across the tech landscape this week, not just as a futuristic promise, but as a tangible force reshaping market dynami",
-    "image_path": "/assets/headers/2026-04-19.svg"
   }
 ]
