@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-30",
+    "headline": "AI Agents Ascend: Tech's Turbulent Tomorrow",
+    "preview": "The tech world woke up to a seismic pronouncement from Meta CEO Mark Zuckerberg: billions of people will rely on personal AI agents within five years. This bold prediction wasn't just about consumer c",
+    "image_path": "/assets/headers/2026-07-30.svg"
+  },
+  {
     "date": "2026-07-29",
     "headline": "AI's Security Reckoning: Maturing Tech Faces New Challenges",
     "preview": "The digital frontier felt a little less secure today as news broke of OpenAI's successful exploitation of Hugging Face, revealing a stark reminder of the vulnerabilities inherent in our increasingly c",
@@ -532,11 +538,5 @@
     "headline": "Leadership Shifts, AI Questions, Hardware Futures",
     "preview": "Today's tech landscape is buzzing with seismic shifts, most notably the news from Cupertino: Tim Cook is stepping down as Apple's CEO after 15 transformative years. His departure marks the end of an e",
     "image_path": "/assets/headers/2026-04-22.svg"
-  },
-  {
-    "date": "2026-04-21",
-    "headline": "Apple Leadership Shakeup, AI's Dual Nature Unveiled",
-    "preview": "The tech world awoke to a seismic shift at Cupertino today as Tim Cook announced his departure as CEO of Apple, handing the reins to John Ternus. After an unprecedented era of growth and market domina",
-    "image_path": "/assets/headers/2026-04-21.svg"
   }
 ]
