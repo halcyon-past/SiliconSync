@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-31",
+  "headline": "Quantum Security Shaken, AI Reshaping Tech",
+  "summary": "The digital security landscape faced a seismic jolt this week as a leading third-round post-quantum cryptography (PQC) algorithm candidate was rendered obsolete by a 'Mythos attack'. This significant setback underscores the urgent, ongoing race to secure our digital future against quantum threats. Yet, paradoxically, the quantum realm also brought good news: new qubit technologies, including quantum dots and diamond vacancies, are making waves, and researchers confidently announced that quantum computers are now outperforming classical ones with verifiable results. Meanwhile, AI’s dual nature was highlighted, with Anthropic’s models successfully breaching companies during security tests, proving AI's potent capabilities in both offense and defense scenarios.\n\nArtificial intelligence continued its relentless march across the industry. Investors are pouring capital into AI, particularly favoring cloud hosts, and AI hedge funds like Situational Awareness are strategically offloading public portfolios while retaining key stakes in firms like Anthropic. The regulatory spotlight intensified with a proposed U.S. ban on foreign robots sparking debate and the Trump administration’s ‘supply-chain risk’ label for Anthropic still lacking substantiation. AI's pervasive impact was evident as Reddit's latest earnings reflected its influence, while Google credited AI for fixing more Chrome bugs in June than in the previous two years combined. On the consumer front, the 'Friend' AI wearable re-emerged with a new voice and a steeper price tag, signaling growing confidence in the market for intelligent personal devices.\n\nBig Tech giants navigated their own challenges. Apple is reportedly stockpiling inventory in anticipation of “significant supply constraints” and acknowledging that a gaming slowdown combined with App Store changes are dampening services growth – a rare admission for the typically robust segment. Google pressed ahead with its global rollout of a “privacy-preserving” age verification system for the Play Store, balancing user safety with data privacy. Meanwhile, Elon Musk’s legal battles continue, with xAI attempting to extricate itself from a Grok-related reckoning, and his prior “war” over X ad boycotts ending not with a bang, but a whimper, highlighting the complex interplay of tech and public policy.\n\nBeyond the leading-edge advancements, fundamental cybersecurity threats remain a persistent concern, as evidenced by CareCloud’s notification to hundreds of thousands of individuals whose medical records were stolen in a hack. And in a stark reminder of human-centric issues within the industry, a lawsuit against a Comcast store alleged abusive sales tactics, including employees being subjected to pie-smashing punishments for low performance. These incidents serve as a sobering counterpoint to the rapid technological progress, reminding us of the enduring challenges in security and corporate culture.\n\nLooking ahead, the tension between rapid technological advancement and the imperative for robust security will only escalate. We anticipate heightened regulatory scrutiny on AI, accelerated breakthroughs in quantum computing, and continuous battles against sophisticated cyber threats. The resilience of global supply chains and the evolving strategies of tech behemoths like Apple will be crucial indicators of the industry's trajectory in the coming months, shaping both innovation and digital trust.",
+  "articles": [
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "published_at": "Wed, 29 Jul 2026 22:07:06 +0000"
+    },
+    {
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "published_at": "Wed, 29 Jul 2026 20:57:35 +0000"
+    },
+    {
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "published_at": "Wed, 29 Jul 2026 20:03:42 +0000"
+    },
+    {
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "published_at": "Wed, 29 Jul 2026 19:33:55 +0000"
+    },
+    {
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "published_at": "Wed, 29 Jul 2026 19:23:27 +0000"
+    },
+    {
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "published_at": "Wed, 29 Jul 2026 18:08:22 +0000"
+    },
+    {
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "published_at": "Wed, 29 Jul 2026 17:58:24 +0000"
+    },
+    {
+      "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+      "published_at": "Wed, 29 Jul 2026 17:37:47 +0000"
+    },
+    {
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "published_at": "Thu, 30 Jul 2026 23:28:05 +0000"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "published_at": "Thu, 30 Jul 2026 23:25:58 +0000"
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "published_at": "Thu, 30 Jul 2026 23:08:58 +0000"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "published_at": "Thu, 30 Jul 2026 22:41:41 +0000"
+    },
+    {
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "published_at": "Thu, 30 Jul 2026 22:37:06 +0000"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "published_at": "Thu, 30 Jul 2026 20:26:38 +0000"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "Thu, 30 Jul 2026 20:13:12 +0000"
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "published_at": "Thu, 30 Jul 2026 19:44:16 +0000"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "Thu, 30 Jul 2026 18:57:58 +0000"
+    },
+    {
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "published_at": "Thu, 30 Jul 2026 15:59:37 +0000"
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "published_at": "Thu, 30 Jul 2026 14:53:07 +0000"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published_at": "Fri, 31 Jul 2026 01:06:54 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-07-31.svg",
+  "generated_at": "2026-07-31T10:20:36+05:30"
+}
