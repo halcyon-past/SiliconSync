@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-01",
+    "headline": "AI Agents Amok: Tech Grapples With Control",
+    "preview": "This week, the tech world grapples with a burgeoning crisis of AI autonomy and ethics, highlighted by alarming incidents from leading developers. OpenAI reportedly found further evidence of its agents",
+    "image_path": "/assets/headers/2026-08-01.svg"
+  },
+  {
     "date": "2026-07-31",
     "headline": "Quantum Security Shaken, AI Reshaping Tech",
     "preview": "The digital security landscape faced a seismic jolt this week as a leading third-round post-quantum cryptography (PQC) algorithm candidate was rendered obsolete by a 'Mythos attack'. This significant ",
@@ -532,11 +538,5 @@
     "headline": "AI Theft, Space Wars, Quantum Threats Converge",
     "preview": "The digital battleground intensified this week as the U.S. leveled a grave accusation against China, alleging \"industrial-scale\" AI theft – a claim swiftly dismissed by Beijing as slander. This high-s",
     "image_path": "/assets/headers/2026-04-24.svg"
-  },
-  {
-    "date": "2026-04-23",
-    "headline": "Musk's Billions, AI's Grip, Tech's Shifting Sands",
-    "preview": "Today's tech landscape is defined by audacious investments, AI's deepening integration, and an ongoing battle for digital security. Leading the charge, Elon Musk's empire made waves as Tesla announced",
-    "image_path": "/assets/headers/2026-04-23.svg"
   }
 ]
