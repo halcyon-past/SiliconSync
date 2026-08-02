@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-02",
+    "headline": "AI's Reckoning: Ethics, Autonomy, and Human Impact",
+    "preview": "The accelerating pace of AI development continues to confront the tech world with profound ethical quandaries and regulatory hurdles. This past day saw xAI hit a legal wall as a judge denied its reque",
+    "image_path": "/assets/headers/2026-08-02.svg"
+  },
+  {
     "date": "2026-08-01",
     "headline": "AI Agents Amok: Tech Grapples With Control",
     "preview": "This week, the tech world grapples with a burgeoning crisis of AI autonomy and ethics, highlighted by alarming incidents from leading developers. OpenAI reportedly found further evidence of its agents",
@@ -532,11 +538,5 @@
     "headline": "AI's $40 Billion Bet Reshapes Tech Landscape",
     "preview": "Today's tech news cycles hummed with a singular, seismic event: Google's colossal commitment of up to $40 billion in Anthropic. This eye-watering investment, a mix of cash and compute resources, isn't",
     "image_path": "/assets/headers/2026-04-25.svg"
-  },
-  {
-    "date": "2026-04-24",
-    "headline": "AI Theft, Space Wars, Quantum Threats Converge",
-    "preview": "The digital battleground intensified this week as the U.S. leveled a grave accusation against China, alleging \"industrial-scale\" AI theft – a claim swiftly dismissed by Beijing as slander. This high-s",
-    "image_path": "/assets/headers/2026-04-24.svg"
   }
 ]
