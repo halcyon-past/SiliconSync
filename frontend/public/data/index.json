@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-03",
+    "headline": "AI Debates Rage, Hardware Hits Reality",
+    "preview": "The tech world is grappling with a profound paradox today: the relentless march of AI innovation confronting its complex societal repercussions. At the forefront, Sam Altman continues to champion the ",
+    "image_path": "/assets/headers/2026-08-03.svg"
+  },
+  {
     "date": "2026-08-02",
     "headline": "AI's Reckoning: Ethics, Autonomy, and Human Impact",
     "preview": "The accelerating pace of AI development continues to confront the tech world with profound ethical quandaries and regulatory hurdles. This past day saw xAI hit a legal wall as a judge denied its reque",
@@ -532,11 +538,5 @@
     "headline": "AI's Ascent: Agents, Billions, and Global Shifts",
     "preview": "The tech world buzzed this weekend with a clear signal: the AI race isn't just accelerating, it's becoming a foundational force reshaping market structures and even societal interactions. The biggest ",
     "image_path": "/assets/headers/2026-04-26.svg"
-  },
-  {
-    "date": "2026-04-25",
-    "headline": "AI's $40 Billion Bet Reshapes Tech Landscape",
-    "preview": "Today's tech news cycles hummed with a singular, seismic event: Google's colossal commitment of up to $40 billion in Anthropic. This eye-watering investment, a mix of cash and compute resources, isn't",
-    "image_path": "/assets/headers/2026-04-25.svg"
   }
 ]
