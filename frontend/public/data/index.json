@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-05",
+    "headline": "AI Takes Flight Amid Power Crises and Policy Fights",
+    "preview": "The tech world thrummed with a palpable mix of soaring innovation and simmering infrastructural tensions today, as artificial intelligence continued its aggressive expansion while simultaneously expos",
+    "image_path": "/assets/headers/2026-08-05.svg"
+  },
+  {
     "date": "2026-08-04",
     "headline": "AI's Ethical Fault Lines and Tech's Expanding Horizons",
     "preview": "The tech world is rarely subtle, but this week, Palantir CEO Alex Karp truly outdid himself, sensationally labeling the artificial intelligence industry as \"Marxist\" following his company's stellar qu",
@@ -532,11 +538,5 @@
     "headline": "AI's Crossroads: Trials, Independence, Global Scrutiny",
     "preview": "The tech world awoke to a seismic shift in the AI landscape today, with OpenAI at the epicenter of a whirlwind of activity. The highly anticipated legal showdown between Elon Musk and Sam Altman comme",
     "image_path": "/assets/headers/2026-04-28.svg"
-  },
-  {
-    "date": "2026-04-27",
-    "headline": "AI's $40B Surge Defines Tech's New Era",
-    "preview": "The AI gold rush isn't just accelerating; it's entering an unprecedented phase of capital infusion, highlighted by Google's staggering $40 billion commitment to Anthropic. This massive investment does",
-    "image_path": "/assets/headers/2026-04-27.svg"
   }
 ]
