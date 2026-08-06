@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-06",
+    "headline": "Google AI Exodus Rocks Tech Landscape",
+    "preview": "The tech world woke up to a seismic shift in the AI arena today, as news broke of a significant brain drain from Google's formidable AI division. Not only is DeepMind's co-founder Demis Hassabis repor",
+    "image_path": "/assets/headers/2026-08-06.svg"
+  },
+  {
     "date": "2026-08-05",
     "headline": "AI Takes Flight Amid Power Crises and Policy Fights",
     "preview": "The tech world thrummed with a palpable mix of soaring innovation and simmering infrastructural tensions today, as artificial intelligence continued its aggressive expansion while simultaneously expos",
@@ -532,11 +538,5 @@
     "headline": "AI Expands, Powers Clash, Privacy Fights On",
     "preview": "The tech world this week found itself a battleground, with Elon Musk's high-profile trial against OpenAI dominating headlines, a stark reminder of the intense rivalries and personal stakes fueling the",
     "image_path": "/assets/headers/2026-04-29.svg"
-  },
-  {
-    "date": "2026-04-28",
-    "headline": "AI's Crossroads: Trials, Independence, Global Scrutiny",
-    "preview": "The tech world awoke to a seismic shift in the AI landscape today, with OpenAI at the epicenter of a whirlwind of activity. The highly anticipated legal showdown between Elon Musk and Sam Altman comme",
-    "image_path": "/assets/headers/2026-04-28.svg"
   }
 ]
