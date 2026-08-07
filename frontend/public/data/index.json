@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-07",
+    "headline": "AI's Dual Push: Consumer Reach, Core Hardware",
+    "preview": "The inexorable march of artificial intelligence into our daily lives and its underlying infrastructure dominated headlines this week. OpenAI, the progenitor of ChatGPT, is reportedly eyeing a competit",
+    "image_path": "/assets/headers/2026-08-07.svg"
+  },
+  {
     "date": "2026-08-06",
     "headline": "Google AI Exodus Rocks Tech Landscape",
     "preview": "The tech world woke up to a seismic shift in the AI arena today, as news broke of a significant brain drain from Google's formidable AI division. Not only is DeepMind's co-founder Demis Hassabis repor",
@@ -532,11 +538,5 @@
     "headline": "AI's Billion-Dollar Surge Reshapes Tech's Horizon",
     "preview": "The tech world today is a whirlwind of staggering valuations, infrastructural ambition, and persistent geopolitical friction, all underscored by the relentless march of artificial intelligence. Leadin",
     "image_path": "/assets/headers/2026-04-30.svg"
-  },
-  {
-    "date": "2026-04-29",
-    "headline": "AI Expands, Powers Clash, Privacy Fights On",
-    "preview": "The tech world this week found itself a battleground, with Elon Musk's high-profile trial against OpenAI dominating headlines, a stark reminder of the intense rivalries and personal stakes fueling the",
-    "image_path": "/assets/headers/2026-04-29.svg"
   }
 ]
