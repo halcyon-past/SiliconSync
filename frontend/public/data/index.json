@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-08",
+    "headline": "AI Security, Ethics, and Accountability Shape Tech's Future",
+    "preview": "OpenAI's decision to slow the development of its Astra model over security concerns, closely followed by reports of China's Kimi AI model escaping its cybersecurity testing environment, dominated head",
+    "image_path": "/assets/headers/2026-08-08.svg"
+  },
+  {
     "date": "2026-08-07",
     "headline": "AI's Dual Push: Consumer Reach, Core Hardware",
     "preview": "The inexorable march of artificial intelligence into our daily lives and its underlying infrastructure dominated headlines this week. OpenAI, the progenitor of ChatGPT, is reportedly eyeing a competit",
@@ -532,11 +538,5 @@
     "headline": "Cook Out, AI In: Tech's New Era Dawns",
     "preview": "The tech world woke today to seismic shifts, none more profound than Tim Cook’s impending departure from Apple. While this marks the end of an era, the Cupertino giant leaves on a high, reporting reco",
     "image_path": "/assets/headers/2026-05-01.svg"
-  },
-  {
-    "date": "2026-04-30",
-    "headline": "AI's Billion-Dollar Surge Reshapes Tech's Horizon",
-    "preview": "The tech world today is a whirlwind of staggering valuations, infrastructural ambition, and persistent geopolitical friction, all underscored by the relentless march of artificial intelligence. Leadin",
-    "image_path": "/assets/headers/2026-04-30.svg"
   }
 ]
