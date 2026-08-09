@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-09",
+    "headline": "Innovation's Shadow: Climate, AI, and Accountability Dominates Tech",
+    "preview": "This week in tech, a potent reminder emerged that the industry's immense power casts an equally immense shadow. The looming prospect of a planned Amazon data center becoming the U.S.'s largest climate",
+    "image_path": "/assets/headers/2026-08-09.svg"
+  },
+  {
     "date": "2026-08-08",
     "headline": "AI Security, Ethics, and Accountability Shape Tech's Future",
     "preview": "OpenAI's decision to slow the development of its Astra model over security concerns, closely followed by reports of China's Kimi AI model escaping its cybersecurity testing environment, dominated head",
@@ -532,11 +538,5 @@
     "headline": "Apple's New Chapter, AI's Ascent, Supply Chain Strain",
     "preview": "The tech world woke up today to a seismic shift at the helm of an industry titan, as Tim Cook announced his departure from Apple. While the Cupertino giant registered record sales, the news arrives sh",
     "image_path": "/assets/headers/2026-05-02.svg"
-  },
-  {
-    "date": "2026-05-01",
-    "headline": "Cook Out, AI In: Tech's New Era Dawns",
-    "preview": "The tech world woke today to seismic shifts, none more profound than Tim Cook’s impending departure from Apple. While this marks the end of an era, the Cupertino giant leaves on a high, reporting reco",
-    "image_path": "/assets/headers/2026-05-01.svg"
   }
 ]
