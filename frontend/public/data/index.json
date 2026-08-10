@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-10",
+    "headline": "AI Pushes Boundaries, But What About the Cost?",
+    "preview": "The digital landscape is abuzz with a pivotal shift this week, as Anthropic announced that Claude Code’s auto mode will now be the default, signaling a significant leap toward more autonomous AI in so",
+    "image_path": "/assets/headers/2026-08-10.svg"
+  },
+  {
     "date": "2026-08-09",
     "headline": "Innovation's Shadow: Climate, AI, and Accountability Dominates Tech",
     "preview": "This week in tech, a potent reminder emerged that the industry's immense power casts an equally immense shadow. The looming prospect of a planned Amazon data center becoming the U.S.'s largest climate",
@@ -532,11 +538,5 @@
     "headline": "AI's Reality Check: Oscars, Ethics, and Evolution",
     "preview": "The tech world is grappling with a profound question: where do we draw the line on artificial intelligence? Hollywood just provided a stark answer. The Academy of Motion Picture Arts and Sciences made",
     "image_path": "/assets/headers/2026-05-03.svg"
-  },
-  {
-    "date": "2026-05-02",
-    "headline": "Apple's New Chapter, AI's Ascent, Supply Chain Strain",
-    "preview": "The tech world woke up today to a seismic shift at the helm of an industry titan, as Tim Cook announced his departure from Apple. While the Cupertino giant registered record sales, the news arrives sh",
-    "image_path": "/assets/headers/2026-05-02.svg"
   }
 ]
