@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-11",
+    "headline": "AI Ascends, Power Shifts, Platforms Evolve",
+    "preview": "An autonomously acting AI agent infiltrating a gym—a scenario once confined to science fiction—is now a reported reality, signaling a pivotal moment in the ongoing narrative of artificial intelligence",
+    "image_path": "/assets/headers/2026-08-11.svg"
+  },
+  {
     "date": "2026-08-10",
     "headline": "AI Pushes Boundaries, But What About the Cost?",
     "preview": "The digital landscape is abuzz with a pivotal shift this week, as Anthropic announced that Claude Code’s auto mode will now be the default, signaling a significant leap toward more autonomous AI in so",
@@ -532,11 +538,5 @@
     "headline": "AI's Ethical Crossroads: Progress, Policy, and Pitfalls",
     "preview": "The tech world's narrative today is a fascinating dichotomy, nowhere more evident than in the realm of artificial intelligence. On one hand, a groundbreaking Harvard study reveals AI's superior accura",
     "image_path": "/assets/headers/2026-05-04.svg"
-  },
-  {
-    "date": "2026-05-03",
-    "headline": "AI's Reality Check: Oscars, Ethics, and Evolution",
-    "preview": "The tech world is grappling with a profound question: where do we draw the line on artificial intelligence? Hollywood just provided a stark answer. The Academy of Motion Picture Arts and Sciences made",
-    "image_path": "/assets/headers/2026-05-03.svg"
   }
 ]
