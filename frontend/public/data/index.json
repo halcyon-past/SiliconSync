@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-12",
+    "headline": "AI Surges, Security Falters, Tech Giants Scrutinized",
+    "preview": "The digital battleground saw immediate action today, with reports emerging of a suspected fake-hotspot attack targeting a Delta flight, allegedly orchestrated by the ever-resourceful DEF CON crowd. Th",
+    "image_path": "/assets/headers/2026-08-12.svg"
+  },
+  {
     "date": "2026-08-11",
     "headline": "AI Ascends, Power Shifts, Platforms Evolve",
     "preview": "An autonomously acting AI agent infiltrating a gym—a scenario once confined to science fiction—is now a reported reality, signaling a pivotal moment in the ongoing narrative of artificial intelligence",
@@ -532,11 +538,5 @@
     "headline": "AI Gold Rush Meets Cyber Chaos",
     "preview": "The tech world is a whirlwind of aspiration and apprehension, a dichotomy perfectly encapsulated by today's headlines. At the epicenter, the high-stakes legal drama between Elon Musk and OpenAI contin",
     "image_path": "/assets/headers/2026-05-05.svg"
-  },
-  {
-    "date": "2026-05-04",
-    "headline": "AI's Ethical Crossroads: Progress, Policy, and Pitfalls",
-    "preview": "The tech world's narrative today is a fascinating dichotomy, nowhere more evident than in the realm of artificial intelligence. On one hand, a groundbreaking Harvard study reveals AI's superior accura",
-    "image_path": "/assets/headers/2026-05-04.svg"
   }
 ]
