@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-13",
+    "headline": "Data Wars Define Tech's Future: AI to Security",
+    "preview": "The tech world this week served up a potent cocktail of ambition, ethical dilemmas, and burgeoning power struggles, all underscoring the relentless expansion of Artificial Intelligence. Perhaps the mo",
+    "image_path": "/assets/headers/2026-08-13.svg"
+  },
+  {
     "date": "2026-08-12",
     "headline": "AI Surges, Security Falters, Tech Giants Scrutinized",
     "preview": "The digital battleground saw immediate action today, with reports emerging of a suspected fake-hotspot attack targeting a Delta flight, allegedly orchestrated by the ever-resourceful DEF CON crowd. Th",
@@ -532,11 +538,5 @@
     "headline": "AI Surges, Ethics Tested, Mobility Shifts",
     "preview": "The tech world is rarely short on drama, but today brought a particularly human, and rather telling, moment for the AI industry: the OpenAI president found himself in court, compelled to read personal",
     "image_path": "/assets/headers/2026-05-06.svg"
-  },
-  {
-    "date": "2026-05-05",
-    "headline": "AI Gold Rush Meets Cyber Chaos",
-    "preview": "The tech world is a whirlwind of aspiration and apprehension, a dichotomy perfectly encapsulated by today's headlines. At the epicenter, the high-stakes legal drama between Elon Musk and OpenAI contin",
-    "image_path": "/assets/headers/2026-05-05.svg"
   }
 ]

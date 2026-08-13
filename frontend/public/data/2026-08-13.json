@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-13",
+  "headline": "Data Wars Define Tech's Future: AI to Security",
+  "summary": "The tech world this week served up a potent cocktail of ambition, ethical dilemmas, and burgeoning power struggles, all underscoring the relentless expansion of Artificial Intelligence. Perhaps the most contentious revelations revolved around AI's insatiable appetite for data. Amazon confirmed years of training its AI on Twitch content, defaulting streamers into participation unless they explicitly opt out – a move mirroring Anthropic's new watermarking on Claude, designed to catch users leveraging the AI for academic or professional dishonesty. Further fanning the flames of data ethics, reports emerged of AI firms allegedly purchasing and then destroying rare books to feed their models, while a novel font emerged as the web's latest weapon against AI scrapers, turning ordinary text into nonsense for algorithmic consumption. These developments paint a vivid picture of a tech landscape grappling with the very source material that powers its future.\n\nBeyond the ethical thicket, the sheer economic force of AI continues to reshape the industry. The AI coding startup Cognition is reportedly eyeing a staggering $40 billion valuation, signaling the fervent investor confidence in specialized AI applications. This sentiment is echoed by OpenAI-backed Thrive Holdings, which just raised a formidable $2 billion to accelerate AI adoption within the enterprise. Even critical infrastructure is feeling AI's influence, with the AI nuclear power firm Fermi appointing a new CEO. Amidst this rapid growth, the philosophical debate on AI safety persists, with some pioneers advocating for \"open\" development, a stance that gains new context given the week's data privacy and ethical concerns.\n\nHowever, it wasn't all about AI. Digital security faced fresh challenges, highlighted by a massive supply-chain attack that leaked terabytes of credentials, and Uber Freight reportedly investigating its own data breach claims. The regulatory and legal landscape also saw significant action. Former President Trump is being sued over a \"brazen\" scheme to sell Truth Social API access, while the US government clashed with New York over gambling laws, ordering Kalshi to remain operational. Meanwhile, the long arm of the FTC finally reached diners and drivers, distributing a $24 million settlement from Grubhub. These incidents underscore the increasing scrutiny and legal accountability demanded of powerful tech entities.\n\nInnovation wasn't confined to the digital realm either. Northrop unveiled a robotic space mechanic designed to extend satellite lifespans, pushing the boundaries of in-orbit servicing. On Earth, hydrogen power made headlines, with a new land speed record set by a car boasting two hydrogen-burning engines, pointing towards future clean energy breakthroughs in automotive. Even public health saw a tech intervention as the US boosted drone surveillance to combat the spread of flesh-eating screwworms in Texas, showcasing drones' expanding utility. Finally, Automattic's \"CRM for everyone,\" Mesh, made its way to Android, extending enterprise tools to a wider mobile audience.\n\nLooking ahead, the tension between innovation and ethics will only intensify. We can expect continued skirmishes over data ownership and provenance, intensified regulatory pressure on dominant platforms, and a relentless pursuit of groundbreaking applications in AI and beyond. The coming months will likely see further clarity on the bounds of acceptable AI data sourcing and stronger calls for transparency, as the industry navigates a future where digital power is increasingly intertwined with real-world consequences.",
+  "articles": [
+    {
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "published_at": "Wed, 12 Aug 2026 22:31:19 +0000"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published_at": "Wed, 12 Aug 2026 22:26:37 +0000"
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "published_at": "Wed, 12 Aug 2026 22:24:00 +0000"
+    },
+    {
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "published_at": "Wed, 12 Aug 2026 22:02:25 +0000"
+    },
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "published_at": "Wed, 12 Aug 2026 21:43:21 +0000"
+    },
+    {
+      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+      "published_at": "Wed, 12 Aug 2026 21:13:39 +0000"
+    },
+    {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "published_at": "Wed, 12 Aug 2026 21:00:30 +0000"
+    },
+    {
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "published_at": "Wed, 12 Aug 2026 20:53:41 +0000"
+    },
+    {
+      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+      "published_at": "Wed, 12 Aug 2026 20:20:52 +0000"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published_at": "Wed, 12 Aug 2026 20:10:40 +0000"
+    },
+    {
+      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+      "published_at": "Wed, 12 Aug 2026 19:40:46 +0000"
+    },
+    {
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "published_at": "Wed, 12 Aug 2026 18:34:21 +0000"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "published_at": "Wed, 12 Aug 2026 18:19:12 +0000"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "published_at": "Wed, 12 Aug 2026 17:51:00 +0000"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published_at": "Wed, 12 Aug 2026 17:41:29 +0000"
+    },
+    {
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "published_at": "Wed, 12 Aug 2026 17:15:41 +0000"
+    },
+    {
+      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+      "published_at": "Wed, 12 Aug 2026 17:01:11 +0000"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "published_at": "Wed, 12 Aug 2026 16:57:58 +0000"
+    },
+    {
+      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+      "published_at": "Wed, 12 Aug 2026 16:33:43 +0000"
+    },
+    {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "published_at": "Wed, 12 Aug 2026 15:19:17 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-08-13.svg",
+  "generated_at": "2026-08-13T09:05:11+05:30"
+}
