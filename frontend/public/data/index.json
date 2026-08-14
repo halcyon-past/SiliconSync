@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-14",
+    "headline": "AI's Wild Ride: Billions, Bots, and Backlash",
+    "preview": "The tech world thrummed with a frenetic energy this week, largely fueled by a relentless acceleration in artificial intelligence. OpenAI shattered previous benchmarks with its new 'Ultrafast' mode, ma",
+    "image_path": "/assets/headers/2026-08-14.svg"
+  },
+  {
     "date": "2026-08-13",
     "headline": "Data Wars Define Tech's Future: AI to Security",
     "preview": "The tech world this week served up a potent cocktail of ambition, ethical dilemmas, and burgeoning power struggles, all underscoring the relentless expansion of Artificial Intelligence. Perhaps the mo",
@@ -532,11 +538,5 @@
     "headline": "AI Accelerates, Reshaping Energy, Space, Trust",
     "preview": "The relentless advance of artificial intelligence dominated headlines today, painting a vivid picture of innovation intertwined with escalating resource demands and profound ethical quandaries. As Ant",
     "image_path": "/assets/headers/2026-05-07.svg"
-  },
-  {
-    "date": "2026-05-06",
-    "headline": "AI Surges, Ethics Tested, Mobility Shifts",
-    "preview": "The tech world is rarely short on drama, but today brought a particularly human, and rather telling, moment for the AI industry: the OpenAI president found himself in court, compelled to read personal",
-    "image_path": "/assets/headers/2026-05-06.svg"
   }
 ]
