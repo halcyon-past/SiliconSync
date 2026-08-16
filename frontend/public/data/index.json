@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-16",
+    "headline": "AI Ethics, Cyber Threats, and Industry Evolution",
+    "preview": "The past period casts a chilling shadow over the rapid ascent of AI, with a disturbing claim surfacing that Grok was used to generate explicit imagery from a childhood photo. This alleged misuse immed",
+    "image_path": "/assets/headers/2026-08-16.svg"
+  },
+  {
     "date": "2026-08-15",
     "headline": "Big Tech in Flux: AI, Regulation, Autonomy Accelerate",
     "preview": "The tech world wakes to a potential seismic shift as reports confirm advanced talks to sell payments giant PayPal to a consortium of Stripe and Advent. This potential consolidation, blending establish",
@@ -532,11 +538,5 @@
     "headline": "AI's Human Cost Amidst Quantum Leaps",
     "preview": "The tech world today presented a mosaic of rapid innovation, stark societal challenges, and escalating regulatory battles, with Artificial Intelligence emerging as a double-edged sword. While Cloudfla",
     "image_path": "/assets/headers/2026-05-09.svg"
-  },
-  {
-    "date": "2026-05-08",
-    "headline": "AI's Power Surge: From Chips to Cosmos",
-    "preview": "The tech world is grappling with an insatiable hunger for computational power, a demand vividly underscored by TSMC's urgent pivot to wind energy as AI chip production strains Taiwan's grid. This inte",
-    "image_path": "/assets/headers/2026-05-08.svg"
   }
 ]
