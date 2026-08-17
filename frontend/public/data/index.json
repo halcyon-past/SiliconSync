@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-17",
+    "headline": "Stripe's Ambition, AI's Reckoning, Green Energy's Rise",
+    "preview": "The tech world awoke to a torrent of seismic shifts this week, none more prominent than the audacious expansion playbook being executed by payments giant Stripe. Not content with its reported talks to",
+    "image_path": "/assets/headers/2026-08-17.svg"
+  },
+  {
     "date": "2026-08-16",
     "headline": "AI Ethics, Cyber Threats, and Industry Evolution",
     "preview": "The past period casts a chilling shadow over the rapid ascent of AI, with a disturbing claim surfacing that Grok was used to generate explicit imagery from a childhood photo. This alleged misuse immed",
@@ -532,11 +538,5 @@
     "headline": "AI Investments Soar Amidst Tech's Dynamic Crossroads",
     "preview": "The tech world is once again defined by the sheer scale of ambition and capital pouring into artificial intelligence, with Nvidia leading the charge. Reports reveal the chip giant has already funneled",
     "image_path": "/assets/headers/2026-05-10.svg"
-  },
-  {
-    "date": "2026-05-09",
-    "headline": "AI's Human Cost Amidst Quantum Leaps",
-    "preview": "The tech world today presented a mosaic of rapid innovation, stark societal challenges, and escalating regulatory battles, with Artificial Intelligence emerging as a double-edged sword. While Cloudfla",
-    "image_path": "/assets/headers/2026-05-09.svg"
   }
 ]
