@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-19",
+    "headline": "Policy Battles, AI Surges, Innovation Reshapes Tech",
+    "preview": "This week, the usually forward-looking tech sector found itself grappling with a significant rollback, as the fallout from RFK Jr.'s actions in healthcare research drew widespread condemnation. Expert",
+    "image_path": "/assets/headers/2026-08-19.svg"
+  },
+  {
     "date": "2026-08-18",
     "headline": "AI's Billions, Big Tech Bets, Privacy Battles Erupt",
     "preview": "The tech world this week witnessed the staggering financial ascent of artificial intelligence, epitomized by Anthropic's eye-watering annualized revenue surging to $65 billion. This monumental figure ",
@@ -532,11 +538,5 @@
     "headline": "AI Transforms Workforce, Unifies Digital Communications",
     "preview": "The tectonic plates of the tech industry shifted noticeably today, nowhere more dramatically than in the human element. General Motors sent ripples through the workforce by laying off hundreds of IT s",
     "image_path": "/assets/headers/2026-05-12.svg"
-  },
-  {
-    "date": "2026-05-11",
-    "headline": "AI Ethics, Market Shifts, and Future Tech Frontiers",
-    "preview": "The world of artificial intelligence continues its breakneck pace, but not without significant growing pains and ethical quandaries. This week saw Anthropic, fresh off a major deal with xAI, making he",
-    "image_path": "/assets/headers/2026-05-11.svg"
   }
 ]
