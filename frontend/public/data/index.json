@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-20",
+    "headline": "AI Reality Check: Autonomy Rolls Out Amid Skepticism",
+    "preview": "The tech world today paints a nuanced picture, dominated by the swirling currents of artificial intelligence – its audacious acquisitions, its burgeoning applications, and perhaps most tellingly, its ",
+    "image_path": "/assets/headers/2026-08-20.svg"
+  },
+  {
     "date": "2026-08-19",
     "headline": "Policy Battles, AI Surges, Innovation Reshapes Tech",
     "preview": "This week, the usually forward-looking tech sector found itself grappling with a significant rollback, as the fallout from RFK Jr.'s actions in healthcare research drew widespread condemnation. Expert",
@@ -532,11 +538,5 @@
     "headline": "AI's Double-Edged Blade: Caution, Integration, and Space",
     "preview": "The rapid acceleration of AI continues to redefine our world, but this week brought a chilling reminder of its nascent risks. A lawsuit alleging a teen's death after ChatGPT recommended a deadly drug ",
     "image_path": "/assets/headers/2026-05-13.svg"
-  },
-  {
-    "date": "2026-05-12",
-    "headline": "AI Transforms Workforce, Unifies Digital Communications",
-    "preview": "The tectonic plates of the tech industry shifted noticeably today, nowhere more dramatically than in the human element. General Motors sent ripples through the workforce by laying off hundreds of IT s",
-    "image_path": "/assets/headers/2026-05-12.svg"
   }
 ]
