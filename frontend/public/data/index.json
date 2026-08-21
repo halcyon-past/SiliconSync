@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-21",
+    "headline": "Autonomy Unleashed: AI Surges, Privacy Challenges Mount",
+    "preview": "The lines between science fiction and reality blurred further this week as a wave of automation breakthroughs promised to redefine our physical world, while the relentless march of AI deepened its int",
+    "image_path": "/assets/headers/2026-08-21.svg"
+  },
+  {
     "date": "2026-08-20",
     "headline": "AI Reality Check: Autonomy Rolls Out Amid Skepticism",
     "preview": "The tech world today paints a nuanced picture, dominated by the swirling currents of artificial intelligence – its audacious acquisitions, its burgeoning applications, and perhaps most tellingly, its ",
@@ -532,11 +538,5 @@
     "headline": "AI Propels, Crashes, and Consumes Tech's Future",
     "preview": "The high-stakes world of aerospace innovation delivered a dramatic story today, as a solar-powered drone with a jumbo jet's wingspan shattered a flight record before spectacularly crashing. This ambit",
     "image_path": "/assets/headers/2026-05-14.svg"
-  },
-  {
-    "date": "2026-05-13",
-    "headline": "AI's Double-Edged Blade: Caution, Integration, and Space",
-    "preview": "The rapid acceleration of AI continues to redefine our world, but this week brought a chilling reminder of its nascent risks. A lawsuit alleging a teen's death after ChatGPT recommended a deadly drug ",
-    "image_path": "/assets/headers/2026-05-13.svg"
   }
 ]
