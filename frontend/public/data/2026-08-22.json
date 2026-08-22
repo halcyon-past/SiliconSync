@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-22",
+  "headline": "Live Skin AI, Smut, and Unicorns: Tech's Wild Ride",
+  "summary": "The cutting edge of artificial intelligence this week offered a stark reminder of its dual nature: breathtaking innovation often accompanied by profound ethical questions. The most striking news emerged from Michael Polansky's venture, reportedly training an AI model on *live skin*, pushing the boundaries of bio-integration and prompting a fresh wave of debate about AI's ultimate applications and our comfort levels. This bio-AI frontier arrived alongside revelations about Anthropic's Opus 4.6, which, perhaps unintentionally, became a \"smut-machine,\" underscoring the ongoing challenges of controlling AI outputs and the potential for misuse. Yet, the AI boom continued its frenetic pace in the business world, exemplified by accounting startup Rillet, which soared to unicorn status with a $100 million raise in a mere 48 hours, demonstrating the immense, almost instantaneous, value proposition AI can still command. Nvidia, meanwhile, quietly signaled a shift, suggesting the \"harness\" or infrastructure enabling AI models is now the true hero, fortifying its partnerships with data center developers like Cloverleaf to meet insatiable demand.\n\nBeyond the core AI models, the ripple effects permeated hardware and human interaction. Meta's AI glasses are flying off shelves, yet their success sparks growing discomfort over omnipresent recording and privacy invasion. Apple, ironically, appears to be recalibrating its own AI and AR ambitions, reportedly cutting hundreds of jobs from its Siri and Vision Pro teams, hinting at a strategic pivot or perhaps a challenging integration period for its spatial computing bet. Amidst these giants, the plucky Pebble Time 2 made a surprising comeback at $225, proving there's still a market for 'fun' smartwatches, while Motorola announced future GrapheneOS phones for 2027, signaling a niche but growing demand for privacy-focused mobile alternatives. Even in scientific discovery, hardware played a novel role, with thunder and fiber-optic cabling being ingeniously combined for seismic imaging.\n\nThe tech industry's expansion also brought a renewed focus on regulation and consumer protection. TikTok settled a $400 million children's privacy lawsuit, a hefty reminder of the cost of data stewardship. Elsewhere, tech platforms faced scrutiny: Zillow is embroiled in a lawsuit alleging hidden listings artificially inflated NYC rents, while a class action demands Logitech refund tariff costs directly to consumers. The debate around personalized pricing intensified, with critics warning that FTC limits, while aimed at fairness, could inadvertently lead to higher costs for consumers by eliminating dynamic discounts. These cases underscore a clear trend: as tech infiltrates every facet of life, legal and ethical frameworks are struggling to keep pace, often catching up only after significant market disruption or consumer harm.\n\nLooking skyward and to the roads, geopolitical and transportation tech continued its march. Japanese startup Letara secured $16 million to expand beyond satellite thrusters, contributing to a vibrant private space sector, even as the Trump administration pushed for new federal spaceports to accommodate surging launch demands. On the ground, Chinese regulators mandated a recall for nearly 3 million Tesla vehicles, highlighting the global reach of safety standards. The battle for autonomous vehicle dominance also heated up, with Waymo reportedly doubling its lobbying efforts in its ongoing skirmish with Uber, indicating that the future of urban mobility will be decided as much in legislative halls as in engineering labs.\n\nAs the industry hurtles towards an increasingly AI-driven future, the tension between unprecedented capability and responsible deployment will only intensify. We'll be watching closely to see how regulators adapt to new bio-AI frontiers, how hardware makers balance innovation with privacy, and whether the rapid pace of tech development can truly align with societal well-being and market fairness.",
+  "articles": [
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "published_at": "Sat, 22 Aug 2026 01:31:04 +0000"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "published_at": "Sat, 22 Aug 2026 01:03:06 +0000"
+    },
+    {
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "published_at": "Fri, 21 Aug 2026 23:32:17 +0000"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published_at": "Fri, 21 Aug 2026 23:07:25 +0000"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "published_at": "Fri, 21 Aug 2026 22:37:38 +0000"
+    },
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "published_at": "Fri, 21 Aug 2026 22:10:01 +0000"
+    },
+    {
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "published_at": "Fri, 21 Aug 2026 20:58:07 +0000"
+    },
+    {
+      "title": "Thunder + fiber-optic cabling used for seismic imaging",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "published_at": "Fri, 21 Aug 2026 20:26:46 +0000"
+    },
+    {
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "published_at": "Fri, 21 Aug 2026 20:25:21 +0000"
+    },
+    {
+      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+      "published_at": "Fri, 21 Aug 2026 20:10:50 +0000"
+    },
+    {
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "published_at": "Fri, 21 Aug 2026 19:57:46 +0000"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "published_at": "Fri, 21 Aug 2026 19:43:39 +0000"
+    },
+    {
+      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+      "published_at": "Fri, 21 Aug 2026 19:32:29 +0000"
+    },
+    {
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "published_at": "Fri, 21 Aug 2026 19:16:15 +0000"
+    },
+    {
+      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+      "published_at": "Fri, 21 Aug 2026 19:04:41 +0000"
+    },
+    {
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "published_at": "Fri, 21 Aug 2026 18:07:15 +0000"
+    },
+    {
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "published_at": "Fri, 21 Aug 2026 16:48:59 +0000"
+    },
+    {
+      "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+      "published_at": "Fri, 21 Aug 2026 16:38:25 +0000"
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "published_at": "Fri, 21 Aug 2026 13:11:35 +0000"
+    },
+    {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "published_at": "Fri, 21 Aug 2026 11:00:53 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-08-22.svg",
+  "generated_at": "2026-08-22T08:00:31+05:30"
+}

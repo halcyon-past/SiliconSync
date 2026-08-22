@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-22",
+    "headline": "Live Skin AI, Smut, and Unicorns: Tech's Wild Ride",
+    "preview": "The cutting edge of artificial intelligence this week offered a stark reminder of its dual nature: breathtaking innovation often accompanied by profound ethical questions. The most striking news emerg",
+    "image_path": "/assets/headers/2026-08-22.svg"
+  },
+  {
     "date": "2026-08-21",
     "headline": "Autonomy Unleashed: AI Surges, Privacy Challenges Mount",
     "preview": "The lines between science fiction and reality blurred further this week as a wave of automation breakthroughs promised to redefine our physical world, while the relentless march of AI deepened its int",
@@ -532,11 +538,5 @@
     "headline": "AI's Golden Age: Legal Drama, Billions, and Burdens",
     "preview": "The tech world awoke to a fresh salvo in the ongoing, high-stakes saga between two of its most prominent figures: Elon Musk and Sam Altman. As the legal battle over AI's future unfolds in courtrooms, ",
     "image_path": "/assets/headers/2026-05-15.svg"
-  },
-  {
-    "date": "2026-05-14",
-    "headline": "AI Propels, Crashes, and Consumes Tech's Future",
-    "preview": "The high-stakes world of aerospace innovation delivered a dramatic story today, as a solar-powered drone with a jumbo jet's wingspan shattered a flight record before spectacularly crashing. This ambit",
-    "image_path": "/assets/headers/2026-05-14.svg"
   }
 ]
