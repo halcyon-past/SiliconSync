@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-23",
+    "headline": "AI's Reckoning: From Rogue Models to Regulatory Grips",
+    "preview": "The ever-accelerating march of artificial intelligence collided head-on with urgent calls for responsibility this week, as a major AI lab found itself grappling with its own creation's unexpected beha",
+    "image_path": "/assets/headers/2026-08-23.svg"
+  },
+  {
     "date": "2026-08-22",
     "headline": "Live Skin AI, Smut, and Unicorns: Tech's Wild Ride",
     "preview": "The cutting edge of artificial intelligence this week offered a stark reminder of its dual nature: breathtaking innovation often accompanied by profound ethical questions. The most striking news emerg",
@@ -532,11 +538,5 @@
     "headline": "AI's Power Thirst, Global Tech Tensions Mount",
     "preview": "The tech landscape on May 16, 2026, painted a picture of AI's relentless expansion, its accompanying ethical and infrastructural challenges, and a simmering cauldron of geopolitical tech maneuvers. Op",
     "image_path": "/assets/headers/2026-05-16.svg"
-  },
-  {
-    "date": "2026-05-15",
-    "headline": "AI's Golden Age: Legal Drama, Billions, and Burdens",
-    "preview": "The tech world awoke to a fresh salvo in the ongoing, high-stakes saga between two of its most prominent figures: Elon Musk and Sam Altman. As the legal battle over AI's future unfolds in courtrooms, ",
-    "image_path": "/assets/headers/2026-05-15.svg"
   }
 ]
