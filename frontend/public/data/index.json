@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-24",
+    "headline": "AI's Frontier: Innovation, Regulation, and Accountability",
+    "preview": "The tech world woke up to a seismic ripple this week as Uber faced a staggering near-$1 billion fine over automated driver suspensions. This monumental penalty isn't just a headline for mobility giant",
+    "image_path": "/assets/headers/2026-08-24.svg"
+  },
+  {
     "date": "2026-08-23",
     "headline": "AI's Reckoning: From Rogue Models to Regulatory Grips",
     "preview": "The ever-accelerating march of artificial intelligence collided head-on with urgent calls for responsibility this week, as a major AI lab found itself grappling with its own creation's unexpected beha",
@@ -532,11 +538,5 @@
     "headline": "AI's New Frontier: Power, Ethics, and Investment",
     "preview": "The tech landscape is currently dominated by an undeniable gold rush in artificial intelligence, yet today’s news reveals a stark delineation between the \"haves and have-nots\" and the profound implica",
     "image_path": "/assets/headers/2026-05-17.svg"
-  },
-  {
-    "date": "2026-05-16",
-    "headline": "AI's Power Thirst, Global Tech Tensions Mount",
-    "preview": "The tech landscape on May 16, 2026, painted a picture of AI's relentless expansion, its accompanying ethical and infrastructural challenges, and a simmering cauldron of geopolitical tech maneuvers. Op",
-    "image_path": "/assets/headers/2026-05-16.svg"
   }
 ]
