@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-25",
+    "headline": "AI's Unsettled Era: Probes, Price Hikes, Privacy Perils",
+    "preview": "The tech world's relentless march forward is increasingly shadowed by regulatory scrutiny and complex ethical quandaries, a theme sharply underscored this week by the SEC's probe into \"Situational Awa",
+    "image_path": "/assets/headers/2026-08-25.svg"
+  },
+  {
     "date": "2026-08-24",
     "headline": "AI's Frontier: Innovation, Regulation, and Accountability",
     "preview": "The tech world woke up to a seismic ripple this week as Uber faced a staggering near-$1 billion fine over automated driver suspensions. This monumental penalty isn't just a headline for mobility giant",
@@ -532,11 +538,5 @@
     "headline": "AI's Tumultuous Dawn: Trials, Ethics, and Innovation",
     "preview": "The tech world awoke to a torrent of news this week, but perhaps no story captivated more than the ongoing legal drama between Elon Musk and OpenAI. The contentious trial highlights fundamental questi",
     "image_path": "/assets/headers/2026-05-18.svg"
-  },
-  {
-    "date": "2026-05-17",
-    "headline": "AI's New Frontier: Power, Ethics, and Investment",
-    "preview": "The tech landscape is currently dominated by an undeniable gold rush in artificial intelligence, yet today’s news reveals a stark delineation between the \"haves and have-nots\" and the profound implica",
-    "image_path": "/assets/headers/2026-05-17.svg"
   }
 ]
