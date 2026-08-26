@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-26",
+    "headline": "Space Builds, AI Evolves, Robots Ignite",
+    "preview": "The boundless ambition of the tech world was vividly on display this week, none more so than in the cosmic realm. As reports suggested a temporary lull at the world's busiest spaceport, the real story",
+    "image_path": "/assets/headers/2026-08-26.svg"
+  },
+  {
     "date": "2026-08-25",
     "headline": "AI's Unsettled Era: Probes, Price Hikes, Privacy Perils",
     "preview": "The tech world's relentless march forward is increasingly shadowed by regulatory scrutiny and complex ethical quandaries, a theme sharply underscored this week by the SEC's probe into \"Situational Awa",
@@ -532,11 +538,5 @@
     "headline": "Musk-OpenAI Verdict: AI's Evolving Legal Frontier",
     "preview": "The tech world watched intently today as a jury unanimously ruled against Elon Musk in his protracted lawsuit against OpenAI and Sam Altman, determining he took too long to file his claim. This signif",
     "image_path": "/assets/headers/2026-05-19.svg"
-  },
-  {
-    "date": "2026-05-18",
-    "headline": "AI's Tumultuous Dawn: Trials, Ethics, and Innovation",
-    "preview": "The tech world awoke to a torrent of news this week, but perhaps no story captivated more than the ongoing legal drama between Elon Musk and OpenAI. The contentious trial highlights fundamental questi",
-    "image_path": "/assets/headers/2026-05-18.svg"
   }
 ]
