@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-28",
+    "headline": "Tech's Crossroads: AI Ethics, Mega-Deals, Policy Battles",
+    "preview": "The tech world woke today to a stunning reminder of the double-edged sword that is artificial intelligence, as an explosive lawsuit *alleges* that Elon Musk's xAI leveraged illicit data, specifically ",
+    "image_path": "/assets/headers/2026-08-28.svg"
+  },
+  {
     "date": "2026-08-27",
     "headline": "AI's Unstoppable Rise Meets Regulatory Scrutiny",
     "preview": "The tech world is collectively holding its breath as the AI arms race escalates to staggering new heights. This week saw Amazon dramatically triple its orders for Nvidia chips, a clear signal of insat",
@@ -532,11 +538,5 @@
     "headline": "Compute Wars Rage: SpaceX, Nvidia Drive AI Future",
     "preview": "The tech world held its breath today as SpaceX, long a bastion of private ambition, finally peeled back its financial curtains ahead of a highly anticipated IPO. The revelations were staggering: not j",
     "image_path": "/assets/headers/2026-05-21.svg"
-  },
-  {
-    "date": "2026-05-20",
-    "headline": "Google's AI Agent Bet, Privacy Wars Escalate",
-    "preview": "The tech world awoke to a torrent of announcements from Google I/O 2026, unequivocally signaling Google's aggressive pivot towards AI agents as the next frontier. Far from mere chatbots, the tech gian",
-    "image_path": "/assets/headers/2026-05-20.svg"
   }
 ]
