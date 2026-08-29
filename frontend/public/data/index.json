@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-29",
+    "headline": "AI Breakthroughs & Privacy Backlash Define Tech's Day",
+    "preview": "The tech world today paints a picture of audacious innovation tempered by an insistent demand for privacy and accountability. At the forefront, the dream of self-improving AI moved a step closer to re",
+    "image_path": "/assets/headers/2026-08-29.svg"
+  },
+  {
     "date": "2026-08-28",
     "headline": "Tech's Crossroads: AI Ethics, Mega-Deals, Policy Battles",
     "preview": "The tech world woke today to a stunning reminder of the double-edged sword that is artificial intelligence, as an explosive lawsuit *alleges* that Elon Musk's xAI leveraged illicit data, specifically ",
@@ -532,11 +538,5 @@
     "headline": "Musk's Gambit, AI's New Frontier, Robotaxi Retreat",
     "preview": "The tech world watched intently this week as Elon Musk's multifaceted ambitions faced both strategic maneuvers and real-world friction. Fresh off news detailing how the impending SpaceX IPO is poised ",
     "image_path": "/assets/headers/2026-05-22.svg"
-  },
-  {
-    "date": "2026-05-21",
-    "headline": "Compute Wars Rage: SpaceX, Nvidia Drive AI Future",
-    "preview": "The tech world held its breath today as SpaceX, long a bastion of private ambition, finally peeled back its financial curtains ahead of a highly anticipated IPO. The revelations were staggering: not j",
-    "image_path": "/assets/headers/2026-05-21.svg"
   }
 ]
