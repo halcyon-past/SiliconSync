@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-30",
+    "headline": "AI's Reckoning: IP Battles, Privacy Demands",
+    "preview": "The tech world is abuzz, and the biggest story gripping the industry today is the escalating legal battle over artificial intelligence. Sony Music and Warner have unleashed a formidable lawsuit agains",
+    "image_path": "/assets/headers/2026-08-30.svg"
+  },
+  {
     "date": "2026-08-29",
     "headline": "AI Breakthroughs & Privacy Backlash Define Tech's Day",
     "preview": "The tech world today paints a picture of audacious innovation tempered by an insistent demand for privacy and accountability. At the forefront, the dream of self-improving AI moved a step closer to re",
@@ -532,11 +538,5 @@
     "headline": "AI Voices, Rocket Launches, Digital Rights Tested",
     "preview": "The digital ether buzzed this week with a story that feels straight out of a dystopian novel: the emergence of AI-resurrected voices of deceased pilots. This chilling development, which saw online use",
     "image_path": "/assets/headers/2026-05-23.svg"
-  },
-  {
-    "date": "2026-05-22",
-    "headline": "Musk's Gambit, AI's New Frontier, Robotaxi Retreat",
-    "preview": "The tech world watched intently this week as Elon Musk's multifaceted ambitions faced both strategic maneuvers and real-world friction. Fresh off news detailing how the impending SpaceX IPO is poised ",
-    "image_path": "/assets/headers/2026-05-22.svg"
   }
 ]
