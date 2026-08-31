@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-31",
+    "headline": "Steam's Echoes, AI's Grip: Tech's Crossroads",
+    "preview": "The digital archives were breached this week, not for state secrets, but for a treasure trove of lost gaming history. A monumental 12TB \"teraleak\" from Steam has sent ripples through the PC gaming com",
+    "image_path": "/assets/headers/2026-08-31.svg"
+  },
+  {
     "date": "2026-08-30",
     "headline": "AI's Reckoning: IP Battles, Privacy Demands",
     "preview": "The tech world is abuzz, and the biggest story gripping the industry today is the escalating legal battle over artificial intelligence. Sony Music and Warner have unleashed a formidable lawsuit agains",
@@ -532,11 +538,5 @@
     "headline": "AI's Ethical Edge: Starship Soars, Tech Evolves",
     "preview": "The bleeding edge of technology this past week felt less like a smooth curve and more like a jagged frontier, particularly as the ethical implications of AI raced ahead of our collective ability to go",
     "image_path": "/assets/headers/2026-05-25.svg"
-  },
-  {
-    "date": "2026-05-23",
-    "headline": "AI Voices, Rocket Launches, Digital Rights Tested",
-    "preview": "The digital ether buzzed this week with a story that feels straight out of a dystopian novel: the emergence of AI-resurrected voices of deceased pilots. This chilling development, which saw online use",
-    "image_path": "/assets/headers/2026-05-23.svg"
   }
 ]
