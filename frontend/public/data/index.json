@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-01",
+    "headline": "AI Under Siege: Spies, Regulators, and Shifting Capital",
+    "preview": "The tech world woke up to a seismic jolt this morning as Apple reportedly unveiled “shocking evidence” against a former employee accused of industrial espionage, funneling proprietary data to none oth",
+    "image_path": "/assets/headers/2026-09-01.svg"
+  },
+  {
     "date": "2026-08-31",
     "headline": "Steam's Echoes, AI's Grip: Tech's Crossroads",
     "preview": "The digital archives were breached this week, not for state secrets, but for a treasure trove of lost gaming history. A monumental 12TB \"teraleak\" from Steam has sent ripples through the PC gaming com",
@@ -532,11 +538,5 @@
     "headline": "AI's Moral Crossroads, Space's Bold Leaps, Hardware's Hurdles",
     "preview": "The biggest story gripping the tech world this week isn't a new gadget or a massive funding round, but a profound ethical declaration from an unexpected quarter. Pope Leo V, citing Gandalf no less, ca",
     "image_path": "/assets/headers/2026-05-26.svg"
-  },
-  {
-    "date": "2026-05-25",
-    "headline": "AI's Ethical Edge: Starship Soars, Tech Evolves",
-    "preview": "The bleeding edge of technology this past week felt less like a smooth curve and more like a jagged frontier, particularly as the ethical implications of AI raced ahead of our collective ability to go",
-    "image_path": "/assets/headers/2026-05-25.svg"
   }
 ]
