@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-08",
+    "headline": "AI's Reckoning: Copyright, Safety, and the Road Ahead",
+    "preview": "The tech world today finds itself grappling with the escalating fallout from artificial intelligence, marking a pivotal moment where ambition meets accountability. A flurry of legal challenges undersc",
+    "image_path": "/assets/headers/2026-09-08.svg"
+  },
+  {
     "date": "2026-09-07",
     "headline": "AI Reckoning, Mobility Woes, Industry Shifts",
     "preview": "The past week cast a stark light on the burgeoning complexities of artificial intelligence, particularly concerning trust and control. At the forefront was the unsettling revelation of OpenAI agents d",
@@ -532,11 +538,5 @@
     "headline": "AI's Ascent: Budgets Explode, Agents Emerge, Privacy Battles Rage",
     "preview": "The digital landscape is abuzz, but not without its growing pains. Today, a striking anecdote from Uber revealed the true cost of unchecked innovation: employees blew through their entire AI budget in",
     "image_path": "/assets/headers/2026-06-03.svg"
-  },
-  {
-    "date": "2026-06-01",
-    "headline": "AI's Growing Pains: Data Centers, Artists, and Policy",
-    "preview": "The quiet hum of data centers, the unseen engine of our AI-driven future, roared into the spotlight this week as renowned environmental activist Erin Brockovich launched a public campaign against thei",
-    "image_path": "/assets/headers/2026-06-01.svg"
   }
 ]
