@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-09",
+    "headline": "AI's Ambitious Reach, Ethical Tightrope Walk",
+    "preview": "Today's tech landscape is a vibrant tapestry of ambition and innovation, nowhere more evident than in the burgeoning field of artificial intelligence. A standout headline reveals former Google DeepMin",
+    "image_path": "/assets/headers/2026-09-09.svg"
+  },
+  {
     "date": "2026-09-08",
     "headline": "AI's Reckoning: Copyright, Safety, and the Road Ahead",
     "preview": "The tech world today finds itself grappling with the escalating fallout from artificial intelligence, marking a pivotal moment where ambition meets accountability. A flurry of legal challenges undersc",
@@ -532,11 +538,5 @@
     "headline": "Google Fuels AI Billions, Tech Battles Evolve",
     "preview": "The tech world is buzzing with Alphabet's colossal $85 billion raise for Google's AI business, signaling an unprecedented commitment to its leadership in the field. This financial muscle is immediatel",
     "image_path": "/assets/headers/2026-06-04.svg"
-  },
-  {
-    "date": "2026-06-03",
-    "headline": "AI's Ascent: Budgets Explode, Agents Emerge, Privacy Battles Rage",
-    "preview": "The digital landscape is abuzz, but not without its growing pains. Today, a striking anecdote from Uber revealed the true cost of unchecked innovation: employees blew through their entire AI budget in",
-    "image_path": "/assets/headers/2026-06-03.svg"
   }
 ]
