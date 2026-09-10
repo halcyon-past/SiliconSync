@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-10",
+    "headline": "Apple Unfolds, AI Listens: Tech's Evolving Landscape",
+    "preview": "The tech world buzzed yesterday with Apple's highly anticipated fall event, stealing headlines and setting the stage for the next generation of consumer electronics. The star of the show was undoubted",
+    "image_path": "/assets/headers/2026-09-10.svg"
+  },
+  {
     "date": "2026-09-09",
     "headline": "AI's Ambitious Reach, Ethical Tightrope Walk",
     "preview": "Today's tech landscape is a vibrant tapestry of ambition and innovation, nowhere more evident than in the burgeoning field of artificial intelligence. A standout headline reveals former Google DeepMin",
@@ -532,11 +538,5 @@
     "headline": "AI Surges, Privacy Tightens, Infrastructure Evolves",
     "preview": "As the tech world hurtles through 2026, the undeniable gravitational pull of artificial intelligence continues to reshape the landscape, drawing both massive investment and heightened scrutiny. The bu",
     "image_path": "/assets/headers/2026-06-05.svg"
-  },
-  {
-    "date": "2026-06-04",
-    "headline": "Google Fuels AI Billions, Tech Battles Evolve",
-    "preview": "The tech world is buzzing with Alphabet's colossal $85 billion raise for Google's AI business, signaling an unprecedented commitment to its leadership in the field. This financial muscle is immediatel",
-    "image_path": "/assets/headers/2026-06-04.svg"
   }
 ]
