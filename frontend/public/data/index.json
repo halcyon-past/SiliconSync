@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-13",
+    "headline": "AI's Crossroads, Leadership Battles, and Innovation Surges",
+    "preview": "The tech world awoke to a surprising plot twist this weekend as Automattic confirmed the dramatic return of founder Matt Mullenweg as CEO, following an attempted board ouster. This high-stakes corpora",
+    "image_path": "/assets/headers/2026-09-13.svg"
+  },
+  {
     "date": "2026-09-12",
     "headline": "AI Explodes: Valuations Soar, Ethics Tested",
     "preview": "The relentless pace of artificial intelligence development continues to reshape the tech landscape, with today's headlines painting a vivid picture of soaring valuations and strategic maneuvers. Mecka",
@@ -532,11 +538,5 @@
     "headline": "AI Dominates Headlines, Industry Shifts Gears",
     "preview": "The tech world is locked in an exhilarating, high-stakes sprint, and this week, the finish line feels further than ever, yet the pace just keeps accelerating. The loudest reverberations came from the ",
     "image_path": "/assets/headers/2026-06-10.svg"
-  },
-  {
-    "date": "2026-06-08",
-    "headline": "AI's Critical Juncture: Safety, Policy, and Power",
-    "preview": "The utopian promises of artificial intelligence faced a stark dose of reality this week, epitomized by a harrowing lawsuit filed by a school shooting survivor against an AI gun detection firm. This un",
-    "image_path": "/assets/headers/2026-06-08.svg"
   }
 ]
