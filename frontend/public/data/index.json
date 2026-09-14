@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-14",
+    "headline": "AI's Crossroads: Safeguards, Shifting Bets, & Corporate Plays",
+    "preview": "The tech landscape this week presents a portrait of an industry wrestling with its own colossal creations, primarily artificial intelligence. Mounting concerns over AI's trajectory dominated headlines",
+    "image_path": "/assets/headers/2026-09-14.svg"
+  },
+  {
     "date": "2026-09-13",
     "headline": "AI's Crossroads, Leadership Battles, and Innovation Surges",
     "preview": "The tech world awoke to a surprising plot twist this weekend as Automattic confirmed the dramatic return of founder Matt Mullenweg as CEO, following an attempted board ouster. This high-stakes corpora",
@@ -532,11 +538,5 @@
     "headline": "Musk Trillionaire, AI Faces Regulatory Hammer",
     "preview": "The tech world awoke this morning to the seismic news of SpaceX's blockbuster IPO, catapulting Elon Musk into the stratosphere as the world's first trillionaire. The space exploration giant, now publi",
     "image_path": "/assets/headers/2026-06-13.svg"
-  },
-  {
-    "date": "2026-06-10",
-    "headline": "AI Dominates Headlines, Industry Shifts Gears",
-    "preview": "The tech world is locked in an exhilarating, high-stakes sprint, and this week, the finish line feels further than ever, yet the pace just keeps accelerating. The loudest reverberations came from the ",
-    "image_path": "/assets/headers/2026-06-10.svg"
   }
 ]
