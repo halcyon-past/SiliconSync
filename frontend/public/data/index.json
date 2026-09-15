@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-15",
+    "headline": "AI Accelerated, Space Militarized, Apple Reborn",
+    "preview": "The lines between geopolitics, cutting-edge technology, and everyday life blurred significantly this week, as the US military made the unprecedented confirmation of deploying weapons in orbit. This re",
+    "image_path": "/assets/headers/2026-09-15.svg"
+  },
+  {
     "date": "2026-09-14",
     "headline": "AI's Crossroads: Safeguards, Shifting Bets, & Corporate Plays",
     "preview": "The tech landscape this week presents a portrait of an industry wrestling with its own colossal creations, primarily artificial intelligence. Mounting concerns over AI's trajectory dominated headlines",
@@ -532,11 +538,5 @@
     "headline": "AI's Reckoning: Regulators Tighten Grip, Fears Mount",
     "preview": "The tech world awoke to a seismic shift in the AI landscape today, as Anthropic, a leader in advanced AI development, suspended access to its new Fable and Mythos models following a direct directive f",
     "image_path": "/assets/headers/2026-06-14.svg"
-  },
-  {
-    "date": "2026-06-13",
-    "headline": "Musk Trillionaire, AI Faces Regulatory Hammer",
-    "preview": "The tech world awoke this morning to the seismic news of SpaceX's blockbuster IPO, catapulting Elon Musk into the stratosphere as the world's first trillionaire. The space exploration giant, now publi",
-    "image_path": "/assets/headers/2026-06-13.svg"
   }
 ]
