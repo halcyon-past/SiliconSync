@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-16",
+    "headline": "AI's Reckoning: From Regulation to Orbit",
+    "preview": "The week's tech news pulses with a familiar tension: the relentless march of innovation against the growing demands for accountability. Nvidia CEO Jensen Huang boldly declared that AI regulation is un",
+    "image_path": "/assets/headers/2026-09-16.svg"
+  },
+  {
     "date": "2026-09-15",
     "headline": "AI Accelerated, Space Militarized, Apple Reborn",
     "preview": "The lines between geopolitics, cutting-edge technology, and everyday life blurred significantly this week, as the US military made the unprecedented confirmation of deploying weapons in orbit. This re",
@@ -532,11 +538,5 @@
     "headline": "AI's Regulatory Storm: Tech's Uneasy Future Unfolds",
     "preview": "The nascent age of artificial intelligence faced a stark reckoning this past week, as regulatory pressures moved from hypothetical to concrete reality. Major AI player Anthropic found itself at the sh",
     "image_path": "/assets/headers/2026-06-15.svg"
-  },
-  {
-    "date": "2026-06-14",
-    "headline": "AI's Reckoning: Regulators Tighten Grip, Fears Mount",
-    "preview": "The tech world awoke to a seismic shift in the AI landscape today, as Anthropic, a leader in advanced AI development, suspended access to its new Fable and Mythos models following a direct directive f",
-    "image_path": "/assets/headers/2026-06-14.svg"
   }
 ]
