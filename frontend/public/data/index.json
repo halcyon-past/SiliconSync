@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-17",
+    "headline": "AI Surges, Wearables Wobble, SpaceX Shifts",
+    "preview": "The tech world woke up to a seismic shift in private capital today, as a long-time backer began distributing SpaceX stock to its investors. This move underscores the ongoing maturation of once-private",
+    "image_path": "/assets/headers/2026-09-17.svg"
+  },
+  {
     "date": "2026-09-16",
     "headline": "AI's Reckoning: From Regulation to Orbit",
     "preview": "The week's tech news pulses with a familiar tension: the relentless march of innovation against the growing demands for accountability. Nvidia CEO Jensen Huang boldly declared that AI regulation is un",
@@ -532,11 +538,5 @@
     "headline": "Protests, Billions, and Bans: Tech's Defining Day",
     "preview": "Today, the tech world grappled with its conscience and its capital, vividly encapsulated by Google CEO Sundar Pichai enduring boos and a walkout at Stanford over the company's controversial government",
     "image_path": "/assets/headers/2026-06-16.svg"
-  },
-  {
-    "date": "2026-06-15",
-    "headline": "AI's Regulatory Storm: Tech's Uneasy Future Unfolds",
-    "preview": "The nascent age of artificial intelligence faced a stark reckoning this past week, as regulatory pressures moved from hypothetical to concrete reality. Major AI player Anthropic found itself at the sh",
-    "image_path": "/assets/headers/2026-06-15.svg"
   }
 ]
