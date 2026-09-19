@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-19",
+    "headline": "AI Near-Miss: Global Tech Grapples with Intelligence",
+    "preview": "The chilling prospect of an AI-induced conflict became frighteningly real this week, as reports surfaced that a sophisticated AI hallucination nearly triggered a US military operation. The incident, s",
+    "image_path": "/assets/headers/2026-09-19.svg"
+  },
+  {
     "date": "2026-09-17",
     "headline": "AI Surges, Wearables Wobble, SpaceX Shifts",
     "preview": "The tech world woke up to a seismic shift in private capital today, as a long-time backer began distributing SpaceX stock to its investors. This move underscores the ongoing maturation of once-private",
@@ -532,11 +538,5 @@
     "headline": "AI, Space Titans, and Evolving Tech Frontlines",
     "preview": "This week, the tech landscape was undeniably shaped by the ambitious and often controversial march of Artificial Intelligence, alongside seismic shifts in market valuations and a relentless push towar",
     "image_path": "/assets/headers/2026-06-17.svg"
-  },
-  {
-    "date": "2026-06-16",
-    "headline": "Protests, Billions, and Bans: Tech's Defining Day",
-    "preview": "Today, the tech world grappled with its conscience and its capital, vividly encapsulated by Google CEO Sundar Pichai enduring boos and a walkout at Stanford over the company's controversial government",
-    "image_path": "/assets/headers/2026-06-16.svg"
   }
 ]
