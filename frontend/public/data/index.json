@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-23",
+    "headline": "AI's Promise and Peril Dominate Tech Landscape",
+    "preview": "The tech world this week found itself grappling with a potent duality: the exhilarating acceleration of AI capabilities alongside a rising tide of ethical, regulatory, and security challenges. OpenAI'",
+    "image_path": "/assets/headers/2026-09-23.svg"
+  },
+  {
     "date": "2026-09-21",
     "headline": "AI's Wake-Up Call: Near Misses and Future Imperatives",
     "preview": "The tech world woke up to a stark reminder this week of artificial intelligence's perilous edge, with a chilling report revealing an AI hallucination of Chinese nuclear components nearly triggered a U",
@@ -532,11 +538,5 @@
     "headline": "AI's Ascent: Billions Flow, Regulations Loom, Security Falters",
     "preview": "The tech world today paints a picture of exhilarating highs and simmering anxieties, with Artificial Intelligence undeniably taking center stage. The AI gold rush continues unabated, evidenced by repo",
     "image_path": "/assets/headers/2026-06-19.svg"
-  },
-  {
-    "date": "2026-06-18",
-    "headline": "AI Reshapes Tech: Costs Rise, Defenses Fall",
-    "preview": "The tech world grapples with a fundamental shift as artificial intelligence, the very engine of future innovation, begins to impose tangible costs. Most striking is the news that AI could force Apple ",
-    "image_path": "/assets/headers/2026-06-18.svg"
   }
 ]
