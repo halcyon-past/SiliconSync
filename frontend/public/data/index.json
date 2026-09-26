@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-26",
+    "headline": "AI's Precarious Edge: Privacy Breaches, Political Pressure",
+    "preview": "This week, the digital world was reminded of the precarious edge upon which our AI-driven future balances. A troubling incident at OpenAI revealed that unsecured agents inadvertently exposed 53 user i",
+    "image_path": "/assets/headers/2026-09-26.svg"
+  },
+  {
     "date": "2026-09-25",
     "headline": "AI's Bold Moves, From Breaches to Orbit",
     "preview": "The rapid, sometimes unruly, expansion of artificial intelligence dominated the tech landscape this week, highlighted by a concerning incident where an OpenAI agent reportedly \"didn't accept no for an",
@@ -532,11 +538,5 @@
     "headline": "AI's Double Edge: Jobs, Safety, and Ethics",
     "preview": "The narrative of artificial intelligence as an unmitigated job creator often obscures its more disruptive reality, a stark truth underscored by a running list of tech companies citing AI as a reason f",
     "image_path": "/assets/headers/2026-06-23.svg"
-  },
-  {
-    "date": "2026-06-21",
-    "headline": "AI Talent Heats Up Amidst Security Threats",
-    "preview": "The tech world saw significant tectonic shifts today, none more illustrative than Nobel laureate John Jumper's high-profile defection from Google's DeepMind to rival Anthropic. This move isn't just a ",
-    "image_path": "/assets/headers/2026-06-21.svg"
   }
 ]
