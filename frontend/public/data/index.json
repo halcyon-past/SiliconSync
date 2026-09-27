@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-27",
+    "headline": "AI's Unsettling Future: Robots, Regulations, and Reality",
+    "preview": "The technological frontier, ever-expanding, presented a complex picture this week, nowhere more starkly than at Tesla. As the company continues to push its Optimus humanoid robots, a significant frict",
+    "image_path": "/assets/headers/2026-09-27.svg"
+  },
+  {
     "date": "2026-09-26",
     "headline": "AI's Precarious Edge: Privacy Breaches, Political Pressure",
     "preview": "This week, the digital world was reminded of the precarious edge upon which our AI-driven future balances. A troubling incident at OpenAI revealed that unsecured agents inadvertently exposed 53 user i",
@@ -532,11 +538,5 @@
     "headline": "Quantum Crypto Urgency, AI's Grip, Security's Stakes",
     "preview": "The tech world woke up today to a stark reminder of future threats, as the White House drastically shortened the deadline for government agencies to migrate off quantum-vulnerable cryptographic system",
     "image_path": "/assets/headers/2026-06-24.svg"
-  },
-  {
-    "date": "2026-06-23",
-    "headline": "AI's Double Edge: Jobs, Safety, and Ethics",
-    "preview": "The narrative of artificial intelligence as an unmitigated job creator often obscures its more disruptive reality, a stark truth underscored by a running list of tech companies citing AI as a reason f",
-    "image_path": "/assets/headers/2026-06-23.svg"
   }
 ]
