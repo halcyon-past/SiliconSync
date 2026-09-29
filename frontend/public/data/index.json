@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-29",
+    "headline": "AI's Paradox: Existential Fears Meet Billion-Dollar Deals",
+    "preview": "The future of artificial intelligence, it seems, comes with an increasingly stark warning label. This week, Anthropic's prospectus made waves, not just for detailing losses and growth, but for includi",
+    "image_path": "/assets/headers/2026-09-29.svg"
+  },
+  {
     "date": "2026-09-27",
     "headline": "AI's Unsettling Future: Robots, Regulations, and Reality",
     "preview": "The technological frontier, ever-expanding, presented a complex picture this week, nowhere more starkly than at Tesla. As the company continues to push its Optimus humanoid robots, a significant frict",
@@ -532,11 +538,5 @@
     "headline": "AI's New Core: Chips, Talent, and Geopolitics",
     "preview": "Today's tech landscape is buzzing with developments across the spectrum, but perhaps no story looms larger than the deepening integration of artificial intelligence into the very fabric of hardware. I",
     "image_path": "/assets/headers/2026-06-25.svg"
-  },
-  {
-    "date": "2026-06-24",
-    "headline": "Quantum Crypto Urgency, AI's Grip, Security's Stakes",
-    "preview": "The tech world woke up today to a stark reminder of future threats, as the White House drastically shortened the deadline for government agencies to migrate off quantum-vulnerable cryptographic system",
-    "image_path": "/assets/headers/2026-06-24.svg"
   }
 ]
