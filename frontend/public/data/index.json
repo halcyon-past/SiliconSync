@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-30",
+    "headline": "OpenAI's Grand Ambition: Trillions, Trolls, and Turmoil",
+    "preview": "The tech world's eyes remain fixed on OpenAI, whose reported $1.4 trillion valuation talks signal an unprecedented scale of ambition and investor confidence. The AI powerhouse further demonstrated its",
+    "image_path": "/assets/headers/2026-09-30.svg"
+  },
+  {
     "date": "2026-09-29",
     "headline": "AI's Paradox: Existential Fears Meet Billion-Dollar Deals",
     "preview": "The future of artificial intelligence, it seems, comes with an increasingly stark warning label. This week, Anthropic's prospectus made waves, not just for detailing losses and growth, but for includi",
@@ -532,11 +538,5 @@
     "headline": "AI's Reckoning: Policy, Power, and Pricing",
     "preview": "The most striking development of the day comes from Washington, where the White House has reportedly asked OpenAI to \"slow roll\" the release of its latest AI model, citing burgeoning safety concerns. ",
     "image_path": "/assets/headers/2026-06-26.svg"
-  },
-  {
-    "date": "2026-06-25",
-    "headline": "AI's New Core: Chips, Talent, and Geopolitics",
-    "preview": "Today's tech landscape is buzzing with developments across the spectrum, but perhaps no story looms larger than the deepening integration of artificial intelligence into the very fabric of hardware. I",
-    "image_path": "/assets/headers/2026-06-25.svg"
   }
 ]
