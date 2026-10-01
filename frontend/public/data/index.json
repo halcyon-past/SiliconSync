@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-01",
+    "headline": "AI Dominates, Security Falters, Innovation Continues",
+    "preview": "The tech world awoke to a seismic shift today as Google announced Gemini 4 Argon, its latest and most powerful AI model. While not yet available for public use, the reveal underscores the relentless p",
+    "image_path": "/assets/headers/2026-10-01.svg"
+  },
+  {
     "date": "2026-09-30",
     "headline": "OpenAI's Grand Ambition: Trillions, Trolls, and Turmoil",
     "preview": "The tech world's eyes remain fixed on OpenAI, whose reported $1.4 trillion valuation talks signal an unprecedented scale of ambition and investor confidence. The AI powerhouse further demonstrated its",
@@ -532,11 +538,5 @@
     "headline": "AI Dominance: Talent Wars, Regulatory Tangles, Global Impact",
     "preview": "The tech world awoke to a stark reminder of AI's burgeoning influence, with the Trump administration's sweeping release of Anthropic's Mythos model to over a hundred US companies and agencies. This la",
     "image_path": "/assets/headers/2026-06-28.svg"
-  },
-  {
-    "date": "2026-06-26",
-    "headline": "AI's Reckoning: Policy, Power, and Pricing",
-    "preview": "The most striking development of the day comes from Washington, where the White House has reportedly asked OpenAI to \"slow roll\" the release of its latest AI model, citing burgeoning safety concerns. ",
-    "image_path": "/assets/headers/2026-06-26.svg"
   }
 ]
