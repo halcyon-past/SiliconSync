@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-06",
+    "headline": "AI's Frontier: Vulnerabilities, Ventures, and Vigilance",
+    "preview": "Today's tech landscape is a vibrant tapestry woven with breathtaking innovation and unsettling vulnerabilities, particularly as artificial intelligence infiltrates every facet of our lives. The most p",
+    "image_path": "/assets/headers/2026-10-06.svg"
+  },
+  {
     "date": "2026-10-05",
     "headline": "AI's Shifting Ground: Safety, Surveillance, Society",
     "preview": "The accelerating pace of artificial intelligence development and deployment is reaching a critical inflection point, as evidenced by Google's unprecedented move to freeze its open-source bug bounty pr",
@@ -532,11 +538,5 @@
     "headline": "AI Unleashed, Markets Boom, Digital Future Beckons",
     "preview": "The tech world buzzed today, underscoring the accelerating, yet increasingly complex, role of artificial intelligence. While Anthropic confidently released its AI models globally after a high-profile ",
     "image_path": "/assets/headers/2026-07-02.svg"
-  },
-  {
-    "date": "2026-07-01",
-    "headline": "AI Unfettered, Fusion Realized: A Tech Turning Point",
-    "preview": "Today's tech landscape presented a potent mix of policy shifts, groundbreaking science, and simmering industry battles, all underscored by the relentless march of artificial intelligence. In a move th",
-    "image_path": "/assets/headers/2026-07-01.svg"
   }
 ]
