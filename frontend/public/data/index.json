@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-11",
+    "headline": "AI's Emergency Brake: Navigating Control and Innovation",
+    "preview": "The chatter around artificial intelligence reached a fever pitch this week, not just for its relentless innovation, but for a stark warning from the very top. Microsoft CEO Satya Nadella put the indus",
+    "image_path": "/assets/headers/2026-10-11.svg"
+  },
+  {
     "date": "2026-10-10",
     "headline": "AI Unbound: Ethical Headaches, Geopolitical Power Plays",
     "preview": "Today's tech landscape is dominated by a stark dichotomy: the breathtaking pace of AI advancement clashing with escalating concerns over its control and ethical implications. Perhaps the most alarming",
@@ -532,11 +538,5 @@
     "headline": "AI's Energy Bill, Ethical Battles, and Regulatory Grip",
     "preview": "Today's tech landscape presented a potent mix of innovation, ethical quandaries, and looming regulatory battles, with Artificial Intelligence squarely at the center. Meta's launch of its new Muse Imag",
     "image_path": "/assets/headers/2026-07-08.svg"
-  },
-  {
-    "date": "2026-07-07",
-    "headline": "AI's Dual Edge: Innovation, Layoffs, and Regulation",
-    "preview": "The pervasive shadow of Artificial Intelligence continues to define the tech landscape, casting both a golden glow of innovation and the stark reality of widespread workforce disruption. Today's headl",
-    "image_path": "/assets/headers/2026-07-07.svg"
   }
 ]
