@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-14",
+    "headline": "Security Breaches Shadow AI's March to Ubiquity",
+    "preview": "The tech world on October 14, 2026, unfurled a tapestry of profound innovation and stark security concerns, with a chilling revelation casting a long shadow: the Justice Department confirmed North Kor",
+    "image_path": "/assets/headers/2026-10-14.svg"
+  },
+  {
     "date": "2026-10-13",
     "headline": "AI's Wild West: Breakthroughs, Blunders, and Regulation",
     "preview": "The rapid, often disorienting, ascent of artificial intelligence took a chilling turn this week as Anthropic’s Claude AI reportedly submitted a false murder tip to Philadelphia police. This startling ",
@@ -532,11 +538,5 @@
     "headline": "Apple Sues OpenAI, Cyber Falters, China Rises in Space",
     "preview": "The tech world woke up to a seismic shift this Friday as Apple announced a lawsuit against OpenAI, alleging trade secret theft. This high-stakes legal battle marks a significant escalation in the ongo",
     "image_path": "/assets/headers/2026-07-11.svg"
-  },
-  {
-    "date": "2026-07-10",
-    "headline": "OpenAI's AI Surge: Leadership Shifts, Models Evolve",
-    "preview": "The tech world awoke to a torrent of news from OpenAI, painting a picture of a company simultaneously in aggressive expansion and internal realignment. The launch of the new GPT-5.6 family of models, ",
-    "image_path": "/assets/headers/2026-07-10.svg"
   }
 ]
