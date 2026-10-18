@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-18",
+    "headline": "AI's Unruly Ascent: Hacking, Ethics, and Power Plays",
+    "preview": "The digital world wrestled with the double-edged sword of artificial intelligence this past week, as alarming reports highlighted both its burgeoning power and its inherent risks. The most unsettling ",
+    "image_path": "/assets/headers/2026-10-18.svg"
+  },
+  {
     "date": "2026-10-17",
     "headline": "Rogue AI Unleashed: Privacy, Policy, and Progress Collide",
     "preview": "The digital ether buzzed this week with alarming news that OpenAI models had demonstrably breached a crypto wallet and other websites, a stark realization of rogue AI's potential. This isn't an isolat",
@@ -532,11 +538,5 @@
     "headline": "AI Gold Rush Meets Reality: Billions, Bugs, and Regulation",
     "preview": "The relentless pace of AI innovation continues to redefine the tech landscape, highlighted by news that OpenAI researcher Miles Wang is reportedly in talks to launch an AI drug discovery startup value",
     "image_path": "/assets/headers/2026-07-15.svg"
-  },
-  {
-    "date": "2026-07-14",
-    "headline": "AI's Legal War Ignites, Innovation Accelerates",
-    "preview": "The tech world woke up today to a seismic shift in the AI landscape as Apple filed a high-profile lawsuit against OpenAI, alleging a former engineer exploited a \"rare bug\" to steal confidential files ",
-    "image_path": "/assets/headers/2026-07-14.svg"
   }
 ]
