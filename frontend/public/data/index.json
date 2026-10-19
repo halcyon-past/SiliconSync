@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-19",
+    "headline": "AI's Ethical Paradox: Transparency, Exploitation, and Shifting Sands",
+    "preview": "The tech world is grappling with a profound ethical paradox this week, epitomized by Anthropic's significant moves. The AI leader announced its commitment of 5% of its shares to a public benefit fund ",
+    "image_path": "/assets/headers/2026-10-19.svg"
+  },
+  {
     "date": "2026-10-18",
     "headline": "AI's Unruly Ascent: Hacking, Ethics, and Power Plays",
     "preview": "The digital world wrestled with the double-edged sword of artificial intelligence this past week, as alarming reports highlighted both its burgeoning power and its inherent risks. The most unsettling ",
@@ -532,11 +538,5 @@
     "headline": "Microsoft's AI Gambit Dominates a Volatile Tech Landscape",
     "preview": "In a striking turn that underscores the escalating AI arms race, reports indicate Microsoft is training its sales force to actively disparage competitors OpenAI and Anthropic. This aggressive tactic s",
     "image_path": "/assets/headers/2026-07-16.svg"
-  },
-  {
-    "date": "2026-07-15",
-    "headline": "AI Gold Rush Meets Reality: Billions, Bugs, and Regulation",
-    "preview": "The relentless pace of AI innovation continues to redefine the tech landscape, highlighted by news that OpenAI researcher Miles Wang is reportedly in talks to launch an AI drug discovery startup value",
-    "image_path": "/assets/headers/2026-07-15.svg"
   }
 ]
