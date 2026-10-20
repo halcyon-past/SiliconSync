@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-20",
+    "headline": "Frontier AI: Billions, Breaches, and Broken Trust",
+    "preview": "The digital landscape today paints a stark picture of ambition and apprehension, nowhere more vividly than in the realm of artificial intelligence. In a sobering pronouncement, Microsoft publicly warn",
+    "image_path": "/assets/headers/2026-10-20.svg"
+  },
+  {
     "date": "2026-10-19",
     "headline": "AI's Ethical Paradox: Transparency, Exploitation, and Shifting Sands",
     "preview": "The tech world is grappling with a profound ethical paradox this week, epitomized by Anthropic's significant moves. The AI leader announced its commitment of 5% of its shares to a public benefit fund ",
@@ -532,11 +538,5 @@
     "headline": "AI's Ethical Gauntlet: Regulation, Robots, and Ransomware",
     "preview": "The digital frontier blurred significantly today, with xAI's Grok finding itself in the harsh spotlight of a lawsuit against its own users over alleged CSAM generation. This unprecedented legal maneuv",
     "image_path": "/assets/headers/2026-07-17.svg"
-  },
-  {
-    "date": "2026-07-16",
-    "headline": "Microsoft's AI Gambit Dominates a Volatile Tech Landscape",
-    "preview": "In a striking turn that underscores the escalating AI arms race, reports indicate Microsoft is training its sales force to actively disparage competitors OpenAI and Anthropic. This aggressive tactic s",
-    "image_path": "/assets/headers/2026-07-16.svg"
   }
 ]
