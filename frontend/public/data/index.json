@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-21",
+    "headline": "Musk's Merger Mania, AI's Ethical Crossroads",
+    "preview": "Today's tech landscape is abuzz with the potential for a seismic shift, as special committees on both the SpaceX and Tesla boards have been formed to review a potential merger. Elon Musk himself endor",
+    "image_path": "/assets/headers/2026-10-21.svg"
+  },
+  {
     "date": "2026-10-20",
     "headline": "Frontier AI: Billions, Breaches, and Broken Trust",
     "preview": "The digital landscape today paints a stark picture of ambition and apprehension, nowhere more vividly than in the realm of artificial intelligence. In a sobering pronouncement, Microsoft publicly warn",
@@ -532,11 +538,5 @@
     "headline": "AI Ethics, Space Ambition, Market Forces Collide",
     "preview": "The tech world today presented a stark reminder that innovation, however dazzling, rarely escapes the gravitational pull of ethics and regulation. The biggest story gripping the industry is the unifie",
     "image_path": "/assets/headers/2026-07-18.svg"
-  },
-  {
-    "date": "2026-07-17",
-    "headline": "AI's Ethical Gauntlet: Regulation, Robots, and Ransomware",
-    "preview": "The digital frontier blurred significantly today, with xAI's Grok finding itself in the harsh spotlight of a lawsuit against its own users over alleged CSAM generation. This unprecedented legal maneuv",
-    "image_path": "/assets/headers/2026-07-17.svg"
   }
 ]
