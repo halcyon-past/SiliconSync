@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-22",
+    "headline": "AI Surges, Tesla Sinks, Tech Reconfigures Fast",
+    "preview": "The tech world awoke to a torrent of news yesterday, but the resounding drumbeat was the relentless, audacious expansion of Artificial Intelligence. Despite lingering concerns about the sustainability",
+    "image_path": "/assets/headers/2026-10-22.svg"
+  },
+  {
     "date": "2026-10-21",
     "headline": "Musk's Merger Mania, AI's Ethical Crossroads",
     "preview": "Today's tech landscape is abuzz with the potential for a seismic shift, as special committees on both the SpaceX and Tesla boards have been formed to review a potential merger. Elon Musk himself endor",
@@ -532,11 +538,5 @@
     "headline": "AI's Rapid Rise, Regulatory Scrutiny Intensifies",
     "preview": "The volatile currents of artificial intelligence continue to dominate the tech narrative, epitomized this week by Databricks' eye-popping $188 billion valuation, a testament to AI's deep integration i",
     "image_path": "/assets/headers/2026-07-19.svg"
-  },
-  {
-    "date": "2026-07-18",
-    "headline": "AI Ethics, Space Ambition, Market Forces Collide",
-    "preview": "The tech world today presented a stark reminder that innovation, however dazzling, rarely escapes the gravitational pull of ethics and regulation. The biggest story gripping the industry is the unifie",
-    "image_path": "/assets/headers/2026-07-18.svg"
   }
 ]
