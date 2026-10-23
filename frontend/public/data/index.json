@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-23",
+    "headline": "Tech's Trillion-Dollar Ambition Meets Taxing Reality",
+    "preview": "In a week already buzzing with innovation and investment, Mark Zuckerberg captured headlines with a uniquely Meta solution to California's proposed billionaire tax. His creative maneuver, designed to ",
+    "image_path": "/assets/headers/2026-10-23.svg"
+  },
+  {
     "date": "2026-10-22",
     "headline": "AI Surges, Tesla Sinks, Tech Reconfigures Fast",
     "preview": "The tech world awoke to a torrent of news yesterday, but the resounding drumbeat was the relentless, audacious expansion of Artificial Intelligence. Despite lingering concerns about the sustainability",
@@ -532,11 +538,5 @@
     "headline": "AI Redefines Creativity, Space Ignites, Tech Scrutinized",
     "preview": "The skies above Earth are buzzing with activity, both commercial and national, marking a pivotal moment in aerospace. India made a dramatic entrance onto the global private space stage, successfully l",
     "image_path": "/assets/headers/2026-07-20.svg"
-  },
-  {
-    "date": "2026-07-19",
-    "headline": "AI's Rapid Rise, Regulatory Scrutiny Intensifies",
-    "preview": "The volatile currents of artificial intelligence continue to dominate the tech narrative, epitomized this week by Databricks' eye-popping $188 billion valuation, a testament to AI's deep integration i",
-    "image_path": "/assets/headers/2026-07-19.svg"
   }
 ]
