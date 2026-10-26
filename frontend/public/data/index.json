@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-26",
+    "headline": "AI Dreams, Hard Truths: Tech's Transformative Day",
+    "preview": "Today, the tech world grapples with a familiar paradox: the thrilling promise of innovation clashing with the gritty realities of implementation and impact. Nowhere is this more apparent than in artif",
+    "image_path": "/assets/headers/2026-10-26.svg"
+  },
+  {
     "date": "2026-10-25",
     "headline": "AI's Edge, Internet's Brink: Tech's Unsteady March",
     "preview": "Today's tech landscape presented a compelling paradox: moments of crucial resilience against a backdrop of deep-seated fragility. While Starlink notably restored stable connectivity in Ukraine, a coll",
@@ -532,11 +538,5 @@
     "headline": "AI's Unsettled Frontier: From Rumors to Regulation",
     "preview": "The tech world today buzzed with speculation and significant developments, primarily centered on the ever-expanding universe of Artificial Intelligence. At the forefront, whispers of a potential Anthr",
     "image_path": "/assets/headers/2026-07-22.svg"
-  },
-  {
-    "date": "2026-07-21",
-    "headline": "AI's Legal Precedent, Mergers Falters, Innovation Surges",
-    "preview": "Today's tech landscape is less about incremental shifts and more about tectonic plates colliding, nowhere more evident than in the burgeoning field of artificial intelligence. The undisputed headline ",
-    "image_path": "/assets/headers/2026-07-21.svg"
   }
 ]
