@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-29",
+    "headline": "Tech Giants Soar: AI, Hardware Push New Frontiers",
+    "preview": "In a day bristling with significant shifts across the tech landscape, one narrative stands out with unwavering clarity: Microsoft's relentless market dominance. The Redmond giant not only announced an",
+    "image_path": "/assets/headers/2026-10-29.svg"
+  },
+  {
     "date": "2026-10-28",
     "headline": "AI's Perilous Rise, IPO Gold Rush, Tech Shifts",
     "preview": "The rapid ascent of artificial intelligence took a stark turn today, highlighting its profound societal impact and inherent risks. OpenAI finds itself at the center of a lawsuit, accused of potentiall",
@@ -532,11 +538,5 @@
     "headline": "AI Ascends, Space Stumbles, Markets Roil",
     "preview": "This past Friday delivered a potent reminder of the tech world's relentless dualities: breathtaking innovation often accompanied by profound challenges. AI's pervasive march continued unabated, exempl",
     "image_path": "/assets/headers/2026-07-25.svg"
-  },
-  {
-    "date": "2026-07-24",
-    "headline": "AI's Costly Reckoning: Policy, Security, and Shifting Tides",
-    "preview": "The shadow of AI's burgeoning power loomed large over the tech landscape today, with a proposed \"AI Kill Switch Act\" potentially granting the Trump administration unprecedented authority to shut down ",
-    "image_path": "/assets/headers/2026-07-24.svg"
   }
 ]
