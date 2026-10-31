@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-31",
+    "headline": "Shifting Sands: AI's Mixed Signals Amid Market Turmoil",
+    "preview": "The relentless march of artificial intelligence, often presented as an unstoppable force, revealed significant fault lines today. As major players like Anthropic brace for a potential 'junk' credit ra",
+    "image_path": "/assets/headers/2026-10-31.svg"
+  },
+  {
     "date": "2026-10-30",
     "headline": "Breaches, Billions, and Big Tech's Uneven Road",
     "preview": "The digital world was rocked by a stark reminder of its inherent fragility today, as news broke of a suspected multi-billion dollar cryptocurrency heist on Binance, leading to a freeze on withdrawals ",
@@ -532,11 +538,5 @@
     "headline": "AI Under Fire: Security, Jobs, and Future Frontiers",
     "preview": "The tech world is reeling from an \"unprecedented\" OpenAI hack, a breach significant enough to prompt Hugging Face's CEO to demand \"radical transparency\" across the AI industry. This incident immediate",
     "image_path": "/assets/headers/2026-07-27.svg"
-  },
-  {
-    "date": "2026-07-26",
-    "headline": "AI's Ascent: Job Fears and Billions Fuel Innovation",
-    "preview": "The summer of 2026 continues its relentless march, and with it, the accelerating dual narrative of artificial intelligence. Today's headlines paint a vivid picture of AI as both a promised savior and ",
-    "image_path": "/assets/headers/2026-07-26.svg"
   }
 ]
