@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-01",
+    "headline": "AI's Power Play: Data Centers, Ethics, and Enterprise Shifts",
+    "preview": "The relentless march of artificial intelligence is now casting a long shadow beyond the digital realm, transforming into a tangible, politically charged force. This week, the sheer scale of AI's infra",
+    "image_path": "/assets/headers/2026-11-01.svg"
+  },
+  {
     "date": "2026-10-31",
     "headline": "Shifting Sands: AI's Mixed Signals Amid Market Turmoil",
     "preview": "The relentless march of artificial intelligence, often presented as an unstoppable force, revealed significant fault lines today. As major players like Anthropic brace for a potential 'junk' credit ra",
@@ -532,11 +538,5 @@
     "headline": "Acquisitions, AI Anxieties, and Space Race Heats Up",
     "preview": "The tech world today is a whirlwind of strategic maneuvers and foundational shifts, with the commercial space sector emerging as a particularly fierce battleground. News broke of Cursor's aggressive e",
     "image_path": "/assets/headers/2026-07-28.svg"
-  },
-  {
-    "date": "2026-07-27",
-    "headline": "AI Under Fire: Security, Jobs, and Future Frontiers",
-    "preview": "The tech world is reeling from an \"unprecedented\" OpenAI hack, a breach significant enough to prompt Hugging Face's CEO to demand \"radical transparency\" across the AI industry. This incident immediate",
-    "image_path": "/assets/headers/2026-07-27.svg"
   }
 ]
