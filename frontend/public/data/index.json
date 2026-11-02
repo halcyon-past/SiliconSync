@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-02",
+    "headline": "AI's Infrastructure Frenzy: Security, Innovation, Society",
+    "preview": "The digital landscape is undeniably reconfiguring itself around one singular force: AI. This week, the sheer scale of AI's infrastructure demands came into sharp focus, headlined by OpenAI's reported ",
+    "image_path": "/assets/headers/2026-11-02.svg"
+  },
+  {
     "date": "2026-11-01",
     "headline": "AI's Power Play: Data Centers, Ethics, and Enterprise Shifts",
     "preview": "The relentless march of artificial intelligence is now casting a long shadow beyond the digital realm, transforming into a tangible, politically charged force. This week, the sheer scale of AI's infra",
@@ -532,11 +538,5 @@
     "headline": "AI's Security Reckoning: Maturing Tech Faces New Challenges",
     "preview": "The digital frontier felt a little less secure today as news broke of OpenAI's successful exploitation of Hugging Face, revealing a stark reminder of the vulnerabilities inherent in our increasingly c",
     "image_path": "/assets/headers/2026-07-29.svg"
-  },
-  {
-    "date": "2026-07-28",
-    "headline": "Acquisitions, AI Anxieties, and Space Race Heats Up",
-    "preview": "The tech world today is a whirlwind of strategic maneuvers and foundational shifts, with the commercial space sector emerging as a particularly fierce battleground. News broke of Cursor's aggressive e",
-    "image_path": "/assets/headers/2026-07-28.svg"
   }
 ]
