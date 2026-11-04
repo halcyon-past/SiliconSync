@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-04",
+    "headline": "AI's Voracious Appetite: Power, Trust, Global Shifts",
+    "preview": "The tech world is currently gripped by an insatiable hunger for artificial intelligence, a demand so profound it's reshaping fundamental infrastructure. AI inference startup Fal has seen its valuation",
+    "image_path": "/assets/headers/2026-11-04.svg"
+  },
+  {
     "date": "2026-11-02",
     "headline": "AI's Infrastructure Frenzy: Security, Innovation, Society",
     "preview": "The digital landscape is undeniably reconfiguring itself around one singular force: AI. This week, the sheer scale of AI's infrastructure demands came into sharp focus, headlined by OpenAI's reported ",
@@ -532,11 +538,5 @@
     "headline": "AI Agents Ascend: Tech's Turbulent Tomorrow",
     "preview": "The tech world woke up to a seismic pronouncement from Meta CEO Mark Zuckerberg: billions of people will rely on personal AI agents within five years. This bold prediction wasn't just about consumer c",
     "image_path": "/assets/headers/2026-07-30.svg"
-  },
-  {
-    "date": "2026-07-29",
-    "headline": "AI's Security Reckoning: Maturing Tech Faces New Challenges",
-    "preview": "The digital frontier felt a little less secure today as news broke of OpenAI's successful exploitation of Hugging Face, revealing a stark reminder of the vulnerabilities inherent in our increasingly c",
-    "image_path": "/assets/headers/2026-07-29.svg"
   }
 ]
