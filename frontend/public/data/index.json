@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-06",
+    "headline": "AI's Ascent Meets Cyber's Shadow",
+    "preview": "The promise and peril of artificial intelligence took center stage this week, casting a long shadow over an otherwise innovative news cycle. In a chilling development, a lawsuit surfaced alleging Chat",
+    "image_path": "/assets/headers/2026-11-06.svg"
+  },
+  {
     "date": "2026-11-04",
     "headline": "AI's Voracious Appetite: Power, Trust, Global Shifts",
     "preview": "The tech world is currently gripped by an insatiable hunger for artificial intelligence, a demand so profound it's reshaping fundamental infrastructure. AI inference startup Fal has seen its valuation",
@@ -532,11 +538,5 @@
     "headline": "Quantum Security Shaken, AI Reshaping Tech",
     "preview": "The digital security landscape faced a seismic jolt this week as a leading third-round post-quantum cryptography (PQC) algorithm candidate was rendered obsolete by a 'Mythos attack'. This significant ",
     "image_path": "/assets/headers/2026-07-31.svg"
-  },
-  {
-    "date": "2026-07-30",
-    "headline": "AI Agents Ascend: Tech's Turbulent Tomorrow",
-    "preview": "The tech world woke up to a seismic pronouncement from Meta CEO Mark Zuckerberg: billions of people will rely on personal AI agents within five years. This bold prediction wasn't just about consumer c",
-    "image_path": "/assets/headers/2026-07-30.svg"
   }
 ]
