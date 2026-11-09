@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-09",
+    "headline": "NVIDIA Scrutiny Ignites Tech's Geopolitical Reckoning",
+    "preview": "Today's tech landscape is dominated by the unsettling shadow of geopolitical intrigue, with NVIDIA at its epicenter. Reports surfaced of an internal investigation into CEO Jensen Huang's alleged ties ",
+    "image_path": "/assets/headers/2026-11-09.svg"
+  },
+  {
     "date": "2026-11-08",
     "headline": "AI's Trillion-Dollar Surge Meets Policy, Cyber Threats",
     "preview": "The tech world awoke to a new benchmark this morning, as reports confirm OpenAI has secured a staggering additional $11 billion in funding, catapulting its valuation to an astronomical $1.25 trillion.",
@@ -532,11 +538,5 @@
     "headline": "AI Debates Rage, Hardware Hits Reality",
     "preview": "The tech world is grappling with a profound paradox today: the relentless march of AI innovation confronting its complex societal repercussions. At the forefront, Sam Altman continues to champion the ",
     "image_path": "/assets/headers/2026-08-03.svg"
-  },
-  {
-    "date": "2026-08-02",
-    "headline": "AI's Reckoning: Ethics, Autonomy, and Human Impact",
-    "preview": "The accelerating pace of AI development continues to confront the tech world with profound ethical quandaries and regulatory hurdles. This past day saw xAI hit a legal wall as a judge denied its reque",
-    "image_path": "/assets/headers/2026-08-02.svg"
   }
 ]
