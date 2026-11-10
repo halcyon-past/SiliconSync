@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-10",
+    "headline": "Huang's Fall: Tech's Tumultuous Day Unfolds",
+    "preview": "The tech world woke up to a seismic jolt this Tuesday, as Nvidia CEO Jensen Huang found himself at the epicenter of a widening scandal that has escalated from alleged personal indiscretion to a full-b",
+    "image_path": "/assets/headers/2026-11-10.svg"
+  },
+  {
     "date": "2026-11-09",
     "headline": "NVIDIA Scrutiny Ignites Tech's Geopolitical Reckoning",
     "preview": "Today's tech landscape is dominated by the unsettling shadow of geopolitical intrigue, with NVIDIA at its epicenter. Reports surfaced of an internal investigation into CEO Jensen Huang's alleged ties ",
@@ -532,11 +538,5 @@
     "headline": "AI's Ethical Fault Lines and Tech's Expanding Horizons",
     "preview": "The tech world is rarely subtle, but this week, Palantir CEO Alex Karp truly outdid himself, sensationally labeling the artificial intelligence industry as \"Marxist\" following his company's stellar qu",
     "image_path": "/assets/headers/2026-08-04.svg"
-  },
-  {
-    "date": "2026-08-03",
-    "headline": "AI Debates Rage, Hardware Hits Reality",
-    "preview": "The tech world is grappling with a profound paradox today: the relentless march of AI innovation confronting its complex societal repercussions. At the forefront, Sam Altman continues to champion the ",
-    "image_path": "/assets/headers/2026-08-03.svg"
   }
 ]

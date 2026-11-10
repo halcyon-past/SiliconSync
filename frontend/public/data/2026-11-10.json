@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-10",
+  "headline": "Huang's Fall: Tech's Tumultuous Day Unfolds",
+  "summary": "The tech world woke up to a seismic jolt this Tuesday, as Nvidia CEO Jensen Huang found himself at the epicenter of a widening scandal that has escalated from alleged personal indiscretion to a full-blown national security concern, with accusations linking his affair to a suspected Chinese spy. This explosive development, coupled with revelations of Huang engaging a crisis PR firm a year prior and a short-seller's earlier warning, has cast a stark shadow over one of Silicon Valley's most revered figures. The fallout was immediate: Huang withdrew from a major AI summit, and a \"race to sue Nvidia\" has begun, all while the incident sparked a flurry of online memes.\n\nAmidst this corporate drama, the relentless march of artificial intelligence continued, albeit with its own blend of breakthroughs and blunders. Otter AI showcased impressive new capabilities, now fluent in over 30 languages, signaling a significant leap in global communication accessibility. Meanwhile, Anthropic, a major player in generative AI, is reportedly preparing for its IPO, underscoring robust investor confidence in the sector's future. Yet, the perils remain palpable: Claude Code was caught accidentally exposing sensitive secrets on GitHub, serving as a stark reminder of the persistent security vulnerabilities inherent in cutting-edge AI development.\n\nBeyond the high-profile headlines, critical infrastructure and cybersecurity concerns continued to demand attention. A widespread vulnerability allowing SSH access to Linux devices is under active exploitation, prompting urgent calls for mitigation from IT departments. Simultaneously, hotel giant Wyndham faced scrutiny for a security lapse that exposed customer data. On a more positive note, Fervo's innovative geothermal power technology secured a staggering $12 billion in new orders, while SpaceX officially redefined itself as an \"infrastructure company,\" highlighting the growing importance of foundational technologies. Even the Pentagon is eyeing lunar satellite fleets, signaling a new era of strategic space infrastructure.\n\nThe broader policy and industry landscape also saw significant movement. California's proposed 'billionaire tax' failed to pass, a notable outcome for the state's wealthy tech elite, while a lawsuit against prediction market Kalshi for alleged illegal gambling underscored the ongoing regulatory challenges for novel platforms operating in uncharted territory. In the entertainment sphere, a major shake-up at the DCU saw James Gunn and Peter Safran exit post-merger, reflecting the turbulent landscape of tech-driven media consolidation and leadership shifts.\n\nAs the dust begins to settle on a truly tumultuous day, the ramifications of Jensen Huang's predicament for Nvidia, and indeed the broader semiconductor and AI industries, will be closely watched. The delicate tension between AI's boundless potential and its inherent security and ethical risks will only intensify, while the crucial foundational work in green energy, space infrastructure, and cybersecurity continues its quiet, yet essential, progress. One thing is clear: the tech world's narrative is becoming increasingly complex, weaving together innovation, personal drama, national security, and global economic shifts into a tapestry of unpredictable change.",
+  "articles": [
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "published_at": "Tue, 10 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "published_at": "Tue, 10 Nov 2026 05:18:43 +0000"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "published_at": "Tue, 10 Nov 2026 04:34:15 +0000"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published_at": "Tue, 10 Nov 2026 01:27:12 +0000"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published_at": "Mon, 09 Nov 2026 23:28:37 +0000"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published_at": "Mon, 09 Nov 2026 23:03:46 +0000"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "published_at": "Mon, 09 Nov 2026 22:46:09 +0000"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "published_at": "Mon, 09 Nov 2026 22:23:42 +0000"
+    },
+    {
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "published_at": "Mon, 09 Nov 2026 21:55:35 +0000"
+    },
+    {
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "published_at": "Mon, 09 Nov 2026 21:13:39 +0000"
+    },
+    {
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "published_at": "Mon, 09 Nov 2026 20:55:34 +0000"
+    },
+    {
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "published_at": "Mon, 09 Nov 2026 20:49:09 +0000"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "published_at": "Mon, 09 Nov 2026 20:09:06 +0000"
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "published_at": "Mon, 09 Nov 2026 19:41:34 +0000"
+    },
+    {
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "published_at": "Mon, 09 Nov 2026 19:08:37 +0000"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "published_at": "Mon, 09 Nov 2026 17:24:26 +0000"
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "published_at": "Mon, 09 Nov 2026 15:39:21 +0000"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "published_at": "Mon, 09 Nov 2026 15:23:20 +0000"
+    },
+    {
+      "title": "F1 in Brazil: You’ve got to keep your tires alive",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+      "published_at": "Mon, 09 Nov 2026 15:16:31 +0000"
+    },
+    {
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "published_at": "Mon, 09 Nov 2026 12:00:05 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-10.svg",
+  "generated_at": "2026-11-10T14:00:52+05:30"
+}
