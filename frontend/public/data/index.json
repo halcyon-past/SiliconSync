@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-11",
+    "headline": "Nvidia Stumbles, AI Leaks, Industry Adapts",
+    "preview": "The tech world awoke to a palpable sense of unease and rapid evolution on November 11, 2026, as Nvidia, once an unassailable titan, found itself embroiled in a corporate governance crisis that had ind",
+    "image_path": "/assets/headers/2026-11-11.svg"
+  },
+  {
     "date": "2026-11-10",
     "headline": "Huang's Fall: Tech's Tumultuous Day Unfolds",
     "preview": "The tech world woke up to a seismic jolt this Tuesday, as Nvidia CEO Jensen Huang found himself at the epicenter of a widening scandal that has escalated from alleged personal indiscretion to a full-b",
@@ -532,11 +538,5 @@
     "headline": "AI Takes Flight Amid Power Crises and Policy Fights",
     "preview": "The tech world thrummed with a palpable mix of soaring innovation and simmering infrastructural tensions today, as artificial intelligence continued its aggressive expansion while simultaneously expos",
     "image_path": "/assets/headers/2026-08-05.svg"
-  },
-  {
-    "date": "2026-08-04",
-    "headline": "AI's Ethical Fault Lines and Tech's Expanding Horizons",
-    "preview": "The tech world is rarely subtle, but this week, Palantir CEO Alex Karp truly outdid himself, sensationally labeling the artificial intelligence industry as \"Marxist\" following his company's stellar qu",
-    "image_path": "/assets/headers/2026-08-04.svg"
   }
 ]
