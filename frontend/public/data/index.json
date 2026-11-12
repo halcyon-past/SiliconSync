@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-12",
+    "headline": "Nvidia in Turmoil, AI Surges, Policy Looms Large",
+    "preview": "The tech world awoke to an earthquake this week, as Nvidia, the undisputed titan of AI chips, found itself engulfed in a spectacular scandal threatening to unseat its legendary CEO, Jensen Huang. Accu",
+    "image_path": "/assets/headers/2026-11-12.svg"
+  },
+  {
     "date": "2026-11-11",
     "headline": "Nvidia Stumbles, AI Leaks, Industry Adapts",
     "preview": "The tech world awoke to a palpable sense of unease and rapid evolution on November 11, 2026, as Nvidia, once an unassailable titan, found itself embroiled in a corporate governance crisis that had ind",
@@ -532,11 +538,5 @@
     "headline": "Google AI Exodus Rocks Tech Landscape",
     "preview": "The tech world woke up to a seismic shift in the AI arena today, as news broke of a significant brain drain from Google's formidable AI division. Not only is DeepMind's co-founder Demis Hassabis repor",
     "image_path": "/assets/headers/2026-08-06.svg"
-  },
-  {
-    "date": "2026-08-05",
-    "headline": "AI Takes Flight Amid Power Crises and Policy Fights",
-    "preview": "The tech world thrummed with a palpable mix of soaring innovation and simmering infrastructural tensions today, as artificial intelligence continued its aggressive expansion while simultaneously expos",
-    "image_path": "/assets/headers/2026-08-05.svg"
   }
 ]

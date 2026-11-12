@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-12",
+  "headline": "Nvidia in Turmoil, AI Surges, Policy Looms Large",
+  "summary": "The tech world awoke to an earthquake this week, as Nvidia, the undisputed titan of AI chips, found itself engulfed in a spectacular scandal threatening to unseat its legendary CEO, Jensen Huang. Accusations of an affair with an alleged Chinese spy, swiftly followed by a second reported dalliance with an Nvidia executive, have sent the company's stock plummeting and its board reportedly scrambling to prepare for Huang's ouster. The fallout is immense, with Congress now demanding Huang answer for the alleged spy entanglement, and speculation already rife about who could possibly fill the shoes of the visionary leader who built Nvidia into a trillion-dollar powerhouse. This isn't just corporate drama; it's a potential seismic shift at the very heart of the AI revolution.\n\nDespite the turmoil at its most prominent chipmaker, the broader AI ecosystem continues its relentless march forward, albeit with nuanced developments. Britain's Fractile secured a hefty $720 million round, underscoring the fierce global race for next-gen AI chips. Meanwhile, Taiwan's chip manufacturing titan, TSMC, committed a staggering $1 billion investment into leading AI labs Anthropic and OpenAI, cementing the symbiotic relationship between silicon and intelligence. Even the economics of AI infrastructure are evolving, with CoreWeave innovating through customer prepayments and shorter contracts to fuel its growth. Yet, the ethical implications of AI are also coming into sharper focus, as the indie gaming community grapples with the fallout from \"Big Walk\" using AI to fix a bug, sparking a significant reckoning over the technology's role in creative development.\n\nBeyond the AI core, the foundational layers of the tech industry are also experiencing significant shifts. Meta, a company heavily invested in its own infrastructure, is seeing the departure of its long-serving head of infrastructure, a move that could signal strategic realignments. The challenges of building out the necessary physical backbone for the digital age are further highlighted by concerns that planned data centers, often met with community resistance, might never materialize. Elsewhere, Apple announced the shuttering of its 28-year-old online community forum, reflecting a potential pivot in how established tech giants engage with their user base and manage online interactions.\n\nRegulatory scrutiny and ambitious technological frontiers also made headlines. T-Mobile faces legal action from New York for allegedly imposing an illegal 50GB cap on its low-income home internet plan, shining a light on ongoing digital equity battles. On the privacy front, the Trump administration lost a fight to spy on journalists' LinkedIn DMs, a victory for press freedom and digital privacy advocates. In space, Anduril demonstrated its satellite's impressive capability to track adversaries in orbital night, while NASA's \"secret weapon\" for lunar race success appears to be streamlined procurement reform. Looking further ahead, IBM announced plans to offer access to a dual-processor quantum system by 2027, hinting at the next leap in computing power. Even the automotive world saw a curious development, with Toyota making \"Kei trucks\" a reality for America, a nod to a unique blend of consumer demand and political influence.\n\nAs the dust settles from Huang's potential exit, the industry stands at a crossroads. The future of Nvidia and its dominance in AI chips, the ethical integration of AI into creative industries, and the delicate balance between innovation and regulatory oversight will be critical narratives to watch. Will the leadership change at Nvidia destabilize the AI hardware market, or open doors for new contenders like Fractile? How will Meta's infrastructure strategy evolve without its veteran leader? And as quantum computing looms and space tech accelerates, the coming months promise continued dynamism, disruption, and an ever-evolving definition of what's next in technology.",
+  "articles": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "Wed, 11 Nov 2026 23:50:00 +0000"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published_at": "Wed, 11 Nov 2026 23:28:45 +0000"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "published_at": "Wed, 11 Nov 2026 23:17:05 +0000"
+    },
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "published_at": "Wed, 11 Nov 2026 23:10:17 +0000"
+    },
+    {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "published_at": "Wed, 11 Nov 2026 20:32:21 +0000"
+    },
+    {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "published_at": "Wed, 11 Nov 2026 20:22:03 +0000"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published_at": "Wed, 11 Nov 2026 20:15:15 +0000"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "published_at": "Wed, 11 Nov 2026 20:12:01 +0000"
+    },
+    {
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "published_at": "Wed, 11 Nov 2026 20:04:28 +0000"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "published_at": "Wed, 11 Nov 2026 19:54:00 +0000"
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "published_at": "Wed, 11 Nov 2026 19:34:55 +0000"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "published_at": "Wed, 11 Nov 2026 19:22:22 +0000"
+    },
+    {
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "published_at": "Wed, 11 Nov 2026 19:00:26 +0000"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "published_at": "Wed, 11 Nov 2026 18:16:40 +0000"
+    },
+    {
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "published_at": "Wed, 11 Nov 2026 18:05:26 +0000"
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "published_at": "Wed, 11 Nov 2026 17:37:32 +0000"
+    },
+    {
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "published_at": "Wed, 11 Nov 2026 17:04:26 +0000"
+    },
+    {
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "published_at": "Wed, 11 Nov 2026 16:33:08 +0000"
+    },
+    {
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "published_at": "Wed, 11 Nov 2026 15:25:44 +0000"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "published_at": "Thu, 12 Nov 2026 03:13:10 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-12.svg",
+  "generated_at": "2026-11-12T13:58:49+05:30"
+}
