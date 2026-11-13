@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-13",
+    "headline": "Huang's Exit Rocks AI, Cloud Security Under Scrutiny",
+    "preview": "The tech world awoke to a seismic shift today, as the dramatic fallout surrounding Nvidia CEO Jensen Huang reached a critical juncture. Following a burgeoning scandal involving alleged affairs and a c",
+    "image_path": "/assets/headers/2026-11-13.svg"
+  },
+  {
     "date": "2026-11-12",
     "headline": "Nvidia in Turmoil, AI Surges, Policy Looms Large",
     "preview": "The tech world awoke to an earthquake this week, as Nvidia, the undisputed titan of AI chips, found itself engulfed in a spectacular scandal threatening to unseat its legendary CEO, Jensen Huang. Accu",
@@ -532,11 +538,5 @@
     "headline": "AI's Dual Push: Consumer Reach, Core Hardware",
     "preview": "The inexorable march of artificial intelligence into our daily lives and its underlying infrastructure dominated headlines this week. OpenAI, the progenitor of ChatGPT, is reportedly eyeing a competit",
     "image_path": "/assets/headers/2026-08-07.svg"
-  },
-  {
-    "date": "2026-08-06",
-    "headline": "Google AI Exodus Rocks Tech Landscape",
-    "preview": "The tech world woke up to a seismic shift in the AI arena today, as news broke of a significant brain drain from Google's formidable AI division. Not only is DeepMind's co-founder Demis Hassabis repor",
-    "image_path": "/assets/headers/2026-08-06.svg"
   }
 ]

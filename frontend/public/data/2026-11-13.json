@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-13",
+  "headline": "Huang's Exit Rocks AI, Cloud Security Under Scrutiny",
+  "summary": "The tech world awoke to a seismic shift today, as the dramatic fallout surrounding Nvidia CEO Jensen Huang reached a critical juncture. Following a burgeoning scandal involving alleged affairs and a controversial \"scheme\" with former President Trump, House Democrats have launched a scathing investigation into Nvidia, casting a long shadow over the semiconductor giant. The pressure culminated in Huang's abrupt exit, sending shockwaves through an industry he largely shaped. His departure immediately sparked concerns about Nvidia's commitment to open-source AI, with Hugging Face's CEO already reaffirming their fight for open standards in the wake of this leadership vacuum. This isn't just a corporate reshuffle; it's a profound moment for the future of AI leadership and policy.\n\nDespite the high-stakes drama at Nvidia, the march of artificial intelligence continues unabated across myriad sectors. The FAA, for instance, announced a significant expansion of its AI advisory system to manage air traffic congestion across the entire US airspace, signaling a growing reliance on intelligent systems for critical infrastructure. Consumer-facing AI is also evolving rapidly: Muse has rolled out a paid service enabling AI agents to place calls to US businesses, while Google unveiled Gemini 4 Hydrogen, a successor to 3.8 Flash, promising more sophisticated interactions. Google Search itself is getting smarter, with upgrades designed to tackle users' most complex queries, and businesses are benefiting from AI agents like Nectar, automating creator discovery and outreach.\n\nYet, this rapid integration isn't without its challenges and public apprehension. The enthusiastic adoption of AI in some areas is juxtaposed with significant resistance in others. Google, fresh off its Gemini 4 launch, is facing calls for AI moratoriums in schools after a pilot program sparked a fierce backlash from families concerned about the technology's impact on young learners. This highlights a widening gap between the industry's push for AI deployment and a society grappling with its ethical implications, privacy concerns, and potential for disruption in sensitive environments like education.\n\nBeyond AI's immediate impact, the foundational layers of our digital world are under increasing strain. Cloud infrastructure, the bedrock of modern computing, is facing new threats and monumental investments. Nebius is making headlines with a colossal $40 billion planned spending spree, signaling aggressive expansion in the \"neocloud\" arena. Concurrently, experts are grappling with the alarming vulnerability of data centers to drone attacks, prompting a critical reevaluation of cloud resilience. Service stability remains a persistent concern, as evidenced by another Microsoft Outlook email outage and the troubling reports from Ukraine regarding renewed limitations on SpaceX's Starshield service, underscoring the geopolitical fragility of essential satellite internet.\n\nAs the dust settles from Huang's departure, the industry stands at a crossroads. We'll be closely watching how Nvidia navigates this new era, particularly its stance on open-source initiatives without its iconic leader. The societal dialogue around AI will intensify, demanding a more nuanced approach to its deployment, especially in public institutions. Meanwhile, the very infrastructure that powers our digital lives will require unprecedented investment in both expansion and security, as geopolitical tensions and sophisticated threats continue to challenge its reliability. The coming months promise a fascinating, and likely turbulent, evolution for tech's leading edge.",
+  "articles": [
+    {
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "published_at": "Thu, 12 Nov 2026 22:59:51 +0000"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "published_at": "Thu, 12 Nov 2026 22:42:51 +0000"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published_at": "Thu, 12 Nov 2026 22:28:47 +0000"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published_at": "Thu, 12 Nov 2026 22:22:28 +0000"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "Thu, 12 Nov 2026 21:35:00 +0000"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published_at": "Thu, 12 Nov 2026 21:27:10 +0000"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "published_at": "Thu, 12 Nov 2026 20:26:47 +0000"
+    },
+    {
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "published_at": "Thu, 12 Nov 2026 19:59:59 +0000"
+    },
+    {
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "published_at": "Thu, 12 Nov 2026 19:49:11 +0000"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "published_at": "Thu, 12 Nov 2026 19:27:45 +0000"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "published_at": "Thu, 12 Nov 2026 19:23:03 +0000"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "published_at": "Thu, 12 Nov 2026 19:11:00 +0000"
+    },
+    {
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "published_at": "Thu, 12 Nov 2026 19:09:57 +0000"
+    },
+    {
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "published_at": "Thu, 12 Nov 2026 19:03:39 +0000"
+    },
+    {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "published_at": "Thu, 12 Nov 2026 18:57:45 +0000"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "published_at": "Thu, 12 Nov 2026 18:39:23 +0000"
+    },
+    {
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "published_at": "Thu, 12 Nov 2026 18:38:38 +0000"
+    },
+    {
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "published_at": "Thu, 12 Nov 2026 18:28:22 +0000"
+    },
+    {
+      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "published_at": "Thu, 12 Nov 2026 18:17:19 +0000"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "published_at": "Thu, 12 Nov 2026 17:36:40 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-13.svg",
+  "generated_at": "2026-11-13T13:42:15+05:30"
+}
