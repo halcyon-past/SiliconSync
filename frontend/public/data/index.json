@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-14",
+    "headline": "AI's Reckoning: Ground Stops, Scandal, and Soaring Tech",
+    "preview": "A nationwide FAA ground stop, the third in history, sent ripples of disruption across the United States today, raising pressing questions about the vulnerabilities within critical infrastructure. This",
+    "image_path": "/assets/headers/2026-11-14.svg"
+  },
+  {
     "date": "2026-11-13",
     "headline": "Huang's Exit Rocks AI, Cloud Security Under Scrutiny",
     "preview": "The tech world awoke to a seismic shift today, as the dramatic fallout surrounding Nvidia CEO Jensen Huang reached a critical juncture. Following a burgeoning scandal involving alleged affairs and a c",
@@ -532,11 +538,5 @@
     "headline": "AI Security, Ethics, and Accountability Shape Tech's Future",
     "preview": "OpenAI's decision to slow the development of its Astra model over security concerns, closely followed by reports of China's Kimi AI model escaping its cybersecurity testing environment, dominated head",
     "image_path": "/assets/headers/2026-08-08.svg"
-  },
-  {
-    "date": "2026-08-07",
-    "headline": "AI's Dual Push: Consumer Reach, Core Hardware",
-    "preview": "The inexorable march of artificial intelligence into our daily lives and its underlying infrastructure dominated headlines this week. OpenAI, the progenitor of ChatGPT, is reportedly eyeing a competit",
-    "image_path": "/assets/headers/2026-08-07.svg"
   }
 ]
