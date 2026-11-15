@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-15",
+  "headline": "Nvidia Turmoil, Sky Chaos: Tech's Turbulent Day",
+  "summary": "The tech world is grappling with an earthquake at its very core: the sudden departure of Jensen Huang from Nvidia. This seismic event, which saw industry titans like Elon Musk sign a petition for his reinstatement and elicited reactions from Asian governments, has sent shockwaves through the AI funding landscape. VCs and founders are already warning of a significant hole in startup capital, raising pointed questions about Nvidia's internal security in the wake of such a pivotal leadership change. It's a stark reminder that even the most dominant players are susceptible to profound internal shifts, with cascading effects across the entire ecosystem.\n\nBeyond the boardroom drama, the broader narrative of artificial intelligence continues its bifurcated path of ambition and apprehension. While the FAA expands its use of AI advice to manage increasingly congested US airspace—a testament to its potential for critical infrastructure—the existential warnings are growing louder, with an OpenAI board member suggesting an AI \"takeover\" of society could be mere months away. This dichotomy is underscored by the sobering reality of the \"AI graveyard,\" a growing list of projects and startups that, despite the hype, simply didn't make the cut, highlighting the immense challenges and fierce competition within the sector.\n\nMeanwhile, away from the AI leadership crisis, Elon Musk's twin empires continued their relentless push forward. SpaceX successfully executed a momentous \"catch\" during its Starship rocket's return from orbit, showcasing audacious engineering triumphs that push the boundaries of space travel. Not content with conquering the cosmos, Musk's Tesla also opened pre-orders for its Cybercab for \"personal use,\" albeit with geo-restrictions and a monthly fee, signaling a bold, if somewhat controversial, expansion into consumer-facing autonomous mobility services. His signature on the petition for Huang also firmly places him at the nexus of the day's tech drama.\n\nCloser to home, a different kind of disruption unfolded as a nationwide flight grounding gripped the United States, attributed by the Transportation Secretary to a \"routine equipment upgrade.\" This third-ever FAA ground stop in history underscores the fragility of our interconnected systems and the profound impact of even seemingly minor technical glitches on critical infrastructure. Amidst these high-stakes events, the consumer tech sector saw incremental advancements: Apple users were offered tips for maximizing their \"iPhone Duo,\" while Amazon unveiled its premium Kindle Colorsoft, a high-priced e-reader indicating a continued push for luxury in personal computing.\n\nAs the dust settles on this tumultuous day, the ramifications of Jensen Huang's departure from Nvidia will undoubtedly reverberate for weeks, if not months, shaping the trajectory of AI innovation and investment. The intertwined narratives of technological ambition, systemic vulnerability, and leadership upheaval demand close attention. We'll be watching closely to see how Nvidia navigates this new era, if the FAA's infrastructure truly stabilizes, and what further audacious moves emerge from the likes of SpaceX and Tesla in the quest for future frontiers.",
+  "articles": [
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "published_at": "Sun, 15 Nov 2026 00:40:59 +0000"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published_at": "Sun, 15 Nov 2026 00:08:07 +0000"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published_at": "Sat, 14 Nov 2026 21:41:22 +0000"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "published_at": "Sat, 14 Nov 2026 20:04:44 +0000"
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "published_at": "Sat, 14 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "published_at": "Sat, 14 Nov 2026 17:45:04 +0000"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "Sat, 14 Nov 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "published_at": "Sat, 14 Nov 2026 16:34:15 +0000"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "published_at": "Sat, 14 Nov 2026 12:15:48 +0000"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "published_at": "Sat, 14 Nov 2026 12:05:51 +0000"
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "published_at": "Sat, 14 Nov 2026 00:49:13 +0000"
+    },
+    {
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "published_at": "Fri, 13 Nov 2026 23:17:38 +0000"
+    },
+    {
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "published_at": "Fri, 13 Nov 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published_at": "Fri, 13 Nov 2026 22:43:00 +0000"
+    },
+    {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "published_at": "Fri, 13 Nov 2026 21:59:01 +0000"
+    },
+    {
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published_at": "Fri, 13 Nov 2026 21:44:38 +0000"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "published_at": "Fri, 13 Nov 2026 21:20:47 +0000"
+    },
+    {
+      "title": "In elephants, the resilience of communities has its limits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "published_at": "Fri, 13 Nov 2026 20:03:13 +0000"
+    },
+    {
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "published_at": "Fri, 13 Nov 2026 19:49:16 +0000"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published_at": "Fri, 13 Nov 2026 17:25:45 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-15.svg",
+  "generated_at": "2026-11-15T13:28:08+05:30"
+}
