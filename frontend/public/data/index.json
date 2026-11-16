@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-16",
+    "headline": "Jensen Huang's Exit Roils AI, Space Soars",
+    "preview": "The tech world awoke to a seismic shift this week, as reports indicate the unprecedented ousting of Nvidia CEO Jensen Huang. The revelation, hinting at internal turmoil and a significant security laps",
+    "image_path": "/assets/headers/2026-11-16.svg"
+  },
+  {
     "date": "2026-11-15",
     "headline": "Nvidia Turmoil, Sky Chaos: Tech's Turbulent Day",
     "preview": "The tech world is grappling with an earthquake at its very core: the sudden departure of Jensen Huang from Nvidia. This seismic event, which saw industry titans like Elon Musk sign a petition for his ",
@@ -532,11 +538,5 @@
     "headline": "AI Pushes Boundaries, But What About the Cost?",
     "preview": "The digital landscape is abuzz with a pivotal shift this week, as Anthropic announced that Claude Code’s auto mode will now be the default, signaling a significant leap toward more autonomous AI in so",
     "image_path": "/assets/headers/2026-08-10.svg"
-  },
-  {
-    "date": "2026-08-09",
-    "headline": "Innovation's Shadow: Climate, AI, and Accountability Dominates Tech",
-    "preview": "This week in tech, a potent reminder emerged that the industry's immense power casts an equally immense shadow. The looming prospect of a planned Amazon data center becoming the U.S.'s largest climate",
-    "image_path": "/assets/headers/2026-08-09.svg"
   }
 ]
