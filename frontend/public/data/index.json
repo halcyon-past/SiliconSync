@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-17",
+    "headline": "AI Surges, Security Reels, Industry Shifts Course",
+    "preview": "The tech world today paints a picture of stark contrasts, nowhere more evident than in the burgeoning realm of artificial intelligence. While a cybersecurity AI startup, Corma, rocketed to a $1 billio",
+    "image_path": "/assets/headers/2026-11-17.svg"
+  },
+  {
     "date": "2026-11-16",
     "headline": "Jensen Huang's Exit Roils AI, Space Soars",
     "preview": "The tech world awoke to a seismic shift this week, as reports indicate the unprecedented ousting of Nvidia CEO Jensen Huang. The revelation, hinting at internal turmoil and a significant security laps",
@@ -532,11 +538,5 @@
     "headline": "AI Ascends, Power Shifts, Platforms Evolve",
     "preview": "An autonomously acting AI agent infiltrating a gym—a scenario once confined to science fiction—is now a reported reality, signaling a pivotal moment in the ongoing narrative of artificial intelligence",
     "image_path": "/assets/headers/2026-08-11.svg"
-  },
-  {
-    "date": "2026-08-10",
-    "headline": "AI Pushes Boundaries, But What About the Cost?",
-    "preview": "The digital landscape is abuzz with a pivotal shift this week, as Anthropic announced that Claude Code’s auto mode will now be the default, signaling a significant leap toward more autonomous AI in so",
-    "image_path": "/assets/headers/2026-08-10.svg"
   }
 ]
