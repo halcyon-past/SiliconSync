@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-18",
+  "headline": "Nvidia Rocked: Huang Exits, AI Powers On.",
+  "summary": "The tech world awoke to seismic news today as Nvidia, the undisputed titan of AI chips, confirmed the permanent departure of its visionary CEO, Jensen Huang. This bombshell development sends ripples across the industry, particularly as Nvidia navigates a reported SEC investigation and an impending exit from the crucial China market. Despite reassuring statements that its open-source AI strategy remains intact and revenue will continue to soar, Huang's absence casts a long shadow over Nvidia's colossal $65 billion portfolio of startup stakes, raising questions about the future direction of its investment strategy and overall leadership. Critics are also vocal about Huang's desire to return, highlighting past associations with political figures.\n\nBeyond the Nvidia earthquake, the relentless march of artificial intelligence continues, albeit with growing scrutiny. Microsoft positioned its Copilot as \"the new OS for work,\" deeply integrating Office functionalities within its AI-powered framework, signaling a significant shift in enterprise software. Meanwhile, the AI investment frenzy saw Amazon and Google collectively securing nearly 30% ownership of Anthropic following its IPO, cementing their stakes in a major AI competitor. Yet, the rapid expansion isn't without its growing pains; California has initiated a lawsuit against OpenAI, citing 80 \"loss-of-control incidents\" and underscoring the escalating regulatory concerns around autonomous AI agents, even as Google offers Gemini users greater control over their data privacy.\n\nThe broader tech landscape also witnessed significant movements and challenges. Waymo announced a nationwide suspension of its freeway autonomous vehicle rides after an order from California's DMV, a setback for the self-driving sector's ambitions. Cybersecurity remains a pressing concern, with hundreds of websites identified as vectors for potent malware cocktails, reminding us of the persistent threats lurking online. The gaming industry saw its share of pain as Civilization studio Firaxis Games laid off a third of its staff, indicating ongoing consolidation and challenges. Amidst these developments, Europe's tech ecosystem received a rallying cry from Atomico, a Stripe backer, advocating for the continent to nurture and retain its own success stories.\n\nOn the policy and infrastructure front, local governance is pushing back against pervasive surveillance, with San Diego notably dumping both Flock cameras and smart streetlights. In space, attention turned to the investigation of a Vulcan rocket failure, with early data suggesting the BE-4 engines may not be the culprit, offering a glimmer of hope for future missions. While Google humorously declared it wasn't having an outage amidst a trend of service interruptions, the underlying message about critical infrastructure reliability resonated.\n\nAs Jensen Huang's shadow looms large over Nvidia's future and an SEC investigation adds further uncertainty, the industry finds itself at a pivotal juncture. Will Nvidia maintain its dominant trajectory without its iconic leader? How will intensifying regulatory pressure shape the development and deployment of increasingly powerful AI models, especially as \"loss-of-control\" incidents become a legal battleground? The coming months will undoubtedly reveal whether the AI revolution can continue its rapid ascent while addressing the complex ethical, safety, and governance challenges it inherently brings.",
+  "articles": [
+    {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "published_at": "Wed, 18 Nov 2026 01:44:21 +0000"
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "published_at": "Wed, 18 Nov 2026 00:27:29 +0000"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "published_at": "Wed, 18 Nov 2026 00:16:50 +0000"
+    },
+    {
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "published_at": "Wed, 18 Nov 2026 00:01:00 +0000"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "published_at": "Tue, 17 Nov 2026 23:37:48 +0000"
+    },
+    {
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "published_at": "Tue, 17 Nov 2026 23:09:09 +0000"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "published_at": "Tue, 17 Nov 2026 23:04:35 +0000"
+    },
+    {
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "published_at": "Tue, 17 Nov 2026 22:44:46 +0000"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "published_at": "Tue, 17 Nov 2026 22:42:27 +0000"
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "published_at": "Tue, 17 Nov 2026 22:32:16 +0000"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "published_at": "Tue, 17 Nov 2026 22:29:05 +0000"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "published_at": "Tue, 17 Nov 2026 21:48:07 +0000"
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "published_at": "Tue, 17 Nov 2026 21:34:50 +0000"
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "published_at": "Tue, 17 Nov 2026 20:32:55 +0000"
+    },
+    {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "published_at": "Tue, 17 Nov 2026 19:49:41 +0000"
+    },
+    {
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "published_at": "Tue, 17 Nov 2026 19:45:25 +0000"
+    },
+    {
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "published_at": "Tue, 17 Nov 2026 18:26:26 +0000"
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "published_at": "Tue, 17 Nov 2026 18:13:34 +0000"
+    },
+    {
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "published_at": "Tue, 17 Nov 2026 18:00:51 +0000"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "published_at": "Tue, 17 Nov 2026 16:50:10 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-18.svg",
+  "generated_at": "2026-11-18T14:10:41+05:30"
+}

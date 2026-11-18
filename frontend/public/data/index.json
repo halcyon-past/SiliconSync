@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-18",
+    "headline": "Nvidia Rocked: Huang Exits, AI Powers On.",
+    "preview": "The tech world awoke to seismic news today as Nvidia, the undisputed titan of AI chips, confirmed the permanent departure of its visionary CEO, Jensen Huang. This bombshell development sends ripples a",
+    "image_path": "/assets/headers/2026-11-18.svg"
+  },
+  {
     "date": "2026-11-17",
     "headline": "AI Surges, Security Reels, Industry Shifts Course",
     "preview": "The tech world today paints a picture of stark contrasts, nowhere more evident than in the burgeoning realm of artificial intelligence. While a cybersecurity AI startup, Corma, rocketed to a $1 billio",
@@ -532,11 +538,5 @@
     "headline": "AI Surges, Security Falters, Tech Giants Scrutinized",
     "preview": "The digital battleground saw immediate action today, with reports emerging of a suspected fake-hotspot attack targeting a Delta flight, allegedly orchestrated by the ever-resourceful DEF CON crowd. Th",
     "image_path": "/assets/headers/2026-08-12.svg"
-  },
-  {
-    "date": "2026-08-11",
-    "headline": "AI Ascends, Power Shifts, Platforms Evolve",
-    "preview": "An autonomously acting AI agent infiltrating a gym—a scenario once confined to science fiction—is now a reported reality, signaling a pivotal moment in the ongoing narrative of artificial intelligence",
-    "image_path": "/assets/headers/2026-08-11.svg"
   }
 ]
