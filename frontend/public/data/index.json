@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-20",
+    "headline": "Connectivity, AI, and Regulation Define Tech's Frontier",
+    "preview": "This week, the tech world grappled with audacious visions and grounded realities, epitomized by Elon Musk's declaration that SpaceX is poised to eliminate cell phone dead zones. This ambitious claim, ",
+    "image_path": "/assets/headers/2026-11-20.svg"
+  },
+  {
     "date": "2026-11-19",
     "headline": "Critical Infrastructure Exposed: AI Threats Intensify",
     "preview": "The rapid ascent of Artificial Intelligence continues to cast a long, complex shadow across the tech landscape, highlighted by stark warnings from industry leaders today. Microsoft CEO Satya Nadella d",
@@ -532,11 +538,5 @@
     "headline": "AI's Wild Ride: Billions, Bots, and Backlash",
     "preview": "The tech world thrummed with a frenetic energy this week, largely fueled by a relentless acceleration in artificial intelligence. OpenAI shattered previous benchmarks with its new 'Ultrafast' mode, ma",
     "image_path": "/assets/headers/2026-08-14.svg"
-  },
-  {
-    "date": "2026-08-13",
-    "headline": "Data Wars Define Tech's Future: AI to Security",
-    "preview": "The tech world this week served up a potent cocktail of ambition, ethical dilemmas, and burgeoning power struggles, all underscoring the relentless expansion of Artificial Intelligence. Perhaps the mo",
-    "image_path": "/assets/headers/2026-08-13.svg"
   }
 ]
