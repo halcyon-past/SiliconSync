@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-21",
+    "headline": "AI's Reckoning: Privacy, Power, and NVIDIA's Shakeup",
+    "preview": "The tech world today paints a stark picture of AI's burgeoning influence, shadowed by profound ethical and privacy dilemmas. Disturbing reports revealed a \"privacy disaster\" as a researcher's \"canarie",
+    "image_path": "/assets/headers/2026-11-21.svg"
+  },
+  {
     "date": "2026-11-20",
     "headline": "Connectivity, AI, and Regulation Define Tech's Frontier",
     "preview": "This week, the tech world grappled with audacious visions and grounded realities, epitomized by Elon Musk's declaration that SpaceX is poised to eliminate cell phone dead zones. This ambitious claim, ",
@@ -532,11 +538,5 @@
     "headline": "Big Tech in Flux: AI, Regulation, Autonomy Accelerate",
     "preview": "The tech world wakes to a potential seismic shift as reports confirm advanced talks to sell payments giant PayPal to a consortium of Stripe and Advent. This potential consolidation, blending establish",
     "image_path": "/assets/headers/2026-08-15.svg"
-  },
-  {
-    "date": "2026-08-14",
-    "headline": "AI's Wild Ride: Billions, Bots, and Backlash",
-    "preview": "The tech world thrummed with a frenetic energy this week, largely fueled by a relentless acceleration in artificial intelligence. OpenAI shattered previous benchmarks with its new 'Ultrafast' mode, ma",
-    "image_path": "/assets/headers/2026-08-14.svg"
   }
 ]

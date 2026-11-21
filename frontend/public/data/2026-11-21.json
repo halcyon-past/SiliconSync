@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-21",
+  "headline": "AI's Reckoning: Privacy, Power, and NVIDIA's Shakeup",
+  "summary": "The tech world today paints a stark picture of AI's burgeoning influence, shadowed by profound ethical and privacy dilemmas. Disturbing reports revealed a \"privacy disaster\" as a researcher's \"canaries\" in the AI supply chain surfaced widespread user data exposure, alongside warnings of prevalent \"honey-trap schemes\" targeting AI professionals. Further underscoring these vulnerabilities, a transcription firm servicing law enforcement and tech giants alike was found to have exposed customer data online. Meanwhile, the sheer energy demands of AI data centers forced Meta to reconsider its ambitious 2030 net-zero emissions goal, putting a spotlight on the environmental cost of this technological acceleration.\n\nYet, even as these concerns mounted, AI's relentless march of innovation continued to reshape the digital landscape. Google made a bold move, unveiling a radical new search homepage that integrates AI chat history and surprisingly, removes the traditional search button, signifying a profound shift in how we interact with information. On the scientific front, AI remarkably claimed a solution to the 167-year-old Riemann hypothesis, paralleling a human achievement. The quest for sustainable power for AI's immense appetite also saw Spotify founder Daniel Ek backing an AI researcher's fusion power startup, while \"super-hot rock geothermal\" emerged as a potential savior for data center energy woes. Consumer adoption also surged with a wave of new AI-powered gadgets poised to smarten the home office.\n\nBeyond the AI frontier, the industry witnessed significant corporate shifts and competitive skirmishes. Perhaps the most seismic news was the reported exit of Jensen Huang from NVIDIA, an event raising questions about a management style reportedly built on fear and signaling a monumental change at the helm of a crucial AI chip powerhouse. In M&A news, Bending Spoons acquired email marketing giant Mailchimp for a hefty $3.68 billion, consolidating market power. Meanwhile, Apple found itself embroiled in an Indian lawsuit over its tap-to-share contacts feature, highlighting ongoing global scrutiny over platform dominance. Even the gaming hardware sector wasn't immune, with Valve hinting at potential price hikes for its supply-limited Steam Machines.\n\nRegulatory battles and geopolitical tensions further complicated the tech narrative. The Trump FCC issued a controversial order declaring California couldn't enforce its own phone service rules, reigniting federal versus state authority debates. SpaceX's Starshield program faced mounting troubles in Ukraine, threatening its broader military business prospects and underscoring the delicate interplay between commercial technology and national security. Domestically, prisons gained approval to jam contraband phones, a move drawing fire from CTIA over potential collateral jamming of nearby legitimate devices. In the burgeoning space economy, discussions centered on whether the financing for space-grade chips could match their resilience in orbit, while NASA's new Moon plan began to take clearer, albeit still uncertain, shape.\n\nThe confluence of these stories reveals a tech industry at a critical inflection point. As AI rapidly integrates into every facet of our lives, the tension between unprecedented innovation and the imperative for ethical governance, data privacy, and environmental responsibility will only intensify. Coupled with significant leadership changes at industry titans and escalating regulatory oversight, the coming months promise a relentless recalibration of power dynamics and a deeper examination of tech's true societal cost and benefit. Watch closely how these foundational shifts inform the next generation of policy, product, and leadership.",
+  "articles": [
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "published_at": "Sat, 21 Nov 2026 04:00:00 +0000"
+    },
+    {
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "published_at": "Fri, 20 Nov 2026 22:28:24 +0000"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "published_at": "Fri, 20 Nov 2026 22:16:51 +0000"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published_at": "Fri, 20 Nov 2026 21:58:29 +0000"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published_at": "Fri, 20 Nov 2026 21:47:10 +0000"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published_at": "Fri, 20 Nov 2026 20:59:08 +0000"
+    },
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "published_at": "Fri, 20 Nov 2026 20:58:29 +0000"
+    },
+    {
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "published_at": "Fri, 20 Nov 2026 20:41:17 +0000"
+    },
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "published_at": "Fri, 20 Nov 2026 20:26:33 +0000"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published_at": "Fri, 20 Nov 2026 19:53:41 +0000"
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "published_at": "Fri, 20 Nov 2026 19:52:59 +0000"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published_at": "Fri, 20 Nov 2026 19:32:08 +0000"
+    },
+    {
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "published_at": "Fri, 20 Nov 2026 19:21:50 +0000"
+    },
+    {
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "published_at": "Fri, 20 Nov 2026 18:34:00 +0000"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "published_at": "Fri, 20 Nov 2026 17:40:01 +0000"
+    },
+    {
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "published_at": "Fri, 20 Nov 2026 16:16:06 +0000"
+    },
+    {
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "published_at": "Fri, 20 Nov 2026 16:11:21 +0000"
+    },
+    {
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "published_at": "Fri, 20 Nov 2026 15:46:07 +0000"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "published_at": "Fri, 20 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "published_at": "Fri, 20 Nov 2026 13:25:00 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-21.svg",
+  "generated_at": "2026-11-21T13:53:55+05:30"
+}
