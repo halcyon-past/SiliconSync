@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-22",
+    "headline": "AI's Shadow Grows: Privacy, Power, and Policy Clashes",
+    "preview": "The tech world awoke to a palpable sense of unease this week, as the looming specter of AI surveillance prompted a drastic move from privacy stalwart Signal: mobile screenshot restrictions. This wasn'",
+    "image_path": "/assets/headers/2026-11-22.svg"
+  },
+  {
     "date": "2026-11-21",
     "headline": "AI's Reckoning: Privacy, Power, and NVIDIA's Shakeup",
     "preview": "The tech world today paints a stark picture of AI's burgeoning influence, shadowed by profound ethical and privacy dilemmas. Disturbing reports revealed a \"privacy disaster\" as a researcher's \"canarie",
@@ -532,11 +538,5 @@
     "headline": "AI Ethics, Cyber Threats, and Industry Evolution",
     "preview": "The past period casts a chilling shadow over the rapid ascent of AI, with a disturbing claim surfacing that Grok was used to generate explicit imagery from a childhood photo. This alleged misuse immed",
     "image_path": "/assets/headers/2026-08-16.svg"
-  },
-  {
-    "date": "2026-08-15",
-    "headline": "Big Tech in Flux: AI, Regulation, Autonomy Accelerate",
-    "preview": "The tech world wakes to a potential seismic shift as reports confirm advanced talks to sell payments giant PayPal to a consortium of Stripe and Advent. This potential consolidation, blending establish",
-    "image_path": "/assets/headers/2026-08-15.svg"
   }
 ]

@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-22",
+  "headline": "AI's Shadow Grows: Privacy, Power, and Policy Clashes",
+  "summary": "The tech world awoke to a palpable sense of unease this week, as the looming specter of AI surveillance prompted a drastic move from privacy stalwart Signal: mobile screenshot restrictions. This wasn't an isolated incident; rather, it underscored a broader, urgent conversation around data security and AI's insidious capabilities. Reports surfaced of a troubling FBI database hack, while a researcher's \"canary trap\" exposed a privacy disaster stemming from a leaky AI supply chain. Further fueling the fire, experts issued stark warnings about AI professionals being highly susceptible to sophisticated \"honey-trap\" schemes, illustrating a multi-faceted threat landscape where privacy is increasingly under siege from both state-level actors and emergent AI vulnerabilities.\n\nBeyond the immediate privacy concerns, artificial intelligence continued its inexorable march into every facet of digital life, albeit with growing ethical and environmental questions. Google dramatically reshaped its search homepage around AI chat history, even removing the iconic search button, signaling a complete paradigm shift. Users are now interacting with AI agents directly in text messages, and even selling AI versions of their faces to microdrama startups, pointing to a future where digital identity is fluid and AI-driven. However, this relentless expansion comes at a cost: Meta is reportedly reconsidering its 2030 net-zero emissions goal, grappling with the skyrocketing energy demands of its AI data centers. Yet, AI’s potential for good still shines through, as evidenced by its alleged breakthrough on the 167-year-old Riemann hypothesis and a Spotify founder's backing of an AI-driven fusion power startup.\n\nMeanwhile, the established order of the tech industry faced its own set of challenges, navigating complex market dynamics and an ever-evolving regulatory landscape. Nvidia, a titan of AI hardware, found itself the subject of a nuanced analysis highlighting its dual-edged market position. Apple, accustomed to dominance, faced a new legal battle in India over its tap-to-share contacts feature, underscoring global scrutiny over its ecosystem. Geopolitical tensions weighed heavily on SpaceX, whose Starshield troubles in Ukraine threaten to jeopardize its broader military contracts, revealing the delicate balance between commercial innovation and national interests.\n\nPolicy debates raged closer to home too, with the Trump FCC controversially asserting that California could not enforce its own phone service rules, a move that could set a precedent for federal preemption over state tech regulations. This comes as prisons received clearance to jam contraband phones, a measure that the CTIA warns could inadvertently affect legitimate nearby users. This week's developments paint a clear picture: technology, particularly AI, is progressing at an unprecedented pace, challenging existing frameworks for privacy, sustainability, and governance. The lines between innovation and risk are blurring rapidly, demanding a proactive and nuanced response from industry leaders and policymakers alike.\n\nThe coming months will be crucial as we watch how regulators respond to these escalating AI privacy threats and environmental impacts. Will companies like Meta find sustainable solutions for their AI ambitions? How will the market balance Nvidia’s dual role, and what new legal precedents will emerge from the global challenges facing tech giants? The increasing integration of AI into our daily lives, from our search engines to our personal data, means that the outcomes of these battles will directly shape our digital future.",
+  "articles": [
+    {
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "published_at": "Sat, 21 Nov 2026 22:12:41 +0000"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published_at": "Sat, 21 Nov 2026 21:37:10 +0000"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published_at": "Sat, 21 Nov 2026 21:07:42 +0000"
+    },
+    {
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "published_at": "Sat, 21 Nov 2026 18:44:53 +0000"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "Sat, 21 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published_at": "Sat, 21 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "published_at": "Sat, 21 Nov 2026 15:18:29 +0000"
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "published_at": "Sat, 21 Nov 2026 12:01:13 +0000"
+    },
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "published_at": "Sat, 21 Nov 2026 04:00:00 +0000"
+    },
+    {
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "published_at": "Fri, 20 Nov 2026 22:28:24 +0000"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "published_at": "Fri, 20 Nov 2026 22:16:51 +0000"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published_at": "Fri, 20 Nov 2026 21:58:29 +0000"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published_at": "Fri, 20 Nov 2026 21:47:10 +0000"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published_at": "Fri, 20 Nov 2026 20:59:08 +0000"
+    },
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "published_at": "Fri, 20 Nov 2026 20:58:29 +0000"
+    },
+    {
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "published_at": "Fri, 20 Nov 2026 20:41:17 +0000"
+    },
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "published_at": "Fri, 20 Nov 2026 20:26:33 +0000"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published_at": "Fri, 20 Nov 2026 19:53:41 +0000"
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "published_at": "Fri, 20 Nov 2026 19:52:59 +0000"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published_at": "Fri, 20 Nov 2026 19:32:08 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-22.svg",
+  "generated_at": "2026-11-22T13:46:11+05:30"
+}
