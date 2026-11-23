@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-23",
+    "headline": "AI's Reckoning: Power, Privacy, Planet's Plight",
+    "preview": "This week, the ever-accelerating march of artificial intelligence revealed itself as a double-edged sword, showcasing both its immense financial power and the growing, often uncomfortable, questions i",
+    "image_path": "/assets/headers/2026-11-23.svg"
+  },
+  {
     "date": "2026-11-22",
     "headline": "AI's Shadow Grows: Privacy, Power, and Policy Clashes",
     "preview": "The tech world awoke to a palpable sense of unease this week, as the looming specter of AI surveillance prompted a drastic move from privacy stalwart Signal: mobile screenshot restrictions. This wasn'",
@@ -532,11 +538,5 @@
     "headline": "Stripe's Ambition, AI's Reckoning, Green Energy's Rise",
     "preview": "The tech world awoke to a torrent of seismic shifts this week, none more prominent than the audacious expansion playbook being executed by payments giant Stripe. Not content with its reported talks to",
     "image_path": "/assets/headers/2026-08-17.svg"
-  },
-  {
-    "date": "2026-08-16",
-    "headline": "AI Ethics, Cyber Threats, and Industry Evolution",
-    "preview": "The past period casts a chilling shadow over the rapid ascent of AI, with a disturbing claim surfacing that Grok was used to generate explicit imagery from a childhood photo. This alleged misuse immed",
-    "image_path": "/assets/headers/2026-08-16.svg"
   }
 ]
