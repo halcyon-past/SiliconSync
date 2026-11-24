@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-24",
+    "headline": "Huang Returns: AI's Power and Peril",
+    "preview": "The tech world reeled today from a development many saw as both audacious and inevitable: Jensen Huang's reinstatement as CEO and board chair of Nvidia. Despite a swirling scandal that has implicated ",
+    "image_path": "/assets/headers/2026-11-24.svg"
+  },
+  {
     "date": "2026-11-23",
     "headline": "AI's Reckoning: Power, Privacy, Planet's Plight",
     "preview": "This week, the ever-accelerating march of artificial intelligence revealed itself as a double-edged sword, showcasing both its immense financial power and the growing, often uncomfortable, questions i",
@@ -532,11 +538,5 @@
     "headline": "AI's Billions, Big Tech Bets, Privacy Battles Erupt",
     "preview": "The tech world this week witnessed the staggering financial ascent of artificial intelligence, epitomized by Anthropic's eye-watering annualized revenue surging to $65 billion. This monumental figure ",
     "image_path": "/assets/headers/2026-08-18.svg"
-  },
-  {
-    "date": "2026-08-17",
-    "headline": "Stripe's Ambition, AI's Reckoning, Green Energy's Rise",
-    "preview": "The tech world awoke to a torrent of seismic shifts this week, none more prominent than the audacious expansion playbook being executed by payments giant Stripe. Not content with its reported talks to",
-    "image_path": "/assets/headers/2026-08-17.svg"
   }
 ]
