@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-25",
+    "headline": "Jensen Huang Under Fire As AI Faces Reality Check",
+    "preview": "The tech world's gaze remains fixed on Nvidia CEO Jensen Huang, whose controversial leadership and the company's market dominance are drawing increasing scrutiny. Amid a stunning public statement from",
+    "image_path": "/assets/headers/2026-11-25.svg"
+  },
+  {
     "date": "2026-11-24",
     "headline": "Huang Returns: AI's Power and Peril",
     "preview": "The tech world reeled today from a development many saw as both audacious and inevitable: Jensen Huang's reinstatement as CEO and board chair of Nvidia. Despite a swirling scandal that has implicated ",
@@ -532,11 +538,5 @@
     "headline": "Policy Battles, AI Surges, Innovation Reshapes Tech",
     "preview": "This week, the usually forward-looking tech sector found itself grappling with a significant rollback, as the fallout from RFK Jr.'s actions in healthcare research drew widespread condemnation. Expert",
     "image_path": "/assets/headers/2026-08-19.svg"
-  },
-  {
-    "date": "2026-08-18",
-    "headline": "AI's Billions, Big Tech Bets, Privacy Battles Erupt",
-    "preview": "The tech world this week witnessed the staggering financial ascent of artificial intelligence, epitomized by Anthropic's eye-watering annualized revenue surging to $65 billion. This monumental figure ",
-    "image_path": "/assets/headers/2026-08-18.svg"
   }
 ]

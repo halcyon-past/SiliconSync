@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-25",
+  "headline": "Jensen Huang Under Fire As AI Faces Reality Check",
+  "summary": "The tech world's gaze remains fixed on Nvidia CEO Jensen Huang, whose controversial leadership and the company's market dominance are drawing increasing scrutiny. Amid a stunning public statement from Yale's Jeffrey Sonnenfeld labeling Nvidia a \"detriment\" to U.S. industrial might rather than a champion, reports surfaced that former President Trump might consider pardoning Huang – a surprising political entanglement for a tech titan currently in therapy and defiantly eschewing a succession plan. This unfolding drama paints a vivid picture of a leader, and a company, grappling with immense power and unprecedented pressure.\n\nBeyond the boardroom battles, Artificial Intelligence continues its tumultuous trajectory. While Meta and Walmart are teaming up to integrate AI agent Muse into the Black Friday shopping experience, showcasing commercial ambition, the technology's inherent struggles persist, with even \"the best\" AI agents fumbling with everyday tasks. The market is also showing cracks, as Anthropic's shares dipped below their IPO price, signaling potential investor skepticism for AI startups. Alarmingly, the UK issued a stark warning about AI-driven cyberattacks exploiting systemic security weaknesses, while Tidal's decision to ban and delete 27 million AI-generated music tracks highlights the burgeoning ethical and content integrity challenges facing the industry. Even foundational research, like the Riemann hypothesis, suggests AI has significant intellectual hurdles yet to clear.\n\nThe fragility of critical digital infrastructure was starkly illuminated this week. Microsoft grappled with a \"historic\" cloud outage, revealing an internal \"fog of war\" among its engineers, underscoring the complexities of modern system failures. Meanwhile, physical infrastructure proved equally vulnerable, with dozens of oil and shipping tankers falling victim to cyberattacks, posing significant risks to global supply chains. Even NASA's venerable Mars fleet wasn't immune, with half its aging orbiters and rovers knocked offline by technical glitches, a sobering reminder that even the most advanced systems have a finite lifespan and demand constant vigilance.\n\nThe logistics of innovation also faced real-world tests. Amazon's drone delivery ambitions hit a snag with a crash involving a shampoo delivery, prompting an FAA probe into the nascent technology's safety protocols. Yet, in another corner of Amazon's empire, the company found itself leaning on rival SpaceX's Falcon 9 and Europe's Ariane 6 to accelerate its space launches, demonstrating the critical, and often shifting, dependencies in the modern space economy. Meanwhile, a glimpse into future mobility arrived with the electric Porsche 718 Boxster prototype, proving that even iconic internal combustion designs are swiftly embracing the EV revolution.\n\nLooking ahead, the convergence of these stories suggests a period of intense reckoning for the tech industry. The saga of Nvidia and Jensen Huang will continue to shape debates around corporate power and national interest. The AI sector faces an urgent mandate to balance innovation with ethical oversight, market stability, and robust cybersecurity. And as our reliance on complex digital and physical infrastructure grows, the imperative for resilience and security has never been clearer. Expect heightened regulatory scrutiny, intensified competition, and a renewed focus on foundational reliability as these narratives unfold into the new year.",
+  "articles": [
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published_at": "Wed, 25 Nov 2026 00:12:02 +0000"
+    },
+    {
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "published_at": "Wed, 25 Nov 2026 00:10:27 +0000"
+    },
+    {
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "published_at": "Tue, 24 Nov 2026 22:50:11 +0000"
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "published_at": "Tue, 24 Nov 2026 22:36:28 +0000"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "published_at": "Tue, 24 Nov 2026 22:27:52 +0000"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published_at": "Tue, 24 Nov 2026 21:48:27 +0000"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published_at": "Tue, 24 Nov 2026 21:33:29 +0000"
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "published_at": "Tue, 24 Nov 2026 21:32:38 +0000"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published_at": "Tue, 24 Nov 2026 21:19:52 +0000"
+    },
+    {
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "published_at": "Tue, 24 Nov 2026 21:09:04 +0000"
+    },
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "published_at": "Tue, 24 Nov 2026 20:34:53 +0000"
+    },
+    {
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "published_at": "Tue, 24 Nov 2026 20:00:18 +0000"
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published_at": "Tue, 24 Nov 2026 18:47:57 +0000"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "published_at": "Tue, 24 Nov 2026 18:30:42 +0000"
+    },
+    {
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "published_at": "Tue, 24 Nov 2026 18:30:36 +0000"
+    },
+    {
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "published_at": "Tue, 24 Nov 2026 18:18:37 +0000"
+    },
+    {
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+      "published_at": "Tue, 24 Nov 2026 18:03:58 +0000"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "published_at": "Tue, 24 Nov 2026 18:02:59 +0000"
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "published_at": "Tue, 24 Nov 2026 17:34:34 +0000"
+    },
+    {
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "published_at": "Tue, 24 Nov 2026 16:58:20 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-25.svg",
+  "generated_at": "2026-11-25T15:27:30+05:30"
+}
