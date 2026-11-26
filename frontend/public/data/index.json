@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-26",
+    "headline": "Tech Titans Tumble, AI Ascends, Privacy Precarious",
+    "preview": "The tech world is reeling from a significant corporate governance shockwave as S&P Global considers downgrading Nvidia's credit rating, citing both governance issues and \"key man\" risks associated wit",
+    "image_path": "/assets/headers/2026-11-26.svg"
+  },
+  {
     "date": "2026-11-25",
     "headline": "Jensen Huang Under Fire As AI Faces Reality Check",
     "preview": "The tech world's gaze remains fixed on Nvidia CEO Jensen Huang, whose controversial leadership and the company's market dominance are drawing increasing scrutiny. Amid a stunning public statement from",
@@ -532,11 +538,5 @@
     "headline": "AI Reality Check: Autonomy Rolls Out Amid Skepticism",
     "preview": "The tech world today paints a nuanced picture, dominated by the swirling currents of artificial intelligence – its audacious acquisitions, its burgeoning applications, and perhaps most tellingly, its ",
     "image_path": "/assets/headers/2026-08-20.svg"
-  },
-  {
-    "date": "2026-08-19",
-    "headline": "Policy Battles, AI Surges, Innovation Reshapes Tech",
-    "preview": "This week, the usually forward-looking tech sector found itself grappling with a significant rollback, as the fallout from RFK Jr.'s actions in healthcare research drew widespread condemnation. Expert",
-    "image_path": "/assets/headers/2026-08-19.svg"
   }
 ]
