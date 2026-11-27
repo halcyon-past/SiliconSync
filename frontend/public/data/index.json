@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-27",
+    "headline": "Nvidia's Crisis, SpaceX's Vision: A Tech Crossroads",
+    "preview": "The tech world is reeling from an unprecedented wave of scrutiny targeting a titan: Nvidia. Chip giant Nvidia faces a potential credit downgrade from S&P, citing grave concerns over corporate governan",
+    "image_path": "/assets/headers/2026-11-27.svg"
+  },
+  {
     "date": "2026-11-26",
     "headline": "Tech Titans Tumble, AI Ascends, Privacy Precarious",
     "preview": "The tech world is reeling from a significant corporate governance shockwave as S&P Global considers downgrading Nvidia's credit rating, citing both governance issues and \"key man\" risks associated wit",
@@ -532,11 +538,5 @@
     "headline": "Autonomy Unleashed: AI Surges, Privacy Challenges Mount",
     "preview": "The lines between science fiction and reality blurred further this week as a wave of automation breakthroughs promised to redefine our physical world, while the relentless march of AI deepened its int",
     "image_path": "/assets/headers/2026-08-21.svg"
-  },
-  {
-    "date": "2026-08-20",
-    "headline": "AI Reality Check: Autonomy Rolls Out Amid Skepticism",
-    "preview": "The tech world today paints a nuanced picture, dominated by the swirling currents of artificial intelligence – its audacious acquisitions, its burgeoning applications, and perhaps most tellingly, its ",
-    "image_path": "/assets/headers/2026-08-20.svg"
   }
 ]
