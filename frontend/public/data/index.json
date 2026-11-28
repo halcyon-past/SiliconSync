@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-28",
+    "headline": "Nvidia's Unsteady Reign Amidst AI's Orbital Expansion",
+    "preview": "The tech world is grappling with a surprising tremor from its bedrock: Nvidia, the undisputed titan of AI chips, finds itself under unprecedented scrutiny. S&P is reportedly weighing a credit downgrad",
+    "image_path": "/assets/headers/2026-11-28.svg"
+  },
+  {
     "date": "2026-11-27",
     "headline": "Nvidia's Crisis, SpaceX's Vision: A Tech Crossroads",
     "preview": "The tech world is reeling from an unprecedented wave of scrutiny targeting a titan: Nvidia. Chip giant Nvidia faces a potential credit downgrade from S&P, citing grave concerns over corporate governan",
@@ -532,11 +538,5 @@
     "headline": "Live Skin AI, Smut, and Unicorns: Tech's Wild Ride",
     "preview": "The cutting edge of artificial intelligence this week offered a stark reminder of its dual nature: breathtaking innovation often accompanied by profound ethical questions. The most striking news emerg",
     "image_path": "/assets/headers/2026-08-22.svg"
-  },
-  {
-    "date": "2026-08-21",
-    "headline": "Autonomy Unleashed: AI Surges, Privacy Challenges Mount",
-    "preview": "The lines between science fiction and reality blurred further this week as a wave of automation breakthroughs promised to redefine our physical world, while the relentless march of AI deepened its int",
-    "image_path": "/assets/headers/2026-08-21.svg"
   }
 ]

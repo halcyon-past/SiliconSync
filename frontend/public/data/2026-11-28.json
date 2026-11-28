@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-28",
+  "headline": "Nvidia's Unsteady Reign Amidst AI's Orbital Expansion",
+  "summary": "The tech world is grappling with a surprising tremor from its bedrock: Nvidia, the undisputed titan of AI chips, finds itself under unprecedented scrutiny. S&P is reportedly weighing a credit downgrade, citing critical governance failures and unsettling \"key man\" risks centered around CEO Jensen Huang. This comes on the heels of internal revelations of Huang breaching the company's code of conduct and a mysterious \"Alice Huang\" spy narrative swirling. Further compounding concerns, Nvidia has paused chip shipments to Southeast Asia, a move that hints at geopolitical or logistical headwinds, signaling deeper instability for a company whose silicon underpins much of the AI revolution.\n\nYet, even as the semiconductor king faces internal strife, the AI empire continues its relentless expansion. The FCC has granted a landmark approval for SpaceX to deploy AI data centers in orbit, pushing the computational frontier beyond Earth's atmosphere. OpenAI, meanwhile, is refining its dominion over generative AI, merging its consumer Chat and enterprise Work platforms, albeit with a caveat: heavy users may soon encounter stricter limits, a sign of both immense demand and strategic resource management. This dual approach of expansion and optimization reflects a maturing, yet still wildly ambitious, AI landscape, even as a rival like Kagi dares to launch a Gmail competitor, challenging established internet giants.\n\nOn the ground, consumer technology continues its dynamic dance between innovation and shifting user expectations. Apple's iPhone Duo is evidently reshaping personal device interaction, suggesting a successful foray into new form factors. In a quirkier market development, the officially canceled Tesla Cybertruck has ironically become America's fastest-selling used pickup, a testament to its controversial allure and the enduring power of brand mystique. Social media giant X, after two decades, finally implemented parental controls, a long-overdue feature highlighting evolving accountability for platform stewardship, while cloud storage provider Backblaze stirred privacy debates by clarifying its stance on sharing customer data with advertisers.\n\nBeyond the digital realm, scientific and automotive pursuits push boundaries. European space agency efforts returned a chaotic, yet fascinating, view of the aftermath of an asteroid deflection experiment, underscoring humanity's nascent planetary defense capabilities. Environmentally, new data revealed that draining peatlands contributes a significant percentage to global warming, a stark reminder of our interconnected ecosystems. Meanwhile, the automotive world revs up for the future, with Ford unveiling its GT41, hoping to reclaim Le Mans glory, and Volvo showcasing its updated 2028 plug-in hybrids, reinforcing the ongoing transition to electrified mobility with bigger batteries.\n\nThis week's deluge of news paints a picture of a tech sector at a fascinating, if precarious, inflection point. The stability of industry leaders like Nvidia, the audacious expansion of AI into extraterrestrial domains, the constant push-and-pull of consumer privacy, and the ever-evolving automotive landscape all converge to define 2026. As geopolitical tensions reportedly influence corporate decisions—with Intel's alleged choice between a payment to Trump or consequences—and the pace of innovation accelerates, the coming months promise continued volatility and groundbreaking developments, particularly in AI's ethical governance and the resilience of its key enablers.",
+  "articles": [
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "published_at": "Wed, 25 Nov 2026 22:44:32 +0000"
+    },
+    {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "published_at": "Wed, 25 Nov 2026 22:36:45 +0000"
+    },
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "published_at": "Wed, 25 Nov 2026 20:57:09 +0000"
+    },
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "published_at": "Wed, 25 Nov 2026 20:56:44 +0000"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published_at": "Wed, 25 Nov 2026 20:03:27 +0000"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published_at": "Wed, 25 Nov 2026 19:54:57 +0000"
+    },
+    {
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "published_at": "Wed, 25 Nov 2026 19:54:32 +0000"
+    },
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "published_at": "Wed, 25 Nov 2026 18:38:29 +0000"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published_at": "Thu, 26 Nov 2026 20:03:54 +0000"
+    },
+    {
+      "title": "Is Alice Huang a spy or not?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "published_at": "Thu, 26 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "title": "X finally gets parental controls after 20 years",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "published_at": "Thu, 26 Nov 2026 19:31:50 +0000"
+    },
+    {
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "published_at": "Thu, 26 Nov 2026 18:00:29 +0000"
+    },
+    {
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "published_at": "Thu, 26 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published_at": "Thu, 26 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "published_at": "Thu, 26 Nov 2026 12:15:42 +0000"
+    },
+    {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "published_at": "Thu, 26 Nov 2026 12:00:14 +0000"
+    },
+    {
+      "title": "The best Black Friday deals Ars could find",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "published_at": "Fri, 27 Nov 2026 17:05:37 +0000"
+    },
+    {
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published_at": "Fri, 27 Nov 2026 12:05:01 +0000"
+    },
+    {
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "published_at": "Fri, 27 Nov 2026 11:30:04 +0000"
+    },
+    {
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "published_at": "Fri, 27 Nov 2026 08:00:53 +0000"
+    }
+  ],
+  "image_path": "/assets/headers/2026-11-28.svg",
+  "generated_at": "2026-11-28T14:29:18+05:30"
+}
